@@ -1,0 +1,521 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#dd3e90",
+                    "title": "Деревянный ящик 2",
+                    "article": "",
+                    "group_id": "1ik3pndcdenxxua4osqbdpm5vib68kp7",
+                    "group_title": "Группа 3"
+                },
+                "mass": 94.0,
+                "size": {
+                    "width": 900,
+                    "height": 124,
+                    "length": 670
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vtqryvwtn7ejilqudymplorx4avwd4wo",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cc8c16",
+                    "title": "Картонная коробка",
+                    "article": "",
+                    "group_id": "2owfdlff10xy6lnstfntf4xar8a8hw6j",
+                    "group_title": "Группа 2"
+                },
+                "mass": 67.0,
+                "size": {
+                    "width": 600,
+                    "height": 970,
+                    "length": 1310
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 6,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "yjz6q7pqhke6zyum6b3b6ibfkpgmp6jb",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e5448f",
+                    "title": "дер. ящик",
+                    "article": "",
+                    "group_id": "3bf4vkvxwdljmqydxet1rj3x4g0snjyf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 2340,
+                    "height": 1010,
+                    "length": 1310
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xoikcoukntl0dvyikrwepj3kldvzikin",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 306,
+            "info": {
+                "uid": "306_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370,
+            "size": {
+                "width": 2438,
+                "height": 2591,
+                "length": 6058
+            },
+            "type": "container",
+            "axles": [],
+            "title": "20' DC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2393,
+                "length": 5898
+            },
+            "carrying_capacity": 28335,
+            "last_changed_user_id": null
+        },
+        "calculation_id": "17337"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 7,
+                "info": {
+                    "color": "#e5448f",
+                    "title": "дер. ящик",
+                    "article": "",
+                    "group_id": "3bf4vkvxwdljmqydxet1rj3x4g0snjyf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 2340.0,
+                    "height": 1010.0,
+                    "length": 1310.0
+                },
+                "sort": 3,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xoikcoukntl0dvyikrwepj3kldvzikin",
+                "position": {
+                    "x": 542.1980519480521,
+                    "y": 0.0,
+                    "z": 12.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2340.0,
+                    "height": 1010.0,
+                    "length": 1310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#cc8c16",
+                    "title": "Картонная коробка",
+                    "article": "",
+                    "group_id": "2owfdlff10xy6lnstfntf4xar8a8hw6j",
+                    "group_title": "Группа 2"
+                },
+                "mass": 67.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 970.0,
+                    "length": 1310.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yjz6q7pqhke6zyum6b3b6ibfkpgmp6jb",
+                "position": {
+                    "x": 1852.1980519480521,
+                    "y": 0.0,
+                    "z": 1322.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 970.0,
+                    "length": 1310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#cc8c16",
+                    "title": "Картонная коробка",
+                    "article": "",
+                    "group_id": "2owfdlff10xy6lnstfntf4xar8a8hw6j",
+                    "group_title": "Группа 2"
+                },
+                "mass": 67.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 970.0,
+                    "length": 1310.0
+                },
+                "sort": 2,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yjz6q7pqhke6zyum6b3b6ibfkpgmp6jb",
+                "position": {
+                    "x": 1852.1980519480521,
+                    "y": 0.0,
+                    "z": 12.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1310.0,
+                    "height": 970.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#cc8c16",
+                    "title": "Картонная коробка",
+                    "article": "",
+                    "group_id": "2owfdlff10xy6lnstfntf4xar8a8hw6j",
+                    "group_title": "Группа 2"
+                },
+                "mass": 67.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 970.0,
+                    "length": 1310.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yjz6q7pqhke6zyum6b3b6ibfkpgmp6jb",
+                "position": {
+                    "x": 2452.198051948052,
+                    "y": 0.0,
+                    "z": 12.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1310.0,
+                    "height": 970.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#cc8c16",
+                    "title": "Картонная коробка",
+                    "article": "",
+                    "group_id": "2owfdlff10xy6lnstfntf4xar8a8hw6j",
+                    "group_title": "Группа 2"
+                },
+                "mass": 67.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 970.0,
+                    "length": 1310.0
+                },
+                "sort": 2,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yjz6q7pqhke6zyum6b3b6ibfkpgmp6jb",
+                "position": {
+                    "x": 3162.198051948052,
+                    "y": 0.0,
+                    "z": 1322.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 970.0,
+                    "length": 1310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#cc8c16",
+                    "title": "Картонная коробка",
+                    "article": "",
+                    "group_id": "2owfdlff10xy6lnstfntf4xar8a8hw6j",
+                    "group_title": "Группа 2"
+                },
+                "mass": 67.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 970.0,
+                    "length": 1310.0
+                },
+                "sort": 2,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yjz6q7pqhke6zyum6b3b6ibfkpgmp6jb",
+                "position": {
+                    "x": 3052.198051948052,
+                    "y": 0.0,
+                    "z": 12.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1310.0,
+                    "height": 970.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#cc8c16",
+                    "title": "Картонная коробка",
+                    "article": "",
+                    "group_id": "2owfdlff10xy6lnstfntf4xar8a8hw6j",
+                    "group_title": "Группа 2"
+                },
+                "mass": 67.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 970.0,
+                    "length": 1310.0
+                },
+                "sort": 2,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yjz6q7pqhke6zyum6b3b6ibfkpgmp6jb",
+                "position": {
+                    "x": 3652.198051948052,
+                    "y": 0.0,
+                    "z": 12.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1310.0,
+                    "height": 970.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#dd3e90",
+                    "title": "Деревянный ящик 2",
+                    "article": "",
+                    "group_id": "1ik3pndcdenxxua4osqbdpm5vib68kp7",
+                    "group_title": "Группа 3"
+                },
+                "mass": 94.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 124.0,
+                    "length": 670.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vtqryvwtn7ejilqudymplorx4avwd4wo",
+                "position": {
+                    "x": 4252.198051948052,
+                    "y": 0.0,
+                    "z": 12.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 124.0,
+                    "length": 670.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 306,
+            "info": {
+                "uid": "306_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2591.0,
+                "length": 6058.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2393.0,
+                "length": 5898.0
+            },
+            "calculation_info": {
+                "step_count": 8,
+                "cargos_mass": 0.616,
+                "load_volume": 33.195925728,
+                "cargos_volume": 7.74535,
+                "count_cargoes": 8,
+                "load_capacity": 28.335,
+                "loading_height": 1.01,
+                "density_percent": 74.82203,
+                "remaining_volume": 25.45058,
+                "void_space_percent": 76.66778,
+                "filling_space_percent": 23.33222
+            },
+            "carrying_capacity": 28335.0,
+            "real_center_of_gravity": [
+                2949.0,
+                424.3474025974026,
+                943.7857142857143
+            ],
+            "ideal_center_of_gravity": [
+                2949.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingTwoBoxesInLayer",
+        "calculation_id": 17337,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

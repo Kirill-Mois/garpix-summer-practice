@@ -1,0 +1,915 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#4870a8",
+                    "title": "Тумба",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 1200,
+                    "height": 1200,
+                    "length": 1500
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "bmoni01rdpumssj9xn8g8pxwzhmk2onz",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#9cfc6c",
+                    "title": "Рес",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 400.0,
+                "size": {
+                    "width": 1200,
+                    "height": 1400,
+                    "length": 3000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "jeywiadsggs2d4vfvp2mtimdnr38elot",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#60e58e",
+                    "title": "Портал 2",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 400,
+                    "height": 500,
+                    "length": 3000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "jgu9k2gmvrzwy8iuzk4euxtixkm5zqrd",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#2a6aaf",
+                    "title": "Портал 1",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 400,
+                    "height": 400,
+                    "length": 4500
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nw9f4pfyoi8v04okywk4ly1f9cyvc6rx",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d8d84e",
+                    "title": "Пилон",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 400.0,
+                "size": {
+                    "width": 400,
+                    "height": 500,
+                    "length": 9000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "9yzenkg8cy6qqdgeqkxdwbxb1cnhsz6t",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 418,
+            "info": {
+                "uid": "418_0",
+                "sort": 0,
+                "title": "MAN 2 оси | полуприцеп 3 оси"
+            },
+            "mass": 9694,
+            "size": {
+                "width": 2500,
+                "height": 2679,
+                "length": 13550
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 2990,
+                    "max_load": 11000,
+                    "default_load": 2113
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360,
+                    "max_load": 11000,
+                    "default_load": 2090
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360,
+                    "max_load": 11000,
+                    "default_load": 2113
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 6240,
+                "max_load": 10058,
+                "default_load": 3378
+            },
+            "title": "MAN 2 оси | полуприцеп 3 оси",
+            "tractor": {
+                "mass": 7523,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1475,
+                        "max_load": 10000,
+                        "default_load": 6013
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 3900,
+                        "max_load": 11000,
+                        "default_load": 4888
+                    }
+                ],
+                "title": "Тягач MAN (Магнит)",
+                "length": 7110,
+                "hitch_distance": 885
+            },
+            "indentation": {
+                "width": 5,
+                "height": 0,
+                "length": 30,
+                "height_top": 89,
+                "length_end": 30,
+                "width_right": 5
+            },
+            "loading_size": {
+                "width": 2490,
+                "height": 2590,
+                "length": 13490
+            },
+            "carrying_capacity": 24000
+        },
+        "calculation_id": "15398"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 12,
+                "info": {
+                    "color": "#d8d84e",
+                    "title": "Пилон",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 400.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 500.0,
+                    "length": 9000.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "9yzenkg8cy6qqdgeqkxdwbxb1cnhsz6t",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1990.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 400.0,
+                    "length": 9000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#d8d84e",
+                    "title": "Пилон",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 400.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 500.0,
+                    "length": 9000.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "9yzenkg8cy6qqdgeqkxdwbxb1cnhsz6t",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1490.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 400.0,
+                    "length": 9000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#2a6aaf",
+                    "title": "Портал 1",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 4500.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nw9f4pfyoi8v04okywk4ly1f9cyvc6rx",
+                "position": {
+                    "x": 0.0,
+                    "y": 400.0,
+                    "z": 2090.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 4500.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#60e58e",
+                    "title": "Портал 2",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 500.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jgu9k2gmvrzwy8iuzk4euxtixkm5zqrd",
+                "position": {
+                    "x": 0.0,
+                    "y": 400.0,
+                    "z": 1590.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 400.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#60e58e",
+                    "title": "Портал 2",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 500.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jgu9k2gmvrzwy8iuzk4euxtixkm5zqrd",
+                "position": {
+                    "x": 0.0,
+                    "y": 800.0,
+                    "z": 1990.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 400.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#9cfc6c",
+                    "title": "Рес",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 400.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 1400.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jeywiadsggs2d4vfvp2mtimdnr38elot",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 1200.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#2a6aaf",
+                    "title": "Портал 1",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 4500.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nw9f4pfyoi8v04okywk4ly1f9cyvc6rx",
+                "position": {
+                    "x": 4500.0,
+                    "y": 400.0,
+                    "z": 2090.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 4500.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#60e58e",
+                    "title": "Портал 2",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 500.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jgu9k2gmvrzwy8iuzk4euxtixkm5zqrd",
+                "position": {
+                    "x": 3000.0,
+                    "y": 400.0,
+                    "z": 1590.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 400.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#9cfc6c",
+                    "title": "Рес",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 400.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 1400.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jeywiadsggs2d4vfvp2mtimdnr38elot",
+                "position": {
+                    "x": 3000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 1200.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#60e58e",
+                    "title": "Портал 2",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 500.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jgu9k2gmvrzwy8iuzk4euxtixkm5zqrd",
+                "position": {
+                    "x": 6000.0,
+                    "y": 400.0,
+                    "z": 1590.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 400.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#4870a8",
+                    "title": "Тумба",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 1500.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bmoni01rdpumssj9xn8g8pxwzhmk2onz",
+                "position": {
+                    "x": 6000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 1500.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#4870a8",
+                    "title": "Тумба",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 1500.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bmoni01rdpumssj9xn8g8pxwzhmk2onz",
+                "position": {
+                    "x": 7500.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 1500.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#4870a8",
+                    "title": "Тумба",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 1500.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bmoni01rdpumssj9xn8g8pxwzhmk2onz",
+                "position": {
+                    "x": 9000.0,
+                    "y": 0.0,
+                    "z": 1290.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 1500.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#4870a8",
+                    "title": "Тумба",
+                    "article": "",
+                    "group_id": "1biuyyevjp3z0hbmrssczpfjzvpgztov",
+                    "group_title": "Группа 1"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 1500.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bmoni01rdpumssj9xn8g8pxwzhmk2onz",
+                "position": {
+                    "x": 9000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 1500.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 418,
+            "info": {
+                "uid": "418_0",
+                "sort": 0,
+                "title": "MAN 2 оси | полуприцеп 3 оси"
+            },
+            "mass": 9694.0,
+            "size": {
+                "width": 2500.0,
+                "height": 2679.0,
+                "length": 13550.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 2990.0,
+                    "max_load": 11000.0,
+                    "default_load": 2113.0,
+                    "calculated_load": 2551.43575
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360.0,
+                    "max_load": 11000.0,
+                    "default_load": 2090.0,
+                    "calculated_load": 2528.43575
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360.0,
+                    "max_load": 11000.0,
+                    "default_load": 2113.0,
+                    "calculated_load": 2551.43575
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 6240.0,
+                "max_load": 10058.0,
+                "default_load": 3378.0,
+                "calculated_load": 4282.69274
+            },
+            "tractor": {
+                "mass": 7523.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1475.0,
+                        "max_load": 10000.0,
+                        "default_load": 6013.0,
+                        "calculated_load": 6218.29566
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 3900.0,
+                        "max_load": 11000.0,
+                        "default_load": 4888.0,
+                        "calculated_load": 5587.39708
+                    }
+                ],
+                "length": 7110.0,
+                "hitch_distance": 885.0
+            },
+            "full_length": 13550.0,
+            "indentation": {
+                "width": 5.0,
+                "height": 0.0,
+                "length": 30.0,
+                "height_top": 89.0,
+                "length_end": 30.0,
+                "width_right": 5.0
+            },
+            "loading_size": {
+                "width": 2490.0,
+                "height": 2590.0,
+                "length": 13490.0
+            },
+            "calculation_info": {
+                "step_count": 14,
+                "cargos_mass": 2.22,
+                "load_volume": 86.998359,
+                "cargos_volume": 26.16,
+                "count_cargoes": 14,
+                "load_capacity": 24.0,
+                "loading_height": 1.2,
+                "density_percent": 83.38114,
+                "remaining_volume": 60.83836,
+                "void_space_percent": 69.93047,
+                "filling_space_percent": 30.06953
+            },
+            "carrying_capacity": 24000.0,
+            "real_center_of_gravity": [
+                4486.486486486487,
+                464.86486486486484,
+                1380.2702702702702
+            ],
+            "ideal_center_of_gravity": [
+                6745.0,
+                0.0,
+                1245.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingTruck PackingLayers",
+        "calculation_id": 15398,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

@@ -1,0 +1,1123 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#eabe2c",
+                    "title": "standard spare parts",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 500,
+                    "height": 500,
+                    "length": 600
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "n1egl0wgbhdioa5vcfl3r840dlhftssb",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1f43e2",
+                    "title": "Anti-vibration pads",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250,
+                    "height": 250,
+                    "length": 300
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 5,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "pjdwqsvowah87gobzbjj7ogovvdll39s",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#18547f",
+                    "title": "Mold clamps",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250,
+                    "height": 250,
+                    "length": 300
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "oraxixgjgtozy6jxbssuqi4919hkmwdp",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#67e20f",
+                    "title": "Mold heater VTW-09W",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 68.0,
+                "size": {
+                    "width": 400,
+                    "height": 840,
+                    "length": 1050
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "jqhsp5pbk6yzldicjxbzllmzompy7dl3",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#dde02c",
+                    "title": "Chiller WSIA-10",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 480.0,
+                "size": {
+                    "width": 2040,
+                    "height": 1760,
+                    "length": 1040
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "np7hzzzvfgrvvzgw1gl8puf4bo7qp5ur",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ba711d",
+                    "title": "Mold heater VTW-06W",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 68.0,
+                "size": {
+                    "width": 400,
+                    "height": 840,
+                    "length": 1050
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "3xin4ksustxoxwgujzmr9hqcicu9fgml",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ccc50a",
+                    "title": "Hopper dryer WSDB-50",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 600,
+                    "height": 980,
+                    "length": 940
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "7fox8zfy1omhxgibcyrooowamdwxswby",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d6dd4f",
+                    "title": "Автозгрузчик WSAL-400G",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 32.0,
+                "size": {
+                    "width": 440,
+                    "height": 880,
+                    "length": 540
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "okdq17h36iodgbrjdlysta5vmozirwd1",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6746b5",
+                    "title": "IMM Bi320-M",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11000.0,
+                "size": {
+                    "width": 1750,
+                    "height": 2100,
+                    "length": 6800
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "9ged1wzwdzb6wtloqwtcqjr0jtktiekx",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c9546b",
+                    "title": "IMM Bi90-M",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3000.0,
+                "size": {
+                    "width": 1240,
+                    "height": 1700,
+                    "length": 4220
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "qrdhg7u9gynwefk6jjhsitfzyaeeybts",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 102,
+            "info": {
+                "uid": "102_0",
+                "sort": 0,
+                "title": "Стандартный 40 футовый контейнер"
+            },
+            "mass": 4400,
+            "size": {
+                "width": 2352,
+                "height": 2385,
+                "length": 12032
+            },
+            "type": "container",
+            "axles": [],
+            "title": "Стандартный 40 футовый контейнер",
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2385,
+                "length": 12032
+            },
+            "carrying_capacity": 26600
+        },
+        "calculation_id": "16862"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 8,
+                "info": {
+                    "color": "#18547f",
+                    "title": "Mold clamps",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 250.0,
+                    "length": 300.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oraxixgjgtozy6jxbssuqi4919hkmwdp",
+                "position": {
+                    "x": 2262.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#18547f",
+                    "title": "Mold clamps",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 250.0,
+                    "length": 300.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oraxixgjgtozy6jxbssuqi4919hkmwdp",
+                "position": {
+                    "x": 2512.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#1f43e2",
+                    "title": "Anti-vibration pads",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 250.0,
+                    "length": 300.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pjdwqsvowah87gobzbjj7ogovvdll39s",
+                "position": {
+                    "x": 2762.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#1f43e2",
+                    "title": "Anti-vibration pads",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 250.0,
+                    "length": 300.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pjdwqsvowah87gobzbjj7ogovvdll39s",
+                "position": {
+                    "x": 3012.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#1f43e2",
+                    "title": "Anti-vibration pads",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 250.0,
+                    "length": 300.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pjdwqsvowah87gobzbjj7ogovvdll39s",
+                "position": {
+                    "x": 3262.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#1f43e2",
+                    "title": "Anti-vibration pads",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 250.0,
+                    "length": 300.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pjdwqsvowah87gobzbjj7ogovvdll39s",
+                "position": {
+                    "x": 3512.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#1f43e2",
+                    "title": "Anti-vibration pads",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 250.0,
+                    "length": 300.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pjdwqsvowah87gobzbjj7ogovvdll39s",
+                "position": {
+                    "x": 3762.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#d6dd4f",
+                    "title": "Автозгрузчик WSAL-400G",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 32.0,
+                "size": {
+                    "width": 440.0,
+                    "height": 880.0,
+                    "length": 540.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "okdq17h36iodgbrjdlysta5vmozirwd1",
+                "position": {
+                    "x": 4012.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 540.0,
+                    "height": 440.0,
+                    "length": 880.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#d6dd4f",
+                    "title": "Автозгрузчик WSAL-400G",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 32.0,
+                "size": {
+                    "width": 440.0,
+                    "height": 880.0,
+                    "length": 540.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "okdq17h36iodgbrjdlysta5vmozirwd1",
+                "position": {
+                    "x": 4892.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 540.0,
+                    "height": 440.0,
+                    "length": 880.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#eabe2c",
+                    "title": "standard spare parts",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 500.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "n1egl0wgbhdioa5vcfl3r840dlhftssb",
+                "position": {
+                    "x": 5772.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#eabe2c",
+                    "title": "standard spare parts",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 500.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "n1egl0wgbhdioa5vcfl3r840dlhftssb",
+                "position": {
+                    "x": 6372.0,
+                    "y": 0.0,
+                    "z": 1812.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#6746b5",
+                    "title": "IMM Bi320-M",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 11000.0,
+                "size": {
+                    "width": 1750.0,
+                    "height": 2100.0,
+                    "length": 6800.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "9ged1wzwdzb6wtloqwtcqjr0jtktiekx",
+                "position": {
+                    "x": 172.0,
+                    "y": 0.0,
+                    "z": 62.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1750.0,
+                    "height": 2100.0,
+                    "length": 6800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#dde02c",
+                    "title": "Chiller WSIA-10",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 480.0,
+                "size": {
+                    "width": 2040.0,
+                    "height": 1760.0,
+                    "length": 1040.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "np7hzzzvfgrvvzgw1gl8puf4bo7qp5ur",
+                "position": {
+                    "x": 6972.0,
+                    "y": 0.0,
+                    "z": 1302.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1040.0,
+                    "height": 1760.0,
+                    "length": 2040.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#ccc50a",
+                    "title": "Hopper dryer WSDB-50",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 980.0,
+                    "length": 940.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7fox8zfy1omhxgibcyrooowamdwxswby",
+                "position": {
+                    "x": 9012.0,
+                    "y": 0.0,
+                    "z": 1302.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 980.0,
+                    "height": 600.0,
+                    "length": 940.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#ccc50a",
+                    "title": "Hopper dryer WSDB-50",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 980.0,
+                    "length": 940.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7fox8zfy1omhxgibcyrooowamdwxswby",
+                "position": {
+                    "x": 9952.0,
+                    "y": 0.0,
+                    "z": 1302.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 980.0,
+                    "height": 600.0,
+                    "length": 940.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#ba711d",
+                    "title": "Mold heater VTW-06W",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 68.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 840.0,
+                    "length": 1050.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3xin4ksustxoxwgujzmr9hqcicu9fgml",
+                "position": {
+                    "x": 10892.0,
+                    "y": 0.0,
+                    "z": 1302.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1050.0,
+                    "height": 400.0,
+                    "length": 840.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#c9546b",
+                    "title": "IMM Bi90-M",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3000.0,
+                "size": {
+                    "width": 1240.0,
+                    "height": 1700.0,
+                    "length": 4220.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "qrdhg7u9gynwefk6jjhsitfzyaeeybts",
+                "position": {
+                    "x": 6972.0,
+                    "y": 0.0,
+                    "z": 62.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1240.0,
+                    "height": 1700.0,
+                    "length": 4220.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#67e20f",
+                    "title": "Mold heater VTW-09W",
+                    "article": "",
+                    "group_id": "1ryewbhht9zxbbadwioqemm92plrqpnz",
+                    "group_title": "Группа 1"
+                },
+                "mass": 68.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 840.0,
+                    "length": 1050.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jqhsp5pbk6yzldicjxbzllmzompy7dl3",
+                "position": {
+                    "x": 11192.0,
+                    "y": 0.0,
+                    "z": 62.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1050.0,
+                    "height": 400.0,
+                    "length": 840.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 102,
+            "info": {
+                "uid": "102_0",
+                "sort": 0,
+                "title": "Стандартный 40 футовый контейнер"
+            },
+            "mass": 4400.0,
+            "size": {
+                "width": 2352.0,
+                "height": 2385.0,
+                "length": 12032.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 0.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2385.0,
+                "length": 12032.0
+            },
+            "calculation_info": {
+                "step_count": 18,
+                "cargos_mass": 14.963,
+                "load_volume": 67.49374464,
+                "cargos_volume": 40.28024,
+                "count_cargoes": 18,
+                "load_capacity": 26.6,
+                "loading_height": 2.1,
+                "density_percent": 70.62405,
+                "remaining_volume": 27.2135,
+                "void_space_percent": 40.32004,
+                "filling_space_percent": 59.67996
+            },
+            "carrying_capacity": 26600.0,
+            "real_center_of_gravity": [
+                4955.152108534385,
+                977.7187061418165,
+                940.6459934505112
+            ],
+            "ideal_center_of_gravity": [
+                6016.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingStepByStep",
+        "calculation_id": 16862,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

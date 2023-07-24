@@ -1,0 +1,775 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730,
+                    "height": 730,
+                    "length": 2712
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 13,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 274,
+            "info": {
+                "uid": "274_0",
+                "sort": 0,
+                "title": "Полуприцеп 3"
+            },
+            "mass": 8793,
+            "size": {
+                "width": 2040,
+                "height": 2679,
+                "length": 9560
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1660,
+                    "max_load": 9375,
+                    "default_load": 2325
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360,
+                    "max_load": 9375,
+                    "default_load": 2325
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360,
+                    "max_load": 9375,
+                    "default_load": 2325
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 4500,
+                "max_load": 9375,
+                "default_load": 2325
+            },
+            "title": "Полуприцеп 3",
+            "tractor": {
+                "mass": 4932,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1000,
+                        "max_load": 7300,
+                        "default_load": 2250
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2200,
+                        "max_load": 7300,
+                        "default_load": 2250
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1380,
+                        "max_load": 7300,
+                        "default_load": 2250
+                    }
+                ],
+                "title": "Тягач №3 (3 оси)",
+                "length": 7110,
+                "hitch_distance": 1060
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 340,
+                "height_top": 5,
+                "length_end": 340,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2040,
+                "height": 2674,
+                "length": 8880
+            },
+            "carrying_capacity": 28200
+        },
+        "calculation_id": "16607"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 1,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 730.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 0.0,
+                    "y": 730.0,
+                    "z": 730.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 0.0,
+                    "y": 730.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 0.0,
+                    "y": 1460.0,
+                    "z": 730.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 0.0,
+                    "y": 1460.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 2712.0,
+                    "y": 0.0,
+                    "z": 730.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 2712.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 2712.0,
+                    "y": 730.0,
+                    "z": 730.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 2712.0,
+                    "y": 730.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 5424.0,
+                    "y": 0.0,
+                    "z": 730.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 5424.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#1edb99",
+                    "title": "Ролик 2622",
+                    "article": "",
+                    "group_id": "18zm3k3jscyb9pjvwrok9qoimtdxwoxn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a3n2gs1pggg5xxeskq7d5ti9ageafepr",
+                "position": {
+                    "x": 5424.0,
+                    "y": 730.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 730.0,
+                    "height": 730.0,
+                    "length": 2712.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 274,
+            "info": {
+                "uid": "274_0",
+                "sort": 0,
+                "title": "Полуприцеп 3"
+            },
+            "mass": 8793.0,
+            "size": {
+                "width": 2040.0,
+                "height": 2679.0,
+                "length": 9560.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1660.0,
+                    "max_load": 9375.0,
+                    "default_load": 2325.0,
+                    "calculated_load": 8929.44058
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360.0,
+                    "max_load": 9375.0,
+                    "default_load": 2325.0,
+                    "calculated_load": 8929.44058
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360.0,
+                    "max_load": 9375.0,
+                    "default_load": 2325.0,
+                    "calculated_load": 8929.44058
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 4500.0,
+                "max_load": 9375.0,
+                "default_load": 2325.0,
+                "calculated_load": 8953.67826
+            },
+            "tractor": {
+                "mass": 4932.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1000.0,
+                        "max_load": 7300.0,
+                        "default_load": 2250.0,
+                        "calculated_load": 4681.27992
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2200.0,
+                        "max_load": 7300.0,
+                        "default_load": 2250.0,
+                        "calculated_load": 4348.69917
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1380.0,
+                        "max_load": 7300.0,
+                        "default_load": 2250.0,
+                        "calculated_load": 4348.69917
+                    }
+                ],
+                "length": 7110.0,
+                "hitch_distance": 1060.0
+            },
+            "full_length": 9560.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 340.0,
+                "height_top": 5.0,
+                "length_end": 340.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2040.0,
+                "height": 2674.0,
+                "length": 8880.0
+            },
+            "calculation_info": {
+                "step_count": 13,
+                "cargos_mass": 26.442,
+                "load_volume": 48.4400448,
+                "cargos_volume": 18.78792,
+                "count_cargoes": 13,
+                "load_capacity": 28.2,
+                "loading_height": 2.19,
+                "density_percent": 72.22222,
+                "remaining_volume": 29.65212,
+                "void_space_percent": 61.21407,
+                "filling_space_percent": 38.78593
+            },
+            "carrying_capacity": 28200.0,
+            "real_center_of_gravity": [
+                3666.8165680473376,
+                891.9822485207101,
+                732.1597633136095
+            ],
+            "ideal_center_of_gravity": [
+                4440.0,
+                0.0,
+                1020.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingTruck PackingSmallBlocks",
+        "calculation_id": 16607,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [
+            "ERROR_CONTAINER_AXLES_DEFAULT_LOAD_SUM",
+            "ERROR_CONTAINER_AXLES_LOAD_SUM"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

@@ -1,0 +1,851 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900,
+                    "height": 800,
+                    "length": 1000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 12,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200,
+                    "height": 145,
+                    "length": 800
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 5,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "t70odk5q9iqyu6nxkssgsqkkhgqcvabi",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 266,
+            "info": {
+                "uid": "266_0",
+                "sort": 0,
+                "title": "40' HC (valid)"
+            },
+            "mass": 4200,
+            "size": {
+                "width": 2438,
+                "height": 2896,
+                "length": 12192
+            },
+            "type": "container",
+            "axles": [],
+            "title": "40' HC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2698,
+                "length": 12032
+            },
+            "carrying_capacity": 28650
+        },
+        "calculation_id": "16727"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 15,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t70odk5q9iqyu6nxkssgsqkkhgqcvabi",
+                "position": {
+                    "x": 1709.8562091503272,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t70odk5q9iqyu6nxkssgsqkkhgqcvabi",
+                "position": {
+                    "x": 2509.8562091503272,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 3309.8562091503272,
+                    "y": 0.0,
+                    "z": 1352.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 3309.8562091503272,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 4209.856209150327,
+                    "y": 0.0,
+                    "z": 1352.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 4209.856209150327,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 5109.856209150327,
+                    "y": 0.0,
+                    "z": 1352.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 5109.856209150327,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 6009.856209150327,
+                    "y": 0.0,
+                    "z": 1352.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 6009.856209150327,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 6909.856209150327,
+                    "y": 0.0,
+                    "z": 1352.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 6909.856209150327,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 7809.856209150327,
+                    "y": 0.0,
+                    "z": 1352.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pogq17e2rmjbcbjc4wluyjtms5ycnavh",
+                "position": {
+                    "x": 7809.856209150327,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 800.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t70odk5q9iqyu6nxkssgsqkkhgqcvabi",
+                "position": {
+                    "x": 8709.856209150326,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t70odk5q9iqyu6nxkssgsqkkhgqcvabi",
+                "position": {
+                    "x": 9509.856209150326,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "1zvqnyjvtackotqh2js3sd5bubicf7qf",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t70odk5q9iqyu6nxkssgsqkkhgqcvabi",
+                "position": {
+                    "x": 10309.856209150326,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 266,
+            "info": {
+                "uid": "266_0",
+                "sort": 0,
+                "title": "40' HC (valid)"
+            },
+            "mass": 4200.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2896.0,
+                "length": 12192.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2698.0,
+                "length": 12032.0
+            },
+            "calculation_info": {
+                "step_count": 17,
+                "cargos_mass": 1.1475,
+                "load_volume": 76.351414272,
+                "cargos_volume": 9.336,
+                "count_cargoes": 17,
+                "load_capacity": 28.65,
+                "loading_height": 0.8,
+                "density_percent": 44.70031,
+                "remaining_volume": 67.01541,
+                "void_space_percent": 87.77233,
+                "filling_space_percent": 12.22767
+            },
+            "carrying_capacity": 28650.0,
+            "real_center_of_gravity": [
+                6016.0,
+                397.859477124183,
+                1172.2352941176468
+            ],
+            "ideal_center_of_gravity": [
+                6016.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingContainerPoint",
+        "calculation_id": 16727,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

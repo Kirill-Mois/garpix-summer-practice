@@ -1,0 +1,417 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#49d16f",
+                    "title": "Фрезерно-Расточной станок  TK9211B с ЧПУ",
+                    "article": "",
+                    "group_id": "1chzlbdsjczcwavy0szuw6p4m5cqolr8",
+                    "group_title": "Группа 2"
+                },
+                "mass": 9000.0,
+                "size": {
+                    "width": 2186,
+                    "height": 2339,
+                    "length": 3290
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "5vmqjkgnhrblnihsp2l2crbixcw6pmha",
+                "stacking": false,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#9cd149",
+                    "title": "Устройство для удаления стружки",
+                    "article": "",
+                    "group_id": "1chzlbdsjczcwavy0szuw6p4m5cqolr8",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 2200,
+                    "height": 2000,
+                    "length": 3300
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "i3nmqqb6kujhxw2ofqmuvsdms2egvf01",
+                "stacking": false,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#b649d1",
+                    "title": "Цанга ф 13мм 173Е толкающего типа",
+                    "article": "",
+                    "group_id": "1chzlbdsjczcwavy0szuw6p4m5cqolr8",
+                    "group_title": "Группа 2"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 350,
+                    "height": 590,
+                    "length": 600
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "81tuofjxsdwmhsy8xtnm4rnafbklb4sj",
+                "stacking": false,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 418,
+            "info": {
+                "uid": "418_0",
+                "sort": 0,
+                "title": "MAN 2 оси | полуприцеп 3 оси"
+            },
+            "mass": 9694,
+            "size": {
+                "width": 2500,
+                "height": 2679,
+                "length": 13550
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 2990,
+                    "max_load": 11000,
+                    "default_load": 2113
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360,
+                    "max_load": 11000,
+                    "default_load": 2090
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360,
+                    "max_load": 11000,
+                    "default_load": 2113
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 6240,
+                "max_load": 10058,
+                "default_load": 3378
+            },
+            "title": "MAN 2 оси | полуприцеп 3 оси",
+            "tractor": {
+                "mass": 7523,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1475,
+                        "max_load": 10000,
+                        "default_load": 6013
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 3900,
+                        "max_load": 11000,
+                        "default_load": 4888
+                    }
+                ],
+                "title": "Тягач MAN (Магнит)",
+                "length": 7110,
+                "hitch_distance": 885
+            },
+            "indentation": {
+                "width": 5,
+                "height": 0,
+                "length": 30,
+                "height_top": 89,
+                "length_end": 30,
+                "width_right": 5
+            },
+            "loading_size": {
+                "width": 2490,
+                "height": 2590,
+                "length": 13490
+            },
+            "carrying_capacity": 24000
+        },
+        "calculation_id": "16827"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#49d16f",
+                    "title": "Фрезерно-Расточной станок  TK9211B с ЧПУ",
+                    "article": "",
+                    "group_id": "1chzlbdsjczcwavy0szuw6p4m5cqolr8",
+                    "group_title": "Группа 2"
+                },
+                "mass": 9000.0,
+                "size": {
+                    "width": 2186.0,
+                    "height": 2339.0,
+                    "length": 3290.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "5vmqjkgnhrblnihsp2l2crbixcw6pmha",
+                "position": {
+                    "x": 3275.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2186.0,
+                    "height": 2339.0,
+                    "length": 3290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#9cd149",
+                    "title": "Устройство для удаления стружки",
+                    "article": "",
+                    "group_id": "1chzlbdsjczcwavy0szuw6p4m5cqolr8",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 2200.0,
+                    "height": 2000.0,
+                    "length": 3300.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "i3nmqqb6kujhxw2ofqmuvsdms2egvf01",
+                "position": {
+                    "x": 6565.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2200.0,
+                    "length": 3300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#b649d1",
+                    "title": "Цанга ф 13мм 173Е толкающего типа",
+                    "article": "",
+                    "group_id": "1chzlbdsjczcwavy0szuw6p4m5cqolr8",
+                    "group_title": "Группа 2"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 350.0,
+                    "height": 590.0,
+                    "length": 600.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "81tuofjxsdwmhsy8xtnm4rnafbklb4sj",
+                "position": {
+                    "x": 9865.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 590.0,
+                    "height": 600.0,
+                    "length": 350.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 418,
+            "info": {
+                "uid": "418_0",
+                "sort": 0,
+                "title": "MAN 2 оси | полуприцеп 3 оси"
+            },
+            "mass": 9694.0,
+            "size": {
+                "width": 2500.0,
+                "height": 2679.0,
+                "length": 13550.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 2990.0,
+                    "max_load": 11000.0,
+                    "default_load": 2113.0,
+                    "calculated_load": 4650.50466
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360.0,
+                    "max_load": 11000.0,
+                    "default_load": 2090.0,
+                    "calculated_load": 4627.50466
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360.0,
+                    "max_load": 11000.0,
+                    "default_load": 2113.0,
+                    "calculated_load": 4650.50466
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 6240.0,
+                "max_load": 10058.0,
+                "default_load": 3378.0,
+                "calculated_load": 5845.48603
+            },
+            "tractor": {
+                "mass": 7523.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1475.0,
+                        "max_load": 10000.0,
+                        "default_load": 6013.0,
+                        "calculated_load": 6572.92952
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 3900.0,
+                        "max_load": 11000.0,
+                        "default_load": 4888.0,
+                        "calculated_load": 6795.55651
+                    }
+                ],
+                "length": 7110.0,
+                "hitch_distance": 885.0
+            },
+            "full_length": 13550.0,
+            "indentation": {
+                "width": 5.0,
+                "height": 0.0,
+                "length": 30.0,
+                "height_top": 89.0,
+                "length_end": 30.0,
+                "width_right": 5.0
+            },
+            "loading_size": {
+                "width": 2490.0,
+                "height": 2590.0,
+                "length": 13490.0
+            },
+            "calculation_info": {
+                "step_count": 3,
+                "cargos_mass": 10.08,
+                "load_volume": 86.998359,
+                "cargos_volume": 31.46585,
+                "count_cargoes": 3,
+                "load_capacity": 24.0,
+                "loading_height": 2.339,
+                "density_percent": 60.24496,
+                "remaining_volume": 55.53251,
+                "void_space_percent": 63.83168,
+                "filling_space_percent": 36.16832
+            },
+            "carrying_capacity": 24000.0,
+            "real_center_of_gravity": [
+                5287.519841269841,
+                1155.704365079365,
+                1077.4404761904761
+            ],
+            "ideal_center_of_gravity": [
+                6745.0,
+                0.0,
+                1245.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingTruck PackingTwoBoxesInLayer",
+        "calculation_id": 16827,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

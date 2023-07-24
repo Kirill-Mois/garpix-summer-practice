@@ -1,0 +1,302 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#ce2132",
+                    "title": "Редуктор Специальный",
+                    "article": "",
+                    "group_id": "1ylu9bjx3biedv4gbv7smrvqvuu5ni44",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2900.0,
+                "size": {
+                    "width": 1000,
+                    "height": 1450,
+                    "length": 1550
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "oy4fv21mq5xg0mgeuqml6i8nevgmgnyn",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 264,
+            "info": {
+                "uid": "264_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370,
+            "size": {
+                "width": 2438,
+                "height": 2591,
+                "length": 6058
+            },
+            "type": "container",
+            "axles": [],
+            "title": "20' DC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2393,
+                "length": 5898
+            },
+            "carrying_capacity": 28335
+        },
+        "calculation_id": "16441"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#ce2132",
+                    "title": "Редуктор Специальный",
+                    "article": "",
+                    "group_id": "1ylu9bjx3biedv4gbv7smrvqvuu5ni44",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2900.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 1450.0,
+                    "length": 1550.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oy4fv21mq5xg0mgeuqml6i8nevgmgnyn",
+                "position": {
+                    "x": 49.0,
+                    "y": 0.0,
+                    "z": 401.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1550.0,
+                    "height": 1000.0,
+                    "length": 1450.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#ce2132",
+                    "title": "Редуктор Специальный",
+                    "article": "",
+                    "group_id": "1ylu9bjx3biedv4gbv7smrvqvuu5ni44",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2900.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 1450.0,
+                    "length": 1550.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oy4fv21mq5xg0mgeuqml6i8nevgmgnyn",
+                "position": {
+                    "x": 1499.0,
+                    "y": 0.0,
+                    "z": 401.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1550.0,
+                    "height": 1000.0,
+                    "length": 1450.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#ce2132",
+                    "title": "Редуктор Специальный",
+                    "article": "",
+                    "group_id": "1ylu9bjx3biedv4gbv7smrvqvuu5ni44",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2900.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 1450.0,
+                    "length": 1550.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oy4fv21mq5xg0mgeuqml6i8nevgmgnyn",
+                "position": {
+                    "x": 2949.0,
+                    "y": 0.0,
+                    "z": 401.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1550.0,
+                    "height": 1000.0,
+                    "length": 1450.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#ce2132",
+                    "title": "Редуктор Специальный",
+                    "article": "",
+                    "group_id": "1ylu9bjx3biedv4gbv7smrvqvuu5ni44",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2900.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 1450.0,
+                    "length": 1550.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oy4fv21mq5xg0mgeuqml6i8nevgmgnyn",
+                "position": {
+                    "x": 4399.0,
+                    "y": 0.0,
+                    "z": 401.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1550.0,
+                    "height": 1000.0,
+                    "length": 1450.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 264,
+            "info": {
+                "uid": "264_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2591.0,
+                "length": 6058.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2393.0,
+                "length": 5898.0
+            },
+            "calculation_info": {
+                "step_count": 4,
+                "cargos_mass": 11.6,
+                "load_volume": 33.195925728,
+                "cargos_volume": 8.99,
+                "count_cargoes": 4,
+                "load_capacity": 28.335,
+                "loading_height": 1.0,
+                "density_percent": 100.0,
+                "remaining_volume": 24.20593,
+                "void_space_percent": 72.91836,
+                "filling_space_percent": 27.08164
+            },
+            "carrying_capacity": 28335.0,
+            "real_center_of_gravity": [
+                2949.0,
+                500.0,
+                1176.0
+            ],
+            "ideal_center_of_gravity": [
+                2949.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingLayers",
+        "calculation_id": 16441,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

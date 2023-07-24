@@ -1,0 +1,1308 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#ba641a",
+                    "title": "ST64",
+                    "article": "",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 340,
+                    "height": 310,
+                    "length": 680
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "szjeybczicau6zefevcdrjnvkmnnnbys",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d3a31d",
+                    "title": "G95",
+                    "article": "",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 520,
+                    "height": 290,
+                    "length": 520
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "jxjduqtejux97jxid6df9z71wqv1edc9",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#a8f709",
+                    "title": "Коробы 3",
+                    "article": "1",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 350,
+                    "height": 170,
+                    "length": 580
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "uslttklkfb5au7jegy7snatiodyqplya",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200,
+                    "height": 200,
+                    "length": 250
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 47,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "stacking": false,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 97,
+            "info": {
+                "uid": "97_0",
+                "sort": 0,
+                "title": "EURO",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 20,
+            "size": {
+                "width": 800,
+                "height": 200,
+                "length": 1200
+            },
+            "type": "pallet",
+            "axles": [],
+            "title": "EURO",
+            "margin": {
+                "width": 0,
+                "height": 0,
+                "length": 0
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 800,
+                "height": 2000,
+                "length": 1200
+            },
+            "carrying_capacity": 1000
+        },
+        "calculation_id": "16991"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 4,
+                "info": {
+                    "color": "#a8f709",
+                    "title": "Коробы 3",
+                    "article": "1",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 350.0,
+                    "height": 170.0,
+                    "length": 580.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uslttklkfb5au7jegy7snatiodyqplya",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 630.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 170.0,
+                    "height": 350.0,
+                    "length": 580.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#d3a31d",
+                    "title": "G95",
+                    "article": "",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 520.0,
+                    "height": 290.0,
+                    "length": 520.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jxjduqtejux97jxid6df9z71wqv1edc9",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 520.0,
+                    "height": 290.0,
+                    "length": 520.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#a8f709",
+                    "title": "Коробы 3",
+                    "article": "1",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 350.0,
+                    "height": 170.0,
+                    "length": 580.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uslttklkfb5au7jegy7snatiodyqplya",
+                "position": {
+                    "x": 620.0,
+                    "y": 0.0,
+                    "z": 340.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 170.0,
+                    "length": 580.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#a8f709",
+                    "title": "Коробы 3",
+                    "article": "1",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 350.0,
+                    "height": 170.0,
+                    "length": 580.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uslttklkfb5au7jegy7snatiodyqplya",
+                "position": {
+                    "x": 620.0,
+                    "y": 170.0,
+                    "z": 340.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 170.0,
+                    "length": 580.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#ba641a",
+                    "title": "ST64",
+                    "article": "",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 340.0,
+                    "height": 310.0,
+                    "length": 680.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "szjeybczicau6zefevcdrjnvkmnnnbys",
+                "position": {
+                    "x": 520.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 340.0,
+                    "height": 310.0,
+                    "length": 680.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 0.0,
+                    "y": 350.0,
+                    "z": 600.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 0.0,
+                    "y": 290.0,
+                    "z": 400.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 0.0,
+                    "y": 290.0,
+                    "z": 200.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 0.0,
+                    "y": 290.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 200.0,
+                    "y": 350.0,
+                    "z": 600.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 200.0,
+                    "y": 290.0,
+                    "z": 400.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 400.0,
+                    "y": 350.0,
+                    "z": 600.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 600.0,
+                    "y": 340.0,
+                    "z": 600.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 400.0,
+                    "y": 290.0,
+                    "z": 400.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 600.0,
+                    "y": 340.0,
+                    "z": 400.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 800.0,
+                    "y": 340.0,
+                    "z": 540.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 1000.0,
+                    "y": 340.0,
+                    "z": 540.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 250.0,
+                    "y": 290.0,
+                    "z": 200.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 600.0,
+                    "y": 340.0,
+                    "z": 200.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 800.0,
+                    "y": 340.0,
+                    "z": 340.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 1000.0,
+                    "y": 340.0,
+                    "z": 340.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 250.0,
+                    "y": 290.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 600.0,
+                    "y": 310.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 800.0,
+                    "y": 310.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 200.0,
+                    "length": 250.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "position": {
+                    "x": 1000.0,
+                    "y": 310.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 97,
+            "info": {
+                "uid": "97_0",
+                "sort": 0,
+                "title": "EURO",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 20.0,
+            "size": {
+                "width": 800.0,
+                "height": 200.0,
+                "length": 1200.0
+            },
+            "type": "pallet",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": -1800.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 800.0,
+                "height": 2000.0,
+                "length": 1200.0
+            },
+            "calculation_info": {
+                "step_count": 25,
+                "cargos_mass": 0.054,
+                "load_volume": 1.92,
+                "cargos_volume": 0.45362,
+                "count_cargoes": 25,
+                "load_capacity": 1.0,
+                "loading_height": 0.6,
+                "density_percent": 78.75313,
+                "remaining_volume": 1.46638,
+                "void_space_percent": 76.37406,
+                "filling_space_percent": 23.62594
+            },
+            "carrying_capacity": 1000.0,
+            "real_center_of_gravity": [
+                641.1111111111109,
+                183.48148148148132,
+                433.7407407407404
+            ],
+            "ideal_center_of_gravity": [
+                600.0,
+                0.0,
+                400.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#05bf2a",
+                    "title": "Фруктовница",
+                    "article": "123",
+                    "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                    "group_title": "Группа 1"
+                },
+                "mass": 0.2,
+                "size": {
+                    "width": 200.0,
+                    "height": 250.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 27.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                "stacking": false,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorStayOnOtherStacking"
+            }
+        ],
+        "packing_type": "PackingLayers",
+        "calculation_id": 16991,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                        "info": {
+                            "color": "#05bf2a",
+                            "title": "Фруктовница",
+                            "article": "123",
+                            "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 5,
+                "name": "errorStayOnOtherStacking",
+                "boxes": [
+                    {
+                        "id": "tg7uhchudkm9ahlqsnenikbmm8codd6y",
+                        "info": {
+                            "color": "#05bf2a",
+                            "title": "Фруктовница",
+                            "article": "123",
+                            "group_id": "1h2s8yiwepa8rxhkccppzjnv3yetysiu",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [
+            "ERROR_INDENTATION"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

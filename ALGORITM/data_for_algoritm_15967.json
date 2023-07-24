@@ -1,0 +1,1533 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#ad0124",
+                    "title": "ЛАНИТ 113",
+                    "article": "",
+                    "group_id": "14pf8ebrc4n7ljasadkge6qcwoqvlzgv",
+                    "group_title": "Группа 4"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 800,
+                    "height": 2000,
+                    "length": 1400
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "wyb3setpf2ickdrxngvgd4ji5aozuzwd",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d8c704",
+                    "title": "ПРАЙДЕКС ГВ 200.199",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 110.0,
+                "size": {
+                    "width": 800,
+                    "height": 2000,
+                    "length": 1200
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "5psxlkwgumsvipespo6kwmpija3bj4sf",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#efcf5b",
+                    "title": "ПРАЙДЕКС 144. 154",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200,
+                    "height": 2000,
+                    "length": 1600
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ytignhht1vzfxvpsnmlgdebgnmoyeics",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6440b2",
+                    "title": "ПРАЙДЕКС 113.133.134.ГВ 202.201",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800,
+                    "height": 2000,
+                    "length": 1400
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 7,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "faubvc63868xa3jzflrznxjxs6his49y",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cf40f7",
+                    "title": "АЙ - ТЕКО",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800,
+                    "height": 200,
+                    "length": 1200
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "2gvvk13hjbm3wkdbgdqlb86h17oaexpx",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c42805",
+                    "title": "АЙ - ТЕКО 113",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800,
+                    "height": 2000,
+                    "length": 1400
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "bogmsbmm7uoi5xbcz2agrod3viskr7td",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e85f95",
+                    "title": "АЙ-ТЕКО 154",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200,
+                    "height": 2000,
+                    "length": 1600
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 5,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "siwfcwoi9jyqmpcerdez9x3girpvewoq",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#81e055",
+                    "title": "БС 150",
+                    "article": "",
+                    "group_id": "4xtfi1ne2g1drvab68rx2pekatntbv3a",
+                    "group_title": "Группа 1"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 800,
+                    "height": 1400,
+                    "length": 800
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "r2sxkxogu5gfoyyybs4q9fn6k1hp7opr",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ce4925",
+                    "title": "БС 850.950",
+                    "article": "",
+                    "group_id": "4xtfi1ne2g1drvab68rx2pekatntbv3a",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1100,
+                    "height": 200,
+                    "length": 1200
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "kf9ifer4zqzlihpsloingaf1t3wxgdiu",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#9d66f4",
+                    "title": "БС - ГРУП 134 ГВ. Ф",
+                    "article": "",
+                    "group_id": "4xtfi1ne2g1drvab68rx2pekatntbv3a",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800,
+                    "height": 200,
+                    "length": 1400
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vhxfjkdqa0xmc8rgznats40s6sf1rvib",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 491,
+            "info": {
+                "uid": "491_0",
+                "sort": 0,
+                "title": "Евро Фура"
+            },
+            "mass": 6500,
+            "size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13692
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300,
+                    "max_load": 9000,
+                    "default_load": 1670
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000,
+                "max_load": 12000,
+                "default_load": 1500
+            },
+            "title": "Евро Фура",
+            "tractor": {
+                "mass": 9000,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410,
+                        "max_load": 8000,
+                        "default_load": 6000
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827,
+                        "max_load": 11000,
+                        "default_load": 2300
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395,
+                        "max_load": 10000,
+                        "default_load": 2200
+                    }
+                ],
+                "title": "IVECO STRALIS AT440S42",
+                "length": 6140,
+                "hitch_distance": 778
+            },
+            "indentation": {
+                "width": 40,
+                "height": 0,
+                "length": 46,
+                "height_top": 210,
+                "length_end": 46,
+                "width_right": 40
+            },
+            "loading_size": {
+                "width": 2400,
+                "height": 2650,
+                "length": 13600
+            },
+            "carrying_capacity": 32500
+        },
+        "calculation_id": "15967"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 11,
+                "info": {
+                    "color": "#6440b2",
+                    "title": "ПРАЙДЕКС 113.133.134.ГВ 202.201",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "faubvc63868xa3jzflrznxjxs6his49y",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#efcf5b",
+                    "title": "ПРАЙДЕКС 144. 154",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 2000.0,
+                    "length": 1600.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ytignhht1vzfxvpsnmlgdebgnmoyeics",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1600.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#c42805",
+                    "title": "АЙ - ТЕКО 113",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 3,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bogmsbmm7uoi5xbcz2agrod3viskr7td",
+                "position": {
+                    "x": 1400.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#efcf5b",
+                    "title": "ПРАЙДЕКС 144. 154",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 2000.0,
+                    "length": 1600.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ytignhht1vzfxvpsnmlgdebgnmoyeics",
+                "position": {
+                    "x": 1200.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1600.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#c42805",
+                    "title": "АЙ - ТЕКО 113",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 3,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bogmsbmm7uoi5xbcz2agrod3viskr7td",
+                "position": {
+                    "x": 2800.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#e85f95",
+                    "title": "АЙ-ТЕКО 154",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 2000.0,
+                    "length": 1600.0
+                },
+                "sort": 3,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "siwfcwoi9jyqmpcerdez9x3girpvewoq",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1600.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#c42805",
+                    "title": "АЙ - ТЕКО 113",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 3,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bogmsbmm7uoi5xbcz2agrod3viskr7td",
+                "position": {
+                    "x": 4200.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#e85f95",
+                    "title": "АЙ-ТЕКО 154",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 2000.0,
+                    "length": 1600.0
+                },
+                "sort": 3,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "siwfcwoi9jyqmpcerdez9x3girpvewoq",
+                "position": {
+                    "x": 3600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1600.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#c42805",
+                    "title": "АЙ - ТЕКО 113",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 3,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bogmsbmm7uoi5xbcz2agrod3viskr7td",
+                "position": {
+                    "x": 5600.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#e85f95",
+                    "title": "АЙ-ТЕКО 154",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 2000.0,
+                    "length": 1600.0
+                },
+                "sort": 3,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "siwfcwoi9jyqmpcerdez9x3girpvewoq",
+                "position": {
+                    "x": 4800.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1600.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#e85f95",
+                    "title": "АЙ-ТЕКО 154",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 2000.0,
+                    "length": 1600.0
+                },
+                "sort": 3,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "siwfcwoi9jyqmpcerdez9x3girpvewoq",
+                "position": {
+                    "x": 6000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1600.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#ad0124",
+                    "title": "ЛАНИТ 113",
+                    "article": "",
+                    "group_id": "14pf8ebrc4n7ljasadkge6qcwoqvlzgv",
+                    "group_title": "Группа 4"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyb3setpf2ickdrxngvgd4ji5aozuzwd",
+                "position": {
+                    "x": 7000.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#e85f95",
+                    "title": "АЙ-ТЕКО 154",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 2000.0,
+                    "length": 1600.0
+                },
+                "sort": 3,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "siwfcwoi9jyqmpcerdez9x3girpvewoq",
+                "position": {
+                    "x": 7200.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1600.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#d8c704",
+                    "title": "ПРАЙДЕКС ГВ 200.199",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 110.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "sort": 2,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "5psxlkwgumsvipespo6kwmpija3bj4sf",
+                "position": {
+                    "x": 8400.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#6440b2",
+                    "title": "ПРАЙДЕКС 113.133.134.ГВ 202.201",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 2,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "faubvc63868xa3jzflrznxjxs6his49y",
+                "position": {
+                    "x": 8400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 2000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#d8c704",
+                    "title": "ПРАЙДЕКС ГВ 200.199",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 110.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "sort": 2,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "5psxlkwgumsvipespo6kwmpija3bj4sf",
+                "position": {
+                    "x": 9600.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#6440b2",
+                    "title": "ПРАЙДЕКС 113.133.134.ГВ 202.201",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 2,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "faubvc63868xa3jzflrznxjxs6his49y",
+                "position": {
+                    "x": 9200.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 2000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#6440b2",
+                    "title": "ПРАЙДЕКС 113.133.134.ГВ 202.201",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 2,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "faubvc63868xa3jzflrznxjxs6his49y",
+                "position": {
+                    "x": 10000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 2000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#81e055",
+                    "title": "БС 150",
+                    "article": "",
+                    "group_id": "4xtfi1ne2g1drvab68rx2pekatntbv3a",
+                    "group_title": "Группа 1"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 800.0
+                },
+                "sort": 4,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "r2sxkxogu5gfoyyybs4q9fn6k1hp7opr",
+                "position": {
+                    "x": 10800.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#6440b2",
+                    "title": "ПРАЙДЕКС 113.133.134.ГВ 202.201",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 2,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "faubvc63868xa3jzflrznxjxs6his49y",
+                "position": {
+                    "x": 10800.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 2000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#9d66f4",
+                    "title": "БС - ГРУП 134 ГВ. Ф",
+                    "article": "",
+                    "group_id": "4xtfi1ne2g1drvab68rx2pekatntbv3a",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 200.0,
+                    "length": 1400.0
+                },
+                "sort": 4,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhxfjkdqa0xmc8rgznats40s6sf1rvib",
+                "position": {
+                    "x": 11600.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 200.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#6440b2",
+                    "title": "ПРАЙДЕКС 113.133.134.ГВ 202.201",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 2,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "faubvc63868xa3jzflrznxjxs6his49y",
+                "position": {
+                    "x": 11600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 2000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#6440b2",
+                    "title": "ПРАЙДЕКС 113.133.134.ГВ 202.201",
+                    "article": "",
+                    "group_id": "2fqfqbai7fwkmbc65eva6vfruzbmsiaa",
+                    "group_title": "Группа 3"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2000.0,
+                    "length": 1400.0
+                },
+                "sort": 2,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "faubvc63868xa3jzflrznxjxs6his49y",
+                "position": {
+                    "x": 12400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 2000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 491,
+            "info": {
+                "uid": "491_0",
+                "sort": 0,
+                "title": "Евро Фура"
+            },
+            "mass": 6500.0,
+            "size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13692.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 2728.45045
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 2728.45045
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300.0,
+                    "max_load": 9000.0,
+                    "default_load": 1670.0,
+                    "calculated_load": 2733.45045
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000.0,
+                "max_load": 12000.0,
+                "default_load": 1500.0,
+                "calculated_load": 2529.64865
+            },
+            "tractor": {
+                "mass": 9000.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410.0,
+                        "max_load": 8000.0,
+                        "default_load": 6000.0,
+                        "calculated_load": 6227.28519
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827.0,
+                        "max_load": 11000.0,
+                        "default_load": 2300.0,
+                        "calculated_load": 2701.18173
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395.0,
+                        "max_load": 10000.0,
+                        "default_load": 2200.0,
+                        "calculated_load": 2601.18173
+                    }
+                ],
+                "length": 6140.0,
+                "hitch_distance": 778.0
+            },
+            "full_length": 13692.0,
+            "indentation": {
+                "width": 40.0,
+                "height": 0.0,
+                "length": 46.0,
+                "height_top": 210.0,
+                "length_end": 46.0,
+                "width_right": 40.0
+            },
+            "loading_size": {
+                "width": 2400.0,
+                "height": 2650.0,
+                "length": 13600.0
+            },
+            "calculation_info": {
+                "step_count": 23,
+                "cargos_mass": 4.22,
+                "load_volume": 86.496,
+                "cargos_volume": 58.72,
+                "count_cargoes": 23,
+                "load_capacity": 32.5,
+                "loading_height": 2.0,
+                "density_percent": 92.67677,
+                "remaining_volume": 27.776,
+                "void_space_percent": 32.11247,
+                "filling_space_percent": 67.88753
+            },
+            "carrying_capacity": 32500.0,
+            "real_center_of_gravity": [
+                6825.118483412322,
+                950.2369668246446,
+                1207.5829383886255
+            ],
+            "ideal_center_of_gravity": [
+                6800.0,
+                0.0,
+                1200.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#cf40f7",
+                    "title": "АЙ - ТЕКО",
+                    "article": "",
+                    "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 200.0,
+                    "length": 1200.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2gvvk13hjbm3wkdbgdqlb86h17oaexpx",
+                "stacking": false,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorStayOnOtherStacking"
+            },
+            {
+                "info": {
+                    "color": "#ce4925",
+                    "title": "БС 850.950",
+                    "article": "",
+                    "group_id": "4xtfi1ne2g1drvab68rx2pekatntbv3a",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 200.0,
+                    "length": 1200.0
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kf9ifer4zqzlihpsloingaf1t3wxgdiu",
+                "stacking": false,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorStayOnOtherStacking"
+            }
+        ],
+        "packing_type": "PackingTruck PackingStepByStep",
+        "calculation_id": 15967,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "kf9ifer4zqzlihpsloingaf1t3wxgdiu",
+                        "info": {
+                            "color": "#ce4925",
+                            "title": "БС 850.950",
+                            "article": "",
+                            "group_id": "4xtfi1ne2g1drvab68rx2pekatntbv3a",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 5,
+                "name": "errorStayOnOtherStacking",
+                "boxes": [
+                    {
+                        "id": "2gvvk13hjbm3wkdbgdqlb86h17oaexpx",
+                        "info": {
+                            "color": "#cf40f7",
+                            "title": "АЙ - ТЕКО",
+                            "article": "",
+                            "group_id": "3darnfmidqkrqzjwupuuvziibwqswuha",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "kf9ifer4zqzlihpsloingaf1t3wxgdiu",
+                        "info": {
+                            "color": "#ce4925",
+                            "title": "БС 850.950",
+                            "article": "",
+                            "group_id": "4xtfi1ne2g1drvab68rx2pekatntbv3a",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

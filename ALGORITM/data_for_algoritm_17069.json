@@ -1,0 +1,5114 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210,
+                    "height": 359,
+                    "length": 220
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 55,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600,
+                    "height": 500,
+                    "length": 600
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 56,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300,
+                    "height": 310,
+                    "length": 200
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 11,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 1259,
+            "info": {
+                "uid": "1259_0",
+                "sort": 0,
+                "title": "Фургон(10 тонник)"
+            },
+            "mass": 2500,
+            "size": {
+                "width": 2450,
+                "height": 2800,
+                "length": 8000
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "1",
+                    "distance": 1269,
+                    "max_load": 5000,
+                    "default_load": 1250
+                },
+                {
+                    "title": "2",
+                    "distance": 7500,
+                    "max_load": 5000,
+                    "default_load": 1250
+                }
+            ],
+            "title": "Фургон(10 тонник)",
+            "full_length": 9000,
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2450,
+                "height": 2800,
+                "length": 8000
+            },
+            "carrying_capacity": 10000,
+            "last_changed_user_id": null
+        },
+        "calculation_id": "17069"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 106,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 83,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 80,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 55,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 105,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 600.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 93,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 600.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 78,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 600.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 56,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 103,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 1200.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 92,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 1200.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 76,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 1200.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 57,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 1200.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 101,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 1800.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 90,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 1800.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 75,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 1800.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 58,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 1800.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 100,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 89,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 73,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 59,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 119,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 2572.0,
+                    "y": 500.0,
+                    "z": 900.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 117,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 2572.0,
+                    "y": 500.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 114,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 2572.0,
+                    "y": 500.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 112,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 2572.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 98,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3000.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 54,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 1980.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 88,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3000.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 1760.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 1540.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 1320.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 72,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3000.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 1100.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 880.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 60,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 220.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 2882.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 1980.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 1760.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 1540.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 1320.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 1100.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 880.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 220.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 115,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 3290.0,
+                    "y": 710.0,
+                    "z": 220.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3241.0,
+                    "y": 710.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 97,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3600.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 87,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3600.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 71,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3600.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 61,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 51,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 2140.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 1920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 1700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 1480.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 1260.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 1040.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 820.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 96,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4200.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 50,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3959.0,
+                    "y": 500.0,
+                    "z": 2140.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3959.0,
+                    "y": 500.0,
+                    "z": 1920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 86,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4200.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3959.0,
+                    "y": 500.0,
+                    "z": 1700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3959.0,
+                    "y": 500.0,
+                    "z": 1480.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3959.0,
+                    "y": 500.0,
+                    "z": 1260.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 70,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4200.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3959.0,
+                    "y": 500.0,
+                    "z": 1040.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3959.0,
+                    "y": 500.0,
+                    "z": 820.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 3959.0,
+                    "y": 500.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 109,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 3600.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 62,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4200.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 49,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4318.0,
+                    "y": 500.0,
+                    "z": 2140.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4318.0,
+                    "y": 500.0,
+                    "z": 1920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4318.0,
+                    "y": 500.0,
+                    "z": 1700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4318.0,
+                    "y": 500.0,
+                    "z": 1480.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4318.0,
+                    "y": 500.0,
+                    "z": 1260.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4318.0,
+                    "y": 500.0,
+                    "z": 1040.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4318.0,
+                    "y": 500.0,
+                    "z": 820.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4318.0,
+                    "y": 500.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 95,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4800.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 85,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4800.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 121,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 4677.0,
+                    "y": 500.0,
+                    "z": 1420.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 69,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4800.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 120,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 4677.0,
+                    "y": 500.0,
+                    "z": 1120.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 118,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 4677.0,
+                    "y": 500.0,
+                    "z": 820.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 110,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4200.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 63,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 4800.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4800.0,
+                    "y": 500.0,
+                    "z": 440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4800.0,
+                    "y": 500.0,
+                    "z": 220.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4800.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4800.0,
+                    "y": 710.0,
+                    "z": 220.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 4800.0,
+                    "y": 710.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 99,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 5400.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 84,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 5400.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 68,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 5400.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 64,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 5400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 5159.0,
+                    "y": 500.0,
+                    "z": 440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 5159.0,
+                    "y": 500.0,
+                    "z": 220.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 51,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 5159.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 111,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 51,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 5159.0,
+                    "y": 710.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 113,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 52,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 5518.0,
+                    "y": 500.0,
+                    "z": 440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 53,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 52,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 5518.0,
+                    "y": 500.0,
+                    "z": 220.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#3b62a9",
+                    "title": "РУССКИЙ УЗОР Квас ЛЕТНИЙ фил.паст.2.5л",
+                    "article": "555DDD",
+                    "group_id": "1mgnriar8jml5qpdxs0ebhwknhhigbzt",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 210.0,
+                    "height": 359.0,
+                    "length": 220.0
+                },
+                "sort": 1,
+                "step": 53,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "heer9fkj7geloe8tuzwl9toprwskgfzz",
+                "position": {
+                    "x": 5518.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 210.0,
+                    "length": 359.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 116,
+                "info": {
+                    "color": "#4e8a52",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 53,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vhtd11690i2wli9owgbvzplcofszqbp0",
+                "position": {
+                    "x": 5469.0,
+                    "y": 710.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 102,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 54,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6000.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 82,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 54,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6000.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 74,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 55,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6000.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 65,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 55,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 108,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 56,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6000.0,
+                    "y": 500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 104,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 56,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6600.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 81,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 57,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6600.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 77,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 57,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6600.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 66,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 58,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 6600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 94,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 58,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 7400.0,
+                    "y": 0.0,
+                    "z": 1850.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 91,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 59,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 7200.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 79,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 59,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 7200.0,
+                    "y": 0.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 67,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 60,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 7200.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 107,
+                "info": {
+                    "color": "#cb30d3",
+                    "title": "Водичка",
+                    "article": "",
+                    "group_id": "27rp3ycxkxhkyseuvgqqs5axeshmihg3",
+                    "group_title": "Группа 1"
+                },
+                "mass": 14.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 2,
+                "step": 60,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "caaby26svtxd61qkgcfi8eok50hhhtpt",
+                "position": {
+                    "x": 7400.0,
+                    "y": 500.0,
+                    "z": 1850.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1259,
+            "info": {
+                "uid": "1259_0",
+                "sort": 0,
+                "title": "Фургон(10 тонник)"
+            },
+            "mass": 2500.0,
+            "size": {
+                "width": 2450.0,
+                "height": 2800.0,
+                "length": 8000.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "1",
+                    "distance": 1269.0,
+                    "max_load": 5000.0,
+                    "default_load": 1250.0,
+                    "calculated_load": 1790.32087
+                },
+                {
+                    "title": "2",
+                    "distance": 7500.0,
+                    "max_load": 5000.0,
+                    "default_load": 1250.0,
+                    "calculated_load": 1790.67913
+                }
+            ],
+            "full_length": 8000.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 0.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2450.0,
+                "height": 2800.0,
+                "length": 8000.0
+            },
+            "calculation_info": {
+                "step_count": 60,
+                "cargos_mass": 1.081,
+                "load_volume": 54.88,
+                "cargos_volume": 11.19682,
+                "count_cargoes": 122,
+                "load_capacity": 10.0,
+                "loading_height": 1.0,
+                "density_percent": 57.12663,
+                "remaining_volume": 43.68318,
+                "void_space_percent": 79.59763,
+                "filling_space_percent": 20.40237
+            },
+            "carrying_capacity": 10000.0,
+            "real_center_of_gravity": [
+                4020.242830712303,
+                377.4144310823311,
+                1141.8963922294167
+            ],
+            "ideal_center_of_gravity": [
+                4000.0,
+                0.0,
+                1225.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingBlocks",
+        "calculation_id": 17069,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [
+            "ERROR_AXLES_DISTANCE_CAR"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

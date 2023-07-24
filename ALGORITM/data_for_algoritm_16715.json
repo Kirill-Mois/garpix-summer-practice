@@ -1,0 +1,1709 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90,
+                    "height": 85,
+                    "length": 115
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 16,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#db8b1c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 90,
+                    "height": 100,
+                    "length": 223
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "wfgvv5pt8prk9wabeg4epprvy8a32x0u",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900,
+                    "height": 800,
+                    "length": 1000
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 12,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200,
+                    "height": 145,
+                    "length": 800
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 5,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "o91tesvlt0b2xmvk8g34pxdwnpwh6h0l",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 266,
+            "info": {
+                "uid": "266_0",
+                "sort": 0,
+                "title": "40' HC (valid)"
+            },
+            "mass": 4200,
+            "size": {
+                "width": 2438,
+                "height": 2896,
+                "length": 12192
+            },
+            "type": "container",
+            "axles": [],
+            "title": "40' HC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2698,
+                "length": 12032
+            },
+            "carrying_capacity": 28650
+        },
+        "calculation_id": "16715"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 35,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "o91tesvlt0b2xmvk8g34pxdwnpwh6h0l",
+                "position": {
+                    "x": 1923.7605985037408,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 2803.7605985037408,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 2893.7605985037408,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 2983.7605985037408,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 3073.7605985037408,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 3163.7605985037408,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 3253.7605985037408,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 3343.7605985037408,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 3433.7605985037408,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 2,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "o91tesvlt0b2xmvk8g34pxdwnpwh6h0l",
+                "position": {
+                    "x": 2723.7605985037408,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#db8b1c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 100.0,
+                    "length": 223.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wfgvv5pt8prk9wabeg4epprvy8a32x0u",
+                "position": {
+                    "x": 3523.7605985037408,
+                    "y": 0.0,
+                    "z": 2129.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 223.0,
+                    "height": 100.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#db8b1c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 100.0,
+                    "length": 223.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wfgvv5pt8prk9wabeg4epprvy8a32x0u",
+                "position": {
+                    "x": 3523.7605985037408,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 223.0,
+                    "height": 100.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 3613.7605985037408,
+                    "y": 0.0,
+                    "z": 1452.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 3613.7605985037408,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 4413.760598503741,
+                    "y": 0.0,
+                    "z": 1452.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 4413.760598503741,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 5213.760598503741,
+                    "y": 0.0,
+                    "z": 1452.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 5213.760598503741,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 6013.760598503741,
+                    "y": 0.0,
+                    "z": 1452.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 6013.760598503741,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 6813.760598503741,
+                    "y": 0.0,
+                    "z": 1452.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 6813.760598503741,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 7613.760598503741,
+                    "y": 0.0,
+                    "z": 1452.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#bc493c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 95.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7k2ch6sgsdziyydvkeztem4dkxldgfzb",
+                "position": {
+                    "x": 7613.760598503741,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 900.0,
+                    "height": 1000.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#db8b1c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 100.0,
+                    "length": 223.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wfgvv5pt8prk9wabeg4epprvy8a32x0u",
+                "position": {
+                    "x": 8413.76059850374,
+                    "y": 0.0,
+                    "z": 2129.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 223.0,
+                    "height": 100.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#db8b1c",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 100.0,
+                    "length": 223.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wfgvv5pt8prk9wabeg4epprvy8a32x0u",
+                "position": {
+                    "x": 8413.76059850374,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 223.0,
+                    "height": 100.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 8503.76059850374,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 8593.76059850374,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 8683.76059850374,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 8773.76059850374,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 8863.76059850374,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 8953.76059850374,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 9043.76059850374,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#f4f435",
+                    "title": "картонная коробка",
+                    "article": "",
+                    "group_id": "1fgj4enoo9dwcfryzlejhtpf45fzvrqu",
+                    "group_title": "Группа 2"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 85.0,
+                    "length": 115.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ymxyrhjrvov6wapnb3bm6ccoqx4nbwjp",
+                "position": {
+                    "x": 9133.76059850374,
+                    "y": 0.0,
+                    "z": 2237.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 115.0,
+                    "height": 85.0,
+                    "length": 90.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 2,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "o91tesvlt0b2xmvk8g34pxdwnpwh6h0l",
+                "position": {
+                    "x": 8503.76059850374,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 2,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "o91tesvlt0b2xmvk8g34pxdwnpwh6h0l",
+                "position": {
+                    "x": 9303.76059850374,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#3b2caa",
+                    "title": "европалет",
+                    "article": "",
+                    "group_id": "2lfuzrds14qqhnggrjliyosjthazehkr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.5,
+                "size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "sort": 2,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "o91tesvlt0b2xmvk8g34pxdwnpwh6h0l",
+                "position": {
+                    "x": 10103.76059850374,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 145.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 266,
+            "info": {
+                "uid": "266_0",
+                "sort": 0,
+                "title": "40' HC (valid)"
+            },
+            "mass": 4200.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2896.0,
+                "length": 12192.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2698.0,
+                "length": 12032.0
+            },
+            "calculation_info": {
+                "step_count": 37,
+                "cargos_mass": 3.0075,
+                "load_volume": 76.351414272,
+                "cargos_volume": 9.3581,
+                "count_cargoes": 37,
+                "load_capacity": 28.65,
+                "loading_height": 1.0,
+                "density_percent": 36.53614,
+                "remaining_volume": 66.99331,
+                "void_space_percent": 87.74338,
+                "filling_space_percent": 12.25662
+            },
+            "carrying_capacity": 28650.0,
+            "real_center_of_gravity": [
+                6016.0,
+                217.2381546134663,
+                1680.3524522028263
+            ],
+            "ideal_center_of_gravity": [
+                6016.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingContainerPoint",
+        "calculation_id": 16715,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

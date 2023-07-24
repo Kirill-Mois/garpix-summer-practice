@@ -1,0 +1,458 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК РЕДУКТОР 7",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3750.0,
+                "size": {
+                    "width": 670,
+                    "height": 920,
+                    "length": 2840
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "b7ewiw6dzakay36vbc2lgxhtyero1txc",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК РЕДУКТОР 5",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 4120.0,
+                "size": {
+                    "width": 820,
+                    "height": 930,
+                    "length": 1060
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "peehmoyswvzupm8qtibut60xik7rbnri",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК РЕДУКТОР 3",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3310.0,
+                "size": {
+                    "width": 1250,
+                    "height": 1270,
+                    "length": 1820
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ytzr9krxhwyxywqr27ztfbr3rkyqlvo8",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК Редуктор 2",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 4653.0,
+                "size": {
+                    "width": 775,
+                    "height": 820,
+                    "length": 1030
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "rzylvjs5i4cnft38cwftzwrkibbtevjz",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК РЕДУКТОР 1",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3810.0,
+                "size": {
+                    "width": 1350,
+                    "height": 1350,
+                    "length": 1550
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "oim7qu7kd4wbpjtzwegbqaucm2cdvonc",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 306,
+            "info": {
+                "uid": "306_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370,
+            "size": {
+                "width": 2438,
+                "height": 2591,
+                "length": 6058
+            },
+            "type": "container",
+            "axles": [],
+            "title": "20' DC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2393,
+                "length": 5898
+            },
+            "carrying_capacity": 28335
+        },
+        "calculation_id": "16542"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК РЕДУКТОР 7",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3750.0,
+                "size": {
+                    "width": 670.0,
+                    "height": 920.0,
+                    "length": 2840.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "b7ewiw6dzakay36vbc2lgxhtyero1txc",
+                "position": {
+                    "x": 103.77485618286391,
+                    "y": 0.0,
+                    "z": 1682.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 670.0,
+                    "height": 920.0,
+                    "length": 2840.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК РЕДУКТОР 5",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 4120.0,
+                "size": {
+                    "width": 820.0,
+                    "height": 930.0,
+                    "length": 1060.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "peehmoyswvzupm8qtibut60xik7rbnri",
+                "position": {
+                    "x": 1123.774856182864,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1060.0,
+                    "height": 930.0,
+                    "length": 820.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК РЕДУКТОР 1",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3810.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 1350.0,
+                    "length": 1550.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oim7qu7kd4wbpjtzwegbqaucm2cdvonc",
+                "position": {
+                    "x": 1943.774856182864,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1550.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК РЕДУКТОР 3",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3310.0,
+                "size": {
+                    "width": 1250.0,
+                    "height": 1270.0,
+                    "length": 1820.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ytzr9krxhwyxywqr27ztfbr3rkyqlvo8",
+                "position": {
+                    "x": 3293.774856182864,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1820.0,
+                    "height": 1270.0,
+                    "length": 1250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#ba23ed",
+                    "title": "ММК Редуктор 2",
+                    "article": "",
+                    "group_id": "1czqyrt8aiu8bxbziwaa72h1lbcppmo5",
+                    "group_title": "Группа 1"
+                },
+                "mass": 4653.0,
+                "size": {
+                    "width": 775.0,
+                    "height": 820.0,
+                    "length": 1030.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "rzylvjs5i4cnft38cwftzwrkibbtevjz",
+                "position": {
+                    "x": 4543.774856182864,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1030.0,
+                    "height": 820.0,
+                    "length": 775.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 306,
+            "info": {
+                "uid": "306_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2591.0,
+                "length": 6058.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2393.0,
+                "length": 5898.0
+            },
+            "calculation_info": {
+                "step_count": 5,
+                "cargos_mass": 19.643,
+                "load_volume": 33.195925728,
+                "cargos_volume": 8.92762,
+                "count_cargoes": 5,
+                "load_capacity": 28.335,
+                "loading_height": 1.35,
+                "density_percent": 52.31018,
+                "remaining_volume": 24.2683,
+                "void_space_percent": 73.10627,
+                "filling_space_percent": 26.89373
+            },
+            "carrying_capacity": 28335.0,
+            "real_center_of_gravity": [
+                2949.0,
+                520.3955607595581,
+                921.8803135977192
+            ],
+            "ideal_center_of_gravity": [
+                2949.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingContainerPoint",
+        "calculation_id": 16542,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

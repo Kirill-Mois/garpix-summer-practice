@@ -1,0 +1,971 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900,
+                    "height": 850,
+                    "length": 1150
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 16,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f4f6f4",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 2230,
+                    "height": 1000,
+                    "length": 900
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "e2kdmqz8juuxhrc69zlr71byjke5gs46",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 266,
+            "info": {
+                "uid": "266_0",
+                "sort": 0,
+                "title": "40' HC (valid)"
+            },
+            "mass": 4200,
+            "size": {
+                "width": 2438,
+                "height": 2896,
+                "length": 12192
+            },
+            "type": "container",
+            "axles": [],
+            "title": "40' HC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2698,
+                "length": 12032
+            },
+            "carrying_capacity": 28650
+        },
+        "calculation_id": "16730"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 15,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 416.0,
+                    "y": 0.0,
+                    "z": 1202.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 1316.0,
+                    "y": 0.0,
+                    "z": 1202.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 616.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 2216.0,
+                    "y": 0.0,
+                    "z": 1202.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 1516.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 3116.0,
+                    "y": 0.0,
+                    "z": 1202.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 2416.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 3316.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#f4f6f4",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 2230.0,
+                    "height": 1000.0,
+                    "length": 900.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "e2kdmqz8juuxhrc69zlr71byjke5gs46",
+                "position": {
+                    "x": 4216.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2230.0,
+                    "height": 1000.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#f4f6f4",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 2230.0,
+                    "height": 1000.0,
+                    "length": 900.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "e2kdmqz8juuxhrc69zlr71byjke5gs46",
+                "position": {
+                    "x": 5116.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2230.0,
+                    "height": 1000.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#f4f6f4",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 2230.0,
+                    "height": 1000.0,
+                    "length": 900.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "e2kdmqz8juuxhrc69zlr71byjke5gs46",
+                "position": {
+                    "x": 6016.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2230.0,
+                    "height": 1000.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#f4f6f4",
+                    "title": "деревянный ящик",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 125.0,
+                "size": {
+                    "width": 2230.0,
+                    "height": 1000.0,
+                    "length": 900.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "e2kdmqz8juuxhrc69zlr71byjke5gs46",
+                "position": {
+                    "x": 6916.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2230.0,
+                    "height": 1000.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 8016.0,
+                    "y": 0.0,
+                    "z": 1202.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 7816.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 8916.0,
+                    "y": 0.0,
+                    "z": 1202.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 8716.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 9816.0,
+                    "y": 0.0,
+                    "z": 1202.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 9616.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 10716.0,
+                    "y": 0.0,
+                    "z": 1202.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#294fc1",
+                    "title": "кортонные коробки",
+                    "article": "",
+                    "group_id": "1mbrpdvbtg1h3cmhrgm8e8kutz3cdfbn",
+                    "group_title": "Группа 1"
+                },
+                "mass": 85.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 850.0,
+                    "length": 1150.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "87hrgif58l3pcxpsv4gzhdpzav2grpbv",
+                "position": {
+                    "x": 10516.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 850.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 266,
+            "info": {
+                "uid": "266_0",
+                "sort": 0,
+                "title": "40' HC (valid)"
+            },
+            "mass": 4200.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2896.0,
+                "length": 12192.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2698.0,
+                "length": 12032.0
+            },
+            "calculation_info": {
+                "step_count": 20,
+                "cargos_mass": 1.86,
+                "load_volume": 76.351414272,
+                "cargos_volume": 22.104,
+                "count_cargoes": 20,
+                "load_capacity": 28.65,
+                "loading_height": 1.0,
+                "density_percent": 81.01689,
+                "remaining_volume": 54.24741,
+                "void_space_percent": 71.04965,
+                "filling_space_percent": 28.95035
+            },
+            "carrying_capacity": 28650.0,
+            "real_center_of_gravity": [
+                6016.0,
+                445.16129032258067,
+                1159.6021505376343
+            ],
+            "ideal_center_of_gravity": [
+                6016.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingContainerPoint",
+        "calculation_id": 16730,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

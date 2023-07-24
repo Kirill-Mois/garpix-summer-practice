@@ -1,0 +1,2148 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#3973b2",
+                    "title": "31. (R13D) Упаковка лестницы в приямок",
+                    "article": "",
+                    "group_id": "1d5hhwqx2pvx4urgy7msnee5gwcr6v4b",
+                    "group_title": "Группа 29"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 285,
+                    "height": 30,
+                    "length": 2700
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "85vv7eqix6o8mrqxhsekujkypluyrvqx",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8d44c4",
+                    "title": "30. (R13D) Упаковка гранитного пола",
+                    "article": "",
+                    "group_id": "28nxze18hicfwwyjhrvqulo9zhlwvdhj",
+                    "group_title": "Группа 28"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 640,
+                    "height": 365,
+                    "length": 2240
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "abv1ermhpyeytr1utrnratbw4pq90xjc",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f25e1f",
+                    "title": "28. (R13D) Упаковка ограждений на крыше",
+                    "article": "",
+                    "group_id": "33wjhjwaqrxmdbarsdkcp2wrlqenlxec",
+                    "group_title": "Группа 27"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 90,
+                    "height": 785,
+                    "length": 1462
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "qgxllt3xawmg3gtytifltgbfbqkighy3",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#36f749",
+                    "title": "27. (R13D) Упаковка компенсирующих цепей",
+                    "article": "",
+                    "group_id": "4jodvwmute3odt2iuju0msqpfnv3ykci",
+                    "group_title": "Группа 26"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 600,
+                    "height": 430,
+                    "length": 740
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "dgqmaftmj6dbkb7wx8tasimvo0kbsvwi",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#830fff",
+                    "title": "26. (R13D) Упаковка обрамлений",
+                    "article": "",
+                    "group_id": "5rujgzr39fktbcp6am5qgcsqihvdzcfj",
+                    "group_title": "Группа 25"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 380,
+                    "height": 455,
+                    "length": 2200
+                },
+                "sort": 5,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "e2ih8vjhqge20g9ifvrinrxlwznlxhrb",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cecb10",
+                    "title": "25. (R13D) Упаковка подвесного потолка",
+                    "article": "",
+                    "group_id": "6p00lphyshsv1lqfpxy4l5riaselkulr",
+                    "group_title": "Группа 24"
+                },
+                "mass": 60.0,
+                "size": {
+                    "width": 810,
+                    "height": 315,
+                    "length": 1680
+                },
+                "sort": 6,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nzrsu2kaijmnqdxdgwjmsw2mhf2aeby7",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4bea50",
+                    "title": "24. (R13D) Упаковка зеркал",
+                    "article": "",
+                    "group_id": "7dagcat6km3nbzbhafmtf0sd0q5tu0yj",
+                    "group_title": "Группа 23"
+                },
+                "mass": 35.0,
+                "size": {
+                    "width": 1790,
+                    "height": 70,
+                    "length": 1200
+                },
+                "sort": 7,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tnwbykzzabarspi8diwwaceee4gqsrvb",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4bb1d1",
+                    "title": "23. (R13D) Упаковка стояков кабины. ограждения противовеса",
+                    "article": "",
+                    "group_id": "85zk7piro9g9tsqjxci3dhlui10khugd",
+                    "group_title": "Группа 22"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 100,
+                    "height": 100,
+                    "length": 3000
+                },
+                "sort": 8,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "4uwilzyozvgc9nkppqqolmnvuttkuige",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#56ff89",
+                    "title": "22. (R13D) Упаковка направляющих противовеса и кабины",
+                    "article": "",
+                    "group_id": "9emgclbyrhf1tnlsgmxmneu0mubol6fi",
+                    "group_title": "Группа 21"
+                },
+                "mass": 4000.0,
+                "size": {
+                    "width": 300,
+                    "height": 250,
+                    "length": 5000
+                },
+                "sort": 9,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "jmgsi88mhe38qec77bujeit6zr7acmsv",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#63edbd",
+                    "title": "20. (R13D) Упаковка кронштейнов направляющих",
+                    "article": "",
+                    "group_id": "10oikzeqnxlr9ywsqgnpkfbpc3zcm9f7",
+                    "group_title": "Группа 20"
+                },
+                "mass": 400.0,
+                "size": {
+                    "width": 530,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 10,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "s8emsab6av4ephirbeukowmywyxx25zx",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#9760e0",
+                    "title": "19. (R13D) Упаковка грузов противовеса",
+                    "article": "",
+                    "group_id": "11mfm6i7vpurvcs8mktt9jvrpkqcffaz",
+                    "group_title": "Группа 19"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000,
+                    "height": 140,
+                    "length": 800
+                },
+                "sort": 11,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ywq5amlvi06yk6ejng4xyhby8bvgyzog",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e364f4",
+                    "title": "18. (R13D) Упаковка контроллера",
+                    "article": "",
+                    "group_id": "12hvpnyen1q8tlhtw9oxjuhsjsxosivw",
+                    "group_title": "Группа 18"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360,
+                    "height": 430,
+                    "length": 2080
+                },
+                "sort": 12,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "rfubp9xa1bvv3bume9vurka4azgc07m4",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#08ce1f",
+                    "title": "17. (R13D) Упаковка лебедки",
+                    "article": "",
+                    "group_id": "13k2hxkxr5ibtlrsyzbhgiprhfwzeuot",
+                    "group_title": "Группа 17"
+                },
+                "mass": 490.0,
+                "size": {
+                    "width": 1050,
+                    "height": 1200,
+                    "length": 870
+                },
+                "sort": 13,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "f2h72s33qqy0f5og6wsc3sswpdvngwqm",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c8ef2d",
+                    "title": "15. (R13D) Упаковка дверей шахты",
+                    "article": "",
+                    "group_id": "14lbwnx5mujfcho2t5x5wujxhrq9bzau",
+                    "group_title": "Группа 16"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 1150,
+                    "height": 1000,
+                    "length": 2100
+                },
+                "sort": 14,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "qdpxxsii4zat4hdkgihik9pbdtg2zpp3",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#99041a",
+                    "title": "14.1 (R13D) Упаковка Шкив противовеса буффера...",
+                    "article": "",
+                    "group_id": "15vqugpxgkgb8zuw0puhhnuy4ngvrn79",
+                    "group_title": "Группа 15"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 460,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 15,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vehqpnsy1kkxjpfke9cfhgk8bmvqjpgo",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f9bf6d",
+                    "title": "14. (R13D) Упаковка подставок под кабину и противовес",
+                    "article": "",
+                    "group_id": "16and9ypemna2odnhlg9euyrdq447kdc",
+                    "group_title": "Группа 14"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 530,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 16,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "3rezbqaw4aov4ijthesnecazxisn4bvs",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#b53be5",
+                    "title": "13. (R13D) Упаковка канатов",
+                    "article": "",
+                    "group_id": "17flmzffasxubmwt7ipvtkf1zadruymh",
+                    "group_title": "Группа 13"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 600,
+                    "height": 500,
+                    "length": 600
+                },
+                "sort": 17,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "bjffgpaqyv0c4thou1wmrbe9bdbaxloq",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#099641",
+                    "title": "12. (R13D) Упаковка противовеса",
+                    "article": "",
+                    "group_id": "18yphzd3kkv32dnsfuybibl5wxeb2v1f",
+                    "group_title": "Группа 12"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 250,
+                    "height": 260,
+                    "length": 3200
+                },
+                "sort": 18,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ndxvdcixcwbrpz3hdt1z95uv9pigbmps",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ed302d",
+                    "title": "11. (R13D) Упаковка освещения шахты",
+                    "article": "",
+                    "group_id": "19vvx37zd9mdtbrnpjgdrtsthpv9exzs",
+                    "group_title": "Группа 11"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 660,
+                    "height": 860,
+                    "length": 1420
+                },
+                "sort": 19,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "uomb2be1txx67rcnnyoayskcytrhi6zn",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#23fc9e",
+                    "title": "10. (R13D) Упаковка оборудования МП UDLS НУ",
+                    "article": "",
+                    "group_id": "20dqk6fmuomi9mgvobmcv0tnpzoyxu0i",
+                    "group_title": "Группа 10"
+                },
+                "mass": 160.0,
+                "size": {
+                    "width": 530,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 20,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "cyieqj9y9zwtwaewfhmenfwf1x4opynf",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0941f7",
+                    "title": "9. (R13D) Упаковка коробов шахтной разводки",
+                    "article": "",
+                    "group_id": "21eqjntzi5fblkd5vpnugzt2qpuzfont",
+                    "group_title": "Группа 9"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 400,
+                    "height": 400,
+                    "length": 2000
+                },
+                "sort": 21,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "e9w3sh1oh0xuw5zd6vwtr975pmy0l2df",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#abf922",
+                    "title": "8. (R13D) Упаковка электропроводки №3",
+                    "article": "",
+                    "group_id": "22clghpoadlqolxdycisqet9gbpfhdqb",
+                    "group_title": "Группа 8"
+                },
+                "mass": 60.0,
+                "size": {
+                    "width": 530,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 22,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "dae5nfshhtqqypz0zuqe060zwery6jkq",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#54d3a7",
+                    "title": "7. (R13D) Упаковка электропроводки №2",
+                    "article": "",
+                    "group_id": "23rrye0sc9hjind249cm7dcbutpmucbd",
+                    "group_title": "Группа 7"
+                },
+                "mass": 90.0,
+                "size": {
+                    "width": 1200,
+                    "height": 400,
+                    "length": 1200
+                },
+                "sort": 23,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vrzix0lvgbnk1yzbpyf9nxswgsxib8ju",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1088c9",
+                    "title": "6.2 (R13D) Упаковка клеммной коробки",
+                    "article": "",
+                    "group_id": "24jgakd4dcnllutcmgt6m9pftrksthhe",
+                    "group_title": "Группа 6"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 362,
+                    "height": 320,
+                    "length": 616
+                },
+                "sort": 24,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "qtudhezihcrhon9wfuel81nobaow0vhl",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#30bab0",
+                    "title": "6. (R13D) Упаковка электропроводки 1",
+                    "article": "",
+                    "group_id": "25w3ojsdjvnxqzijmtcbxz4g0e2ykmab",
+                    "group_title": "Группа 5"
+                },
+                "mass": 25.0,
+                "size": {
+                    "width": 400,
+                    "height": 400,
+                    "length": 450
+                },
+                "sort": 25,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "qqjnsd4enapr9mskzxxqmxfbwqgma9nr",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1f687c",
+                    "title": "5. (R13D) Упаковка панели СОР",
+                    "article": "",
+                    "group_id": "266eqvkekgpytgxrvzb4i5p0vttxsegt",
+                    "group_title": "Группа 4"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 660,
+                    "height": 545,
+                    "length": 2380
+                },
+                "sort": 26,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "e07qfofa6zvdkqgq3itex0gbhcgl3ww9",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e09757",
+                    "title": "4. (R13D) Упаковка купе кабины",
+                    "article": "",
+                    "group_id": "27m8eynnw1ne6dhseuhls0aovwkiuwzv",
+                    "group_title": "Группа 3"
+                },
+                "mass": 280.0,
+                "size": {
+                    "width": 660,
+                    "height": 545,
+                    "length": 2380
+                },
+                "sort": 27,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "7duqn8khxpq0thubwohbt6e6odjw49rb",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#99041a",
+                    "title": "2. (R13D) Упаковка балки дверей кабины",
+                    "article": "",
+                    "group_id": "28eowkmhqejqkkrshx4nsil8pdeturl4",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 490,
+                    "height": 210,
+                    "length": 2170
+                },
+                "sort": 28,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "2o9leztz3pazhnvxwtp5hjjd4kqa90bn",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#99041a",
+                    "title": "1. (R13D) Упаковка каркаса кабины",
+                    "article": "",
+                    "group_id": "297kq1tymgy36pvtk6rvsrl7jet99gfw",
+                    "group_title": "Группа 1"
+                },
+                "mass": 600.0,
+                "size": {
+                    "width": 1820,
+                    "height": 950,
+                    "length": 2210
+                },
+                "sort": 29,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "et6xwhdd02htv26azsacggtklyhyjjgd",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 269,
+            "info": {
+                "uid": "269_0",
+                "sort": 0,
+                "title": "Фургон №2"
+            },
+            "mass": 6450,
+            "size": {
+                "width": 2550,
+                "height": 3820,
+                "length": 5800
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1475,
+                    "max_load": 9500,
+                    "default_load": 3225
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 5400,
+                    "max_load": 9500,
+                    "default_load": 3225
+                }
+            ],
+            "title": "Фургон №2",
+            "full_length": 7695,
+            "indentation": {
+                "width": 35,
+                "height": 0,
+                "length": 0,
+                "height_top": 1120,
+                "length_end": 0,
+                "width_right": 35
+            },
+            "loading_size": {
+                "width": 2480,
+                "height": 2700,
+                "length": 5800
+            },
+            "carrying_capacity": 9200,
+            "last_changed_user_id": null
+        },
+        "calculation_id": "17220"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 8,
+                "info": {
+                    "color": "#56ff89",
+                    "title": "22. (R13D) Упаковка направляющих противовеса и кабины",
+                    "article": "",
+                    "group_id": "9emgclbyrhf1tnlsgmxmneu0mubol6fi",
+                    "group_title": "Группа 21"
+                },
+                "mass": 4000.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 5000.0
+                },
+                "sort": 9,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jmgsi88mhe38qec77bujeit6zr7acmsv",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 2180.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 5000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#4bb1d1",
+                    "title": "23. (R13D) Упаковка стояков кабины. ограждения противовеса",
+                    "article": "",
+                    "group_id": "85zk7piro9g9tsqjxci3dhlui10khugd",
+                    "group_title": "Группа 22"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 100.0,
+                    "length": 3000.0
+                },
+                "sort": 8,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "4uwilzyozvgc9nkppqqolmnvuttkuige",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 2080.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 100.0,
+                    "height": 100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#23fc9e",
+                    "title": "10. (R13D) Упаковка оборудования МП UDLS НУ",
+                    "article": "",
+                    "group_id": "20dqk6fmuomi9mgvobmcv0tnpzoyxu0i",
+                    "group_title": "Группа 10"
+                },
+                "mass": 160.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 20,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "cyieqj9y9zwtwaewfhmenfwf1x4opynf",
+                "position": {
+                    "x": 0.0,
+                    "y": 250.0,
+                    "z": 1950.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#f25e1f",
+                    "title": "28. (R13D) Упаковка ограждений на крыше",
+                    "article": "",
+                    "group_id": "33wjhjwaqrxmdbarsdkcp2wrlqenlxec",
+                    "group_title": "Группа 27"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 90.0,
+                    "height": 785.0,
+                    "length": 1462.0
+                },
+                "sort": 3,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "qgxllt3xawmg3gtytifltgbfbqkighy3",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1820.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 90.0,
+                    "height": 785.0,
+                    "length": 1462.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#f9bf6d",
+                    "title": "14. (R13D) Упаковка подставок под кабину и противовес",
+                    "article": "",
+                    "group_id": "16and9ypemna2odnhlg9euyrdq447kdc",
+                    "group_title": "Группа 14"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 16,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3rezbqaw4aov4ijthesnecazxisn4bvs",
+                "position": {
+                    "x": 1290.0,
+                    "y": 250.0,
+                    "z": 1950.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#830fff",
+                    "title": "26. (R13D) Упаковка обрамлений",
+                    "article": "",
+                    "group_id": "5rujgzr39fktbcp6am5qgcsqihvdzcfj",
+                    "group_title": "Группа 25"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 380.0,
+                    "height": 455.0,
+                    "length": 2200.0
+                },
+                "sort": 5,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "e2ih8vjhqge20g9ifvrinrxlwznlxhrb",
+                "position": {
+                    "x": 0.0,
+                    "y": 910.0,
+                    "z": 2100.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 380.0,
+                    "height": 455.0,
+                    "length": 2200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#099641",
+                    "title": "12. (R13D) Упаковка противовеса",
+                    "article": "",
+                    "group_id": "18yphzd3kkv32dnsfuybibl5wxeb2v1f",
+                    "group_title": "Группа 12"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 260.0,
+                    "length": 3200.0
+                },
+                "sort": 18,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ndxvdcixcwbrpz3hdt1z95uv9pigbmps",
+                "position": {
+                    "x": 0.0,
+                    "y": 1365.0,
+                    "z": 2220.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 260.0,
+                    "height": 250.0,
+                    "length": 3200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#3973b2",
+                    "title": "31. (R13D) Упаковка лестницы в приямок",
+                    "article": "",
+                    "group_id": "1d5hhwqx2pvx4urgy7msnee5gwcr6v4b",
+                    "group_title": "Группа 29"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 285.0,
+                    "height": 30.0,
+                    "length": 2700.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "85vv7eqix6o8mrqxhsekujkypluyrvqx",
+                "position": {
+                    "x": 0.0,
+                    "y": 1615.0,
+                    "z": 2195.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 285.0,
+                    "height": 30.0,
+                    "length": 2700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#99041a",
+                    "title": "1. (R13D) Упаковка каркаса кабины",
+                    "article": "",
+                    "group_id": "297kq1tymgy36pvtk6rvsrl7jet99gfw",
+                    "group_title": "Группа 1"
+                },
+                "mass": 600.0,
+                "size": {
+                    "width": 1820.0,
+                    "height": 950.0,
+                    "length": 2210.0
+                },
+                "sort": 29,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "et6xwhdd02htv26azsacggtklyhyjjgd",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1820.0,
+                    "height": 950.0,
+                    "length": 2210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#30bab0",
+                    "title": "6. (R13D) Упаковка электропроводки 1",
+                    "article": "",
+                    "group_id": "25w3ojsdjvnxqzijmtcbxz4g0e2ykmab",
+                    "group_title": "Группа 5"
+                },
+                "mass": 25.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 450.0
+                },
+                "sort": 25,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "qqjnsd4enapr9mskzxxqmxfbwqgma9nr",
+                "position": {
+                    "x": 1160.0,
+                    "y": 950.0,
+                    "z": 870.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 450.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#c8ef2d",
+                    "title": "15. (R13D) Упаковка дверей шахты",
+                    "article": "",
+                    "group_id": "14lbwnx5mujfcho2t5x5wujxhrq9bzau",
+                    "group_title": "Группа 16"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 1150.0,
+                    "height": 1000.0,
+                    "length": 2100.0
+                },
+                "sort": 14,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "qdpxxsii4zat4hdkgihik9pbdtg2zpp3",
+                "position": {
+                    "x": 0.0,
+                    "y": 950.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2100.0,
+                    "height": 1000.0,
+                    "length": 1150.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#8d44c4",
+                    "title": "30. (R13D) Упаковка гранитного пола",
+                    "article": "",
+                    "group_id": "28nxze18hicfwwyjhrvqulo9zhlwvdhj",
+                    "group_title": "Группа 28"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 640.0,
+                    "height": 365.0,
+                    "length": 2240.0
+                },
+                "sort": 2,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "abv1ermhpyeytr1utrnratbw4pq90xjc",
+                "position": {
+                    "x": 0.0,
+                    "y": 1950.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2240.0,
+                    "height": 365.0,
+                    "length": 640.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#e364f4",
+                    "title": "18. (R13D) Упаковка контроллера",
+                    "article": "",
+                    "group_id": "12hvpnyen1q8tlhtw9oxjuhsjsxosivw",
+                    "group_title": "Группа 18"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 12,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "rfubp9xa1bvv3bume9vurka4azgc07m4",
+                "position": {
+                    "x": 640.0,
+                    "y": 1950.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 430.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#1088c9",
+                    "title": "6.2 (R13D) Упаковка клеммной коробки",
+                    "article": "",
+                    "group_id": "24jgakd4dcnllutcmgt6m9pftrksthhe",
+                    "group_title": "Группа 6"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 362.0,
+                    "height": 320.0,
+                    "length": 616.0
+                },
+                "sort": 24,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "qtudhezihcrhon9wfuel81nobaow0vhl",
+                "position": {
+                    "x": 1594.0,
+                    "y": 950.0,
+                    "z": 1470.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 362.0,
+                    "height": 320.0,
+                    "length": 616.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#b53be5",
+                    "title": "13. (R13D) Упаковка канатов",
+                    "article": "",
+                    "group_id": "17flmzffasxubmwt7ipvtkf1zadruymh",
+                    "group_title": "Группа 13"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 17,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bjffgpaqyv0c4thou1wmrbe9bdbaxloq",
+                "position": {
+                    "x": 1610.0,
+                    "y": 950.0,
+                    "z": 870.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#99041a",
+                    "title": "2. (R13D) Упаковка балки дверей кабины",
+                    "article": "",
+                    "group_id": "28eowkmhqejqkkrshx4nsil8pdeturl4",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 490.0,
+                    "height": 210.0,
+                    "length": 2170.0
+                },
+                "sort": 28,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2o9leztz3pazhnvxwtp5hjjd4kqa90bn",
+                "position": {
+                    "x": 1610.0,
+                    "y": 1450.0,
+                    "z": 870.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 490.0,
+                    "height": 210.0,
+                    "length": 2170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#08ce1f",
+                    "title": "17. (R13D) Упаковка лебедки",
+                    "article": "",
+                    "group_id": "13k2hxkxr5ibtlrsyzbhgiprhfwzeuot",
+                    "group_title": "Группа 17"
+                },
+                "mass": 490.0,
+                "size": {
+                    "width": 1050.0,
+                    "height": 1200.0,
+                    "length": 870.0
+                },
+                "sort": 13,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "f2h72s33qqy0f5og6wsc3sswpdvngwqm",
+                "position": {
+                    "x": 1160.0,
+                    "y": 950.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 870.0,
+                    "height": 1200.0,
+                    "length": 1050.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#63edbd",
+                    "title": "20. (R13D) Упаковка кронштейнов направляющих",
+                    "article": "",
+                    "group_id": "10oikzeqnxlr9ywsqgnpkfbpc3zcm9f7",
+                    "group_title": "Группа 20"
+                },
+                "mass": 400.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 10,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "s8emsab6av4ephirbeukowmywyxx25zx",
+                "position": {
+                    "x": 2210.0,
+                    "y": 0.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1290.0,
+                    "height": 660.0,
+                    "length": 530.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#99041a",
+                    "title": "14.1 (R13D) Упаковка Шкив противовеса буффера...",
+                    "article": "",
+                    "group_id": "15vqugpxgkgb8zuw0puhhnuy4ngvrn79",
+                    "group_title": "Группа 15"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 460.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 15,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vehqpnsy1kkxjpfke9cfhgk8bmvqjpgo",
+                "position": {
+                    "x": 2210.0,
+                    "y": 660.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1290.0,
+                    "height": 660.0,
+                    "length": 460.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#abf922",
+                    "title": "8. (R13D) Упаковка электропроводки №3",
+                    "article": "",
+                    "group_id": "22clghpoadlqolxdycisqet9gbpfhdqb",
+                    "group_title": "Группа 8"
+                },
+                "mass": 60.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 22,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dae5nfshhtqqypz0zuqe060zwery6jkq",
+                "position": {
+                    "x": 2580.0,
+                    "y": 250.0,
+                    "z": 1950.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#9760e0",
+                    "title": "19. (R13D) Упаковка грузов противовеса",
+                    "article": "",
+                    "group_id": "11mfm6i7vpurvcs8mktt9jvrpkqcffaz",
+                    "group_title": "Группа 19"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "sort": 11,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ywq5amlvi06yk6ejng4xyhby8bvgyzog",
+                "position": {
+                    "x": 2740.0,
+                    "y": 0.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#36f749",
+                    "title": "27. (R13D) Упаковка компенсирующих цепей",
+                    "article": "",
+                    "group_id": "4jodvwmute3odt2iuju0msqpfnv3ykci",
+                    "group_title": "Группа 26"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 430.0,
+                    "length": 740.0
+                },
+                "sort": 4,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dgqmaftmj6dbkb7wx8tasimvo0kbsvwi",
+                "position": {
+                    "x": 2740.0,
+                    "y": 140.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 740.0,
+                    "height": 430.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#4bea50",
+                    "title": "24. (R13D) Упаковка зеркал",
+                    "article": "",
+                    "group_id": "7dagcat6km3nbzbhafmtf0sd0q5tu0yj",
+                    "group_title": "Группа 23"
+                },
+                "mass": 35.0,
+                "size": {
+                    "width": 1790.0,
+                    "height": 70.0,
+                    "length": 1200.0
+                },
+                "sort": 7,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tnwbykzzabarspi8diwwaceee4gqsrvb",
+                "position": {
+                    "x": 2740.0,
+                    "y": 570.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 70.0,
+                    "length": 1790.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#54d3a7",
+                    "title": "7. (R13D) Упаковка электропроводки №2",
+                    "article": "",
+                    "group_id": "23rrye0sc9hjind249cm7dcbutpmucbd",
+                    "group_title": "Группа 7"
+                },
+                "mass": 90.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 400.0,
+                    "length": 1200.0
+                },
+                "sort": 23,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vrzix0lvgbnk1yzbpyf9nxswgsxib8ju",
+                "position": {
+                    "x": 3540.0,
+                    "y": 0.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 400.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#e09757",
+                    "title": "4. (R13D) Упаковка купе кабины",
+                    "article": "",
+                    "group_id": "27m8eynnw1ne6dhseuhls0aovwkiuwzv",
+                    "group_title": "Группа 3"
+                },
+                "mass": 280.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "sort": 27,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7duqn8khxpq0thubwohbt6e6odjw49rb",
+                "position": {
+                    "x": 2210.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#1f687c",
+                    "title": "5. (R13D) Упаковка панели СОР",
+                    "article": "",
+                    "group_id": "266eqvkekgpytgxrvzb4i5p0vttxsegt",
+                    "group_title": "Группа 4"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "sort": 26,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "e07qfofa6zvdkqgq3itex0gbhcgl3ww9",
+                "position": {
+                    "x": 2210.0,
+                    "y": 545.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#ed302d",
+                    "title": "11. (R13D) Упаковка освещения шахты",
+                    "article": "",
+                    "group_id": "19vvx37zd9mdtbrnpjgdrtsthpv9exzs",
+                    "group_title": "Группа 11"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 860.0,
+                    "length": 1420.0
+                },
+                "sort": 19,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uomb2be1txx67rcnnyoayskcytrhi6zn",
+                "position": {
+                    "x": 2210.0,
+                    "y": 1090.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 860.0,
+                    "length": 1420.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#cecb10",
+                    "title": "25. (R13D) Упаковка подвесного потолка",
+                    "article": "",
+                    "group_id": "6p00lphyshsv1lqfpxy4l5riaselkulr",
+                    "group_title": "Группа 24"
+                },
+                "mass": 60.0,
+                "size": {
+                    "width": 810.0,
+                    "height": 315.0,
+                    "length": 1680.0
+                },
+                "sort": 6,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nzrsu2kaijmnqdxdgwjmsw2mhf2aeby7",
+                "position": {
+                    "x": 2210.0,
+                    "y": 1950.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 810.0,
+                    "height": 315.0,
+                    "length": 1680.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#0941f7",
+                    "title": "9. (R13D) Упаковка коробов шахтной разводки",
+                    "article": "",
+                    "group_id": "21eqjntzi5fblkd5vpnugzt2qpuzfont",
+                    "group_title": "Группа 9"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 2000.0
+                },
+                "sort": 21,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "e9w3sh1oh0xuw5zd6vwtr975pmy0l2df",
+                "position": {
+                    "x": 5400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 400.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 269,
+            "info": {
+                "uid": "269_0",
+                "sort": 0,
+                "title": "Фургон №2"
+            },
+            "mass": 6450.0,
+            "size": {
+                "width": 2550.0,
+                "height": 3820.0,
+                "length": 5800.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1475.0,
+                    "max_load": 9500.0,
+                    "default_load": 3225.0,
+                    "calculated_load": 7211.51759
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 5400.0,
+                    "max_load": 9500.0,
+                    "default_load": 3225.0,
+                    "calculated_load": 7589.48241
+                }
+            ],
+            "full_length": 5800.0,
+            "indentation": {
+                "width": 35.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 1120.0,
+                "length_end": 0.0,
+                "width_right": 35.0
+            },
+            "loading_size": {
+                "width": 2480.0,
+                "height": 2700.0,
+                "length": 5800.0
+            },
+            "calculation_info": {
+                "step_count": 29,
+                "cargos_mass": 8.351,
+                "load_volume": 38.8368,
+                "cargos_volume": 16.33665,
+                "count_cargoes": 29,
+                "load_capacity": 9.2,
+                "loading_height": 2.38,
+                "density_percent": 47.72066,
+                "remaining_volume": 22.50015,
+                "void_space_percent": 57.93512,
+                "filling_space_percent": 42.06488
+            },
+            "carrying_capacity": 9200.0,
+            "real_center_of_gravity": [
+                2402.201532750569,
+                400.6921326787212,
+                1676.8150520895701
+            ],
+            "ideal_center_of_gravity": [
+                2900.0,
+                0.0,
+                1240.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingBlocks",
+        "calculation_id": 17220,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [
+            "ERROR_AXLES_DISTANCE_CAR"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

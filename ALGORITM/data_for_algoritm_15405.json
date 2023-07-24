@@ -1,0 +1,5678 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#0133c8",
+                    "title": "Зефир ШАРМЭЛЬ с ароматом ванили 255г",
+                    "article": "",
+                    "group_id": "1xzrytefbrh9ivhzjew4ksb5qxferazy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3.842,
+                "size": {
+                    "width": 300,
+                    "height": 193,
+                    "length": 400
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "eomgvv1rjxzqr1zk0x1dpo8i1diqvb7p",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#db99a0",
+                    "title": "Печенье ЛЕНТА Венское 500г",
+                    "article": "",
+                    "group_id": "2naovvfysueqwe6946jwtaejsckxev3w",
+                    "group_title": "Группа 2"
+                },
+                "mass": 0.54,
+                "size": {
+                    "width": 153,
+                    "height": 60,
+                    "length": 200
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hou6jiewpflidnnpiocstpgunxrt9ryr",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#50fa6d",
+                    "title": "Халва РОТ ФРОНТ Дружба Возд с арах500г",
+                    "article": "",
+                    "group_id": "3gfwoamvfcjfyqapmrzstthx3ohk4fyn",
+                    "group_title": "Группа 3"
+                },
+                "mass": 1.83,
+                "size": {
+                    "width": 380,
+                    "height": 105,
+                    "length": 285
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zoj4okhmjzlus2fday5fryhky14b8aol",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#636708",
+                    "title": "Печенье ЛЕНТА Курабье 500г",
+                    "article": "",
+                    "group_id": "45drgxnsalrawjarkljusvakazyhi0km",
+                    "group_title": "Группа 4"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153,
+                    "height": 60,
+                    "length": 200
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 6,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zazdemjdehunu36o4vhqip19wu36tnuv",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1b55b5",
+                    "title": "Шоколад молочный АЛЕНКА Много молока 90г",
+                    "article": "",
+                    "group_id": "5kiznytwa75dlggkegzvihwrilsvahcl",
+                    "group_title": "Группа 5"
+                },
+                "mass": 9.1,
+                "size": {
+                    "width": 345,
+                    "height": 168,
+                    "length": 240
+                },
+                "sort": 5,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "o8vokwdmminuvqle3r5pfpne3btnodmv",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#519677",
+                    "title": "Изделие сдоб DELISSE Заряшки слоёные500г",
+                    "article": "",
+                    "group_id": "6dkxfol9vis5wvx6naccko8jojte9zml",
+                    "group_title": "Группа 6"
+                },
+                "mass": 0.56,
+                "size": {
+                    "width": 194,
+                    "height": 100,
+                    "length": 261
+                },
+                "sort": 6,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ewqsoi2ypopyv6gyy1w46xw87l6pbr2o",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#dcd7fb",
+                    "title": "Печенье ЛЕНТА Хрустики 500г",
+                    "article": "",
+                    "group_id": "7ihfbkabbk7kdu2iza96llbd1iwdnh2n",
+                    "group_title": "Группа 7"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153,
+                    "height": 60,
+                    "length": 200
+                },
+                "sort": 7,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zm0wc76iesfncvydzqty8wm90xwnzrkb",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#28de22",
+                    "title": "Конфеты РОТ ФРОНТ Халва ВЕС",
+                    "article": "",
+                    "group_id": "89gd3dg80nl035dv8xeje1boqcefffvz",
+                    "group_title": "Группа 8"
+                },
+                "mass": 6.3,
+                "size": {
+                    "width": 245,
+                    "height": 150,
+                    "length": 330
+                },
+                "sort": 8,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ynjhxm5kgrefgmlv70nanvkutrqxbhyn",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6e40ab",
+                    "title": "Хлопья ЯСНО СОЛН овсяные №2 800г",
+                    "article": "",
+                    "group_id": "92tjy60jbw5pu9cnlyxqmuaglgzrbuzo",
+                    "group_title": "Группа 9"
+                },
+                "mass": 4.33,
+                "size": {
+                    "width": 150,
+                    "height": 210,
+                    "length": 380
+                },
+                "sort": 9,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "lezarnhm5rl7fh6b7zmr8epcsf9lwrv9",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#56380e",
+                    "title": "Шоколад MILKA мол цельн фунд85г",
+                    "article": "",
+                    "group_id": "10tfs1s7f5wbfznd0kylgdryuhifetaa",
+                    "group_title": "Группа 10"
+                },
+                "mass": 1.73,
+                "size": {
+                    "width": 185,
+                    "height": 70,
+                    "length": 200
+                },
+                "sort": 10,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vbqc785zv0bwknirvwwsgikonjk2t1on",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#a971c4",
+                    "title": "Изделия слоен DELISSE Заряшки с сах.500г",
+                    "article": "",
+                    "group_id": "11qvazwf01qwso1cdgdksxrtdempvgeh",
+                    "group_title": "Группа 11"
+                },
+                "mass": 0.56,
+                "size": {
+                    "width": 194,
+                    "height": 100,
+                    "length": 261
+                },
+                "sort": 11,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "dmhudfmdnbcyazjnanfwpvrfpfhmnwjq",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#7f57cd",
+                    "title": "Жмыло Я САМАЯ Масло Арганы 500мл",
+                    "article": "",
+                    "group_id": "12iqeir0bppuc66rofdwrobrr7dlcr8g",
+                    "group_title": "Группа 12"
+                },
+                "mass": 6.8,
+                "size": {
+                    "width": 200,
+                    "height": 280,
+                    "length": 430
+                },
+                "sort": 12,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "lzb8wmpwotqvj3tjjnakac6nhp3ccew3",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#219695",
+                    "title": "Жмыло AURA Ромашка с антибак. эфф500мл",
+                    "article": "",
+                    "group_id": "13jfeyu9jkd0fjfcj6moe1ujtq77lfph",
+                    "group_title": "Группа 13"
+                },
+                "mass": 6.8,
+                "size": {
+                    "width": 220,
+                    "height": 295,
+                    "length": 360
+                },
+                "sort": 13,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "pd53znpswvq0es0czrvuggayyjjfk4jj",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e5ed16",
+                    "title": "Прокладки VIVI Comfort Normal Soft",
+                    "article": "",
+                    "group_id": "14vsdiqtuuc3vs6y78uugbte5ywcmhwc",
+                    "group_title": "Группа 14"
+                },
+                "mass": 1.536,
+                "size": {
+                    "width": 326,
+                    "height": 183,
+                    "length": 340
+                },
+                "sort": 14,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "5oggxeehihs46wpgbihymv7wottcgtdo",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8ab7a7",
+                    "title": "Корм дкош WHISKAS Паштет с уткой 75г",
+                    "article": "",
+                    "group_id": "15z7of3wtyalohrl7yqt2jt9khg9so8r",
+                    "group_title": "Группа 15"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 15,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "wnqc4fv5bg1la74dyus3cgdina5ypfgm",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#2f8a38",
+                    "title": "Корм дкош WHISKAS Паштет инд крол 75г",
+                    "article": "",
+                    "group_id": "16xqq3lnwsdaj53jhhblwg3swk1e9gx4",
+                    "group_title": "Группа 16"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 16,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "q8qze4upk65xgf5vdegcd0m4y3lhsncw",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#eeefe6",
+                    "title": "Корм дкош WHISKAS Паштет из кур инд 75г",
+                    "article": "",
+                    "group_id": "17wmikxdnsqhuppmzdwxqfd0sskifl0m",
+                    "group_title": "Группа 17"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 17,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "lyr062uzm3gz4wjnrfilggfdbr9odwuh",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cf87ea",
+                    "title": "Корм дстер.кош PERFECT FIT Гов соус 75г",
+                    "article": "",
+                    "group_id": "18nct1veaj35yoqgcql7es05jopqwght",
+                    "group_title": "Группа 18"
+                },
+                "mass": 2.321,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 18,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zatgbok7ejozxsyejm3px6n36rrratlo",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c858a6",
+                    "title": "Корм дкош WHISKAS Желе с кур и инд 75г",
+                    "article": "",
+                    "group_id": "19svapismnnjb550pcrdji35pb4lgune",
+                    "group_title": "Группа 19"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 19,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "eyhrquvj3h2euokcveigxjvc4jwcotla",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#3c54fc",
+                    "title": "Корм дкош WHISKAS Желе с курицей 75г",
+                    "article": "",
+                    "group_id": "20nvdompictndodgskknwaft9kcfp6tl",
+                    "group_title": "Группа 20"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 20,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "u40owcqdiddqrwjckwqngmikb4d5mblg",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#326350",
+                    "title": "Корм дстер.кош PERFECT FIT Крол соус 75",
+                    "article": "",
+                    "group_id": "21qmh5gpbes0k8wazh9zzwhvsevbotdl",
+                    "group_title": "Группа 21"
+                },
+                "mass": 2.321,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 21,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "2bjaxlzhiukglhxdzifrigxmz2opzlq2",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#83357a",
+                    "title": "Корм дкош PURINA ONE домаш курмор 75г",
+                    "article": "",
+                    "group_id": "22e8g2msnrbngn57sb74hzt5gl2al6lq",
+                    "group_title": "Группа 22"
+                },
+                "mass": 2.3,
+                "size": {
+                    "width": 100,
+                    "height": 142,
+                    "length": 395
+                },
+                "sort": 22,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vklpypxncxosmum8wbolwoitobslv6bt",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0b4858",
+                    "title": "Корм дкош WHISKAS Рагу с телятиной 75г",
+                    "article": "",
+                    "group_id": "23idtby1d64rxk5vae8jhz1kwsd6nahc",
+                    "group_title": "Группа 23"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 23,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "71u6r7x4rowef7uf7xgdlpoamtbkrr6v",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#36753d",
+                    "title": "Корм дкош WHISKAS Желе с гов и ягн 75г",
+                    "article": "",
+                    "group_id": "24djiibwbzfecguoj2skxhymfmuqzar3",
+                    "group_title": "Группа 24"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 24,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "1mwpxwucxlxenjsyfsri5bsdudmfxarq",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0c9f92",
+                    "title": "Корм дкош WHISKAS Желе с гов и крол 75г",
+                    "article": "",
+                    "group_id": "25gaidrdt75yxcjlt88efk9yopoia7dx",
+                    "group_title": "Группа 25"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 25,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "brcvycdktts2rla0czmuvhqdmmbgld0f",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#78744f",
+                    "title": "Корм дкош WHISKAS Желе с лососем 75г",
+                    "article": "",
+                    "group_id": "26hwapcvjmpqb0avstdqpz07ocxlxtvm",
+                    "group_title": "Группа 26"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 26,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "iqdoomb7syuugiophx3nntibubpbwbe5",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8999a5",
+                    "title": "Корм дкошек KITEKAT вк ягн в соусе 85г",
+                    "article": "",
+                    "group_id": "27l3xtkka5gzcxktni6mdckra2hak7ce",
+                    "group_title": "Группа 27"
+                },
+                "mass": 2.605,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 27,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "m8ymgbyfpjfpy0r8xyznxj9y1lxcwfsj",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#10d396",
+                    "title": "Корм дсоб PEDIGREE Говяд всех пор2,2кг",
+                    "article": "",
+                    "group_id": "28j643wkvu4afv4xspqztrwp4twuks6c",
+                    "group_title": "Группа 28"
+                },
+                "mass": 6.68,
+                "size": {
+                    "width": 235,
+                    "height": 290,
+                    "length": 295
+                },
+                "sort": 28,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "exhqerzmztwcbyzv1mlw2tfnrq9z8pie",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#fc90be",
+                    "title": "Корм PURINA ONE дкрасивой шерсти 750г",
+                    "article": "",
+                    "group_id": "297xmb0egv3jcxfvxvzcui2m8d0ajzjg",
+                    "group_title": "Группа 29"
+                },
+                "mass": 6.6,
+                "size": {
+                    "width": 300,
+                    "height": 217,
+                    "length": 400
+                },
+                "sort": 29,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "l87qqyt8vyjapsf9vvittdzde2uv1y6z",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#7f2911",
+                    "title": "Корм дкотят WHISKAS Рагу с курицей 75г",
+                    "article": "",
+                    "group_id": "30peugz1d1rbesrmpn8ht7qwenk8lezr",
+                    "group_title": "Группа 30"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 30,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "770jeuvkn7r0cpxlfct62b93iegnml7c",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#a9f100",
+                    "title": "Корм дкош WHISKAS слив.соус лоскрев 75",
+                    "article": "",
+                    "group_id": "31coq6xm9amhpfzj4ven7ylqzxzlnfez",
+                    "group_title": "Группа 31"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 31,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "uj1zsqqgznpsnvp0hkbxm5p7qjbsxblh",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#2cb975",
+                    "title": "Корм дкотят WHISKAS Рагу с ягненком 75г",
+                    "article": "",
+                    "group_id": "32kwcybqnppnlsxysgqgixzsedsbideh",
+                    "group_title": "Группа 32"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 32,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "uhuprml2rsxlydcdz2opjnaf6anthnzd",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#52205c",
+                    "title": "Корм дкотят WHISKAS Паштет с куриц 75г",
+                    "article": "",
+                    "group_id": "33covdn2wxrfj1a2mx4g1d1gch1wwlkb",
+                    "group_title": "Группа 33"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 33,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "d0kepl7wh5ojb0g8nnbgoyzcbxqwfy7b",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8726e5",
+                    "title": "Корм двзр.кош PURINA ONE с говмор 75г",
+                    "article": "",
+                    "group_id": "34wgc37pvqjodv4jmnomk6uxpdixae90",
+                    "group_title": "Группа 34"
+                },
+                "mass": 2.3,
+                "size": {
+                    "width": 100,
+                    "height": 142,
+                    "length": 395
+                },
+                "sort": 34,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "j0liyzrs43wi8g3yihfsp58ebeisfu2z",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d3bfa8",
+                    "title": "Корм дкош WHISKAS микс рагу уткпеч 75г",
+                    "article": "",
+                    "group_id": "35r6auq9gsdlqa5fymmjkaizk6jhi9x8",
+                    "group_title": "Группа 35"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 35,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xrfv7i5qmnowytgnhc2swgom3nyp1y52",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6ea1cc",
+                    "title": "Корм дкош WHISKAS желе с говядиной 75г",
+                    "article": "",
+                    "group_id": "36trfh0lpv7majxkhvvugtuv1imslnei",
+                    "group_title": "Группа 36"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 36,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "wi9rt6f8calko6bnfeytvs0vzrd5i8fh",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#030202",
+                    "title": "Корм дкош WHISKAS Рагу форель и лос 75г",
+                    "article": "",
+                    "group_id": "37x3ovcqaqvf20xedhq0hi6vsx1qtbqn",
+                    "group_title": "Группа 37"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 37,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "quir1hpb6p0wswl5y9wrbbw0hcouhjl6",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#fe2995",
+                    "title": "Корм дкош WHISKAS Рагу с курицей 75г",
+                    "article": "",
+                    "group_id": "38dzkpivzfsx6smvlcp1jgrnchf4jxyz",
+                    "group_title": "Группа 38"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 38,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "fwj0aza9hget8jjf47ikuthee2kohcqr",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#73062b",
+                    "title": "Корм дкош WHISKAS Рагу с инд и крол 75г",
+                    "article": "",
+                    "group_id": "396vd4sb8pnv5hctuofuphhhkyxdzmvi",
+                    "group_title": "Группа 39"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 39,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hlwmkkx4w0fudgx39tfzqhdfgqim5awo",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#5b8556",
+                    "title": "Корм дкош WHISKAS желе говязовощ 75г",
+                    "article": "",
+                    "group_id": "40w8zjbacjeoxldihdjoayqurzjp488i",
+                    "group_title": "Группа 40"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 40,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hjfudtvofsupup4j5tparftdaxwqlxx3",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#80b7a4",
+                    "title": "Корм дкош WHISKAS курица в соусе 75г",
+                    "article": "",
+                    "group_id": "41rcfph8ntehkzy6mkefe0cpa73scjva",
+                    "group_title": "Группа 41"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 41,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "wzd0hu3cgt0djvmqp3kq4s46hwcdvlvn",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#70b11b",
+                    "title": "Корм дкош WHISKAS микс сл.соус курут75",
+                    "article": "",
+                    "group_id": "42vk9xycsl4am5r1zblcy9qeezmqyt3z",
+                    "group_title": "Группа 42"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 42,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "jauxv0z96skxvhxk506str0zneklflah",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#5b1f41",
+                    "title": "Корм дкош WHISKAS желе с кроликом 75г",
+                    "article": "",
+                    "group_id": "43evl5yzqtdf5wiuwxcro39wahe75qco",
+                    "group_title": "Группа 43"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 43,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "kdrs5mouuz236g9za9lnkt0rfbdfpxoi",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d8cfd7",
+                    "title": "Корм дкош WHISKAS Рагу с ягненком 7+75г",
+                    "article": "",
+                    "group_id": "44mywfuhvqpuzlheb9nqy6qn1uydoceb",
+                    "group_title": "Группа 44"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 44,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "see6hezv97ydud3hweavfklsms5zqdgl",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e7f64a",
+                    "title": "Горчица МАХЕЕВЪ Русская 140г",
+                    "article": "",
+                    "group_id": "45zoyuuwkuuusu4gvbewevkjecvryb0m",
+                    "group_title": "Группа 45"
+                },
+                "mass": 2.8,
+                "size": {
+                    "width": 170,
+                    "height": 215,
+                    "length": 245
+                },
+                "sort": 45,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zhwkpdo5jnx9bkkmnvc501p2wqm5obn2",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#7bc222",
+                    "title": "Корм дкош WHISKAS Рагу с гов и ягн 75г",
+                    "article": "",
+                    "group_id": "46rxzh0w5zy0cswxn0ounj9ck9c3we36",
+                    "group_title": "Группа 46"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98,
+                    "height": 143,
+                    "length": 385
+                },
+                "sort": 46,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hcr1ahmnscwbptn3sausbzhiar5fo42r",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#bc1f70",
+                    "title": "Огурцы 365 ДНЕЙ соленые ст. 720мл",
+                    "article": "",
+                    "group_id": "472gv05rxcvk1jvi6ezooqbndtd7euvr",
+                    "group_title": "Группа 47"
+                },
+                "mass": 6.348,
+                "size": {
+                    "width": 195,
+                    "height": 130,
+                    "length": 290
+                },
+                "sort": 47,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "viukzxjzy8xno70jzqbwci2meqmwkaa6",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#53d65d",
+                    "title": "Морская капуста ДОШИРАК Доль Ким 5г",
+                    "article": "",
+                    "group_id": "48epftw06l6g4hpfnpujakud8qo2amru",
+                    "group_title": "Группа 48"
+                },
+                "mass": 1.71,
+                "size": {
+                    "width": 255,
+                    "height": 195,
+                    "length": 575
+                },
+                "sort": 48,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ukfbvh6ga1vqplpkwfpjqqknykq4v9d7",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e1944e",
+                    "title": "Уксус 365 ДНЕЙ Пищевой 0,5л",
+                    "article": "",
+                    "group_id": "49umolrtddebynqxbgobs4ed8tkevuya",
+                    "group_title": "Группа 49"
+                },
+                "mass": 8.025,
+                "size": {
+                    "width": 190,
+                    "height": 210,
+                    "length": 320
+                },
+                "sort": 49,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "i4fah2aci3jfuxku06sceaybwrbexe4o",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#75fc3a",
+                    "title": "Томатная паста 365 ДНЕЙ ТУ 25% 500г",
+                    "article": "",
+                    "group_id": "50kkmhbqk9i6ggz87piscsctyimsqkrl",
+                    "group_title": "Группа 50"
+                },
+                "mass": 6.02,
+                "size": {
+                    "width": 170,
+                    "height": 120,
+                    "length": 340
+                },
+                "sort": 50,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "91j3gu2ofkpwrkcl2cbagb4r7tzmtnpr",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#81f7a5",
+                    "title": "Мк говядина СКОПИНСКИЙ туш вс ГОСТ 325",
+                    "article": "",
+                    "group_id": "51gyem7aqb5qzlbtgvod6yxhwrkc2dlz",
+                    "group_title": "Группа 51"
+                },
+                "mass": 7.1,
+                "size": {
+                    "width": 310,
+                    "height": 170,
+                    "length": 210
+                },
+                "sort": 51,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "1hmykjad6ihzbnlxpew7qe7owknmxafe",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#9c35a9",
+                    "title": "Рк паштет шпротный 160г",
+                    "article": "",
+                    "group_id": "52renvjkawi12qkasbmypld7vyq73sek",
+                    "group_title": "Группа 52"
+                },
+                "mass": 4.8,
+                "size": {
+                    "width": 21,
+                    "height": 160,
+                    "length": 220
+                },
+                "sort": 52,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "speqpmdtpqctfiir7jn8dtu3ujj6vttx",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d1a250",
+                    "title": "Патиссоны ЛЕНТА маринованные 720мл",
+                    "article": "",
+                    "group_id": "53w6sv4hfnbp6jbj7wjolqjmk7skcxet",
+                    "group_title": "Группа 53"
+                },
+                "mass": 6.372,
+                "size": {
+                    "width": 285,
+                    "height": 130,
+                    "length": 190
+                },
+                "sort": 53,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hhsaucwyyyoiueycdhenmvwbubj6jpsa",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f0512f",
+                    "title": "Маслины ЛЕНТА черные крупные бк 370 мл",
+                    "article": "",
+                    "group_id": "54cdmc9767kutjs2ajbyil8njealfnkd",
+                    "group_title": "Группа 54"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 200,
+                    "height": 120,
+                    "length": 270
+                },
+                "sort": 54,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "twjzkuqkjtjq0ehjc5fzntxfbqvfggph",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4e6fe8",
+                    "title": "Маслины 365 ДНЕЙ черные бк 300314мл",
+                    "article": "",
+                    "group_id": "55jg2dj8m7hjdblrp33oqeg9qfoc0oef",
+                    "group_title": "Группа 55"
+                },
+                "mass": 3.984,
+                "size": {
+                    "width": 200,
+                    "height": 100,
+                    "length": 270
+                },
+                "sort": 55,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "4miwhlbgiaaxm4jy6htmmzvqivyksbed",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#188e78",
+                    "title": "Лапша ЛЕНТА крахмальная Фунчоза 200г",
+                    "article": "",
+                    "group_id": "56wlvkpsyypcmvdcoekln3sxhzykfqyn",
+                    "group_title": "Группа 56"
+                },
+                "mass": 4.46,
+                "size": {
+                    "width": 253,
+                    "height": 237,
+                    "length": 380
+                },
+                "sort": 56,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "mhaaqq0q29w3b0gazkpb4awdq6tmib7d",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8532a5",
+                    "title": "Соус MIVIMEX Чили кавказский 200г",
+                    "article": "",
+                    "group_id": "57amdxtjgkgb6vvbkdzqkuinrb6ywacg",
+                    "group_title": "Группа 57"
+                },
+                "mass": 3.51,
+                "size": {
+                    "width": 143,
+                    "height": 198,
+                    "length": 238
+                },
+                "sort": 57,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "6tyytfijpipoboknmcalfmkfvm28ul9e",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d0dcaa",
+                    "title": "Соус SEN SOY соев Классический столов 1л",
+                    "article": "",
+                    "group_id": "58ajluqvdhcd5itkj5vqs1nhdwy6ojso",
+                    "group_title": "Группа 58"
+                },
+                "mass": 7.0,
+                "size": {
+                    "width": 180,
+                    "height": 260,
+                    "length": 260
+                },
+                "sort": 58,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hrro6tsra6fu0jetg3bcokltxihdjs3p",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#816255",
+                    "title": "Луковые колечки 365 ДНЕЙ сыр и смет 50г",
+                    "article": "",
+                    "group_id": "59xyinopgmlp7kklf8ywnw84l4nspdab",
+                    "group_title": "Группа 59"
+                },
+                "mass": 2.1,
+                "size": {
+                    "width": 400,
+                    "height": 270,
+                    "length": 400
+                },
+                "sort": 59,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "32hwgcoq5blmuzbjbml6r98gwujby2zw",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6fd7cb",
+                    "title": "Чипсы LAYS Краб 140г",
+                    "article": "",
+                    "group_id": "60te3nbwo4y1ummfeovu2qbczeydcugt",
+                    "group_title": "Группа 60"
+                },
+                "mass": 3.26,
+                "size": {
+                    "width": 386,
+                    "height": 231,
+                    "length": 586
+                },
+                "sort": 60,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "pjq2hjyc4bymt5zcvlbik8vhvmepr1vo",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#53f8fa",
+                    "title": "Чипсы LAYS Stax Сметана и лук 140г",
+                    "article": "",
+                    "group_id": "61c6m3saevqob7n9m0c5hmm2n6rz5bvn",
+                    "group_title": "Группа 61"
+                },
+                "mass": 2.163,
+                "size": {
+                    "width": 240,
+                    "height": 240,
+                    "length": 240
+                },
+                "sort": 61,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "kvgu6jzvzd2vosbdht7yparjrww1q2ae",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e984d2",
+                    "title": "Чипсы LAYS Сметана и лук 225г",
+                    "article": "",
+                    "group_id": "620ffeqxrel4uyfvnxmgwb7pehmo8wwi",
+                    "group_title": "Группа 62"
+                },
+                "mass": 3.793,
+                "size": {
+                    "width": 386,
+                    "height": 271,
+                    "length": 586
+                },
+                "sort": 62,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "kg8dwjwxlsd3xj38zkgs4pmnxcg25lwm",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#bb781b",
+                    "title": "Бумага туалетная ЛЕНТА Сакура 2-сл.12шт",
+                    "article": "",
+                    "group_id": "63pqkglvhxln6j4ohwkwtzzwrumhu6ey",
+                    "group_title": "Группа 63"
+                },
+                "mass": 7.64,
+                "size": {
+                    "width": 480,
+                    "height": 200,
+                    "length": 800
+                },
+                "sort": 63,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "qwsprmelo6kv9tcyxlj5tdpv6twgiujb",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#55d785",
+                    "title": "Бполотенца 365 ДНЕЙ кух. 2-сл.2шт",
+                    "article": "",
+                    "group_id": "645amget0u8h4owluxxbnjzpljhdl6ds",
+                    "group_title": "Группа 64"
+                },
+                "mass": 16.032,
+                "size": {
+                    "width": 700,
+                    "height": 230,
+                    "length": 600
+                },
+                "sort": 64,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "u4o5nzgabmygpr85yyhwv7zrdrp9y5z4",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#37f4bc",
+                    "title": "Бполотенца PAPIA 3-сл. 2шт",
+                    "article": "",
+                    "group_id": "65ehsrasbmqwlhjjtjwfgwd4lz6fl3w2",
+                    "group_title": "Группа 65"
+                },
+                "mass": 4.066,
+                "size": {
+                    "width": 400,
+                    "height": 230,
+                    "length": 770
+                },
+                "sort": 65,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "q4de0ve6xoao833l4ynqxawv7zorex8x",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c2bfcd",
+                    "title": "Тбумага FAMILIA Plus Волшеб цв 2-сл 4шт",
+                    "article": "",
+                    "group_id": "66wk7xco9cg5774y0mmvgsvsq8astber",
+                    "group_title": "Группа 66"
+                },
+                "mass": 4.6,
+                "size": {
+                    "width": 370,
+                    "height": 195,
+                    "length": 810
+                },
+                "sort": 66,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "3v5eurra3zcwmtvwgumwunfoo0dg0ug5",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6c3866",
+                    "title": "Тбумага ЛЕНТА Белая 3-сл.4шт",
+                    "article": "",
+                    "group_id": "67v5hvkogwgwtrwvstrwn1sczvrqxkr9",
+                    "group_title": "Группа 67"
+                },
+                "mass": 7.74,
+                "size": {
+                    "width": 590,
+                    "height": 195,
+                    "length": 740
+                },
+                "sort": 67,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "6kb3g2phmyucvb3deyjzgypustbwbp7t",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d9e79b",
+                    "title": "Тбумага ЛЕНТА 2-сл.8шт",
+                    "article": "",
+                    "group_id": "68f7bhkukr6zjc64hjjrardsgjdq9s8r",
+                    "group_title": "Группа 68"
+                },
+                "mass": 3.64,
+                "size": {
+                    "width": 400,
+                    "height": 200,
+                    "length": 700
+                },
+                "sort": 68,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "znycijytc9m2qy322ezxyltbsiihlc9l",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#fbc770",
+                    "title": "Тбумага ZEWA Deluxe белая 3-сл.8шт",
+                    "article": "",
+                    "group_id": "69nvgsnqpvl9brvkasii90qtrbe84u8u",
+                    "group_title": "Группа 69"
+                },
+                "mass": 5.88,
+                "size": {
+                    "width": 428,
+                    "height": 190,
+                    "length": 826
+                },
+                "sort": 69,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "fsgldtv0cbijfvutqotjj5xfz8wgq8ah",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#89fc22",
+                    "title": "Губка дпосуды ЛЕНТА Макси,100х70х30,8шт",
+                    "article": "",
+                    "group_id": "70oyjhr9cybbauk5bbkrel6dhpgxwhja",
+                    "group_title": "Группа 70"
+                },
+                "mass": 1.816,
+                "size": {
+                    "width": 420,
+                    "height": 250,
+                    "length": 520
+                },
+                "sort": 70,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "e2pwtkm3f7hex2et92ixlsg9esumzkre",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": true,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 1112,
+            "info": {
+                "uid": "1112_0",
+                "sort": 0,
+                "title": "ЛЕНТА",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 15,
+            "size": {
+                "width": 800,
+                "height": 140,
+                "length": 1200
+            },
+            "type": "pallet",
+            "axles": [],
+            "title": "ЛЕНТА",
+            "margin": {
+                "width": 0,
+                "height": 0,
+                "length": 0
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 800,
+                "height": 1800,
+                "length": 1200
+            },
+            "carrying_capacity": 600
+        },
+        "calculation_id": "15405"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 14,
+                "info": {
+                    "color": "#28de22",
+                    "title": "Конфеты РОТ ФРОНТ Халва ВЕС",
+                    "article": "",
+                    "group_id": "89gd3dg80nl035dv8xeje1boqcefffvz",
+                    "group_title": "Группа 8"
+                },
+                "mass": 6.3,
+                "size": {
+                    "width": 245.0,
+                    "height": 150.0,
+                    "length": 330.0
+                },
+                "sort": 8,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ynjhxm5kgrefgmlv70nanvkutrqxbhyn",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 540.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 245.0,
+                    "height": 150.0,
+                    "length": 330.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#1b55b5",
+                    "title": "Шоколад молочный АЛЕНКА Много молока 90г",
+                    "article": "",
+                    "group_id": "5kiznytwa75dlggkegzvihwrilsvahcl",
+                    "group_title": "Группа 5"
+                },
+                "mass": 9.1,
+                "size": {
+                    "width": 345.0,
+                    "height": 168.0,
+                    "length": 240.0
+                },
+                "sort": 5,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "o8vokwdmminuvqle3r5pfpne3btnodmv",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 240.0,
+                    "height": 168.0,
+                    "length": 345.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 71,
+                "info": {
+                    "color": "#9c35a9",
+                    "title": "Рк паштет шпротный 160г",
+                    "article": "",
+                    "group_id": "52renvjkawi12qkasbmypld7vyq73sek",
+                    "group_title": "Группа 52"
+                },
+                "mass": 4.8,
+                "size": {
+                    "width": 21.0,
+                    "height": 160.0,
+                    "length": 220.0
+                },
+                "sort": 52,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "speqpmdtpqctfiir7jn8dtu3ujj6vttx",
+                "position": {
+                    "x": 345.0,
+                    "y": 0.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 160.0,
+                    "length": 21.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#636708",
+                    "title": "Печенье ЛЕНТА Курабье 500г",
+                    "article": "",
+                    "group_id": "45drgxnsalrawjarkljusvakazyhi0km",
+                    "group_title": "Группа 4"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 4,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zazdemjdehunu36o4vhqip19wu36tnuv",
+                "position": {
+                    "x": 400.0,
+                    "y": 0.0,
+                    "z": 647.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#dcd7fb",
+                    "title": "Печенье ЛЕНТА Хрустики 500г",
+                    "article": "",
+                    "group_id": "7ihfbkabbk7kdu2iza96llbd1iwdnh2n",
+                    "group_title": "Группа 7"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 7,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zm0wc76iesfncvydzqty8wm90xwnzrkb",
+                "position": {
+                    "x": 400.0,
+                    "y": 0.0,
+                    "z": 494.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#636708",
+                    "title": "Печенье ЛЕНТА Курабье 500г",
+                    "article": "",
+                    "group_id": "45drgxnsalrawjarkljusvakazyhi0km",
+                    "group_title": "Группа 4"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 4,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zazdemjdehunu36o4vhqip19wu36tnuv",
+                "position": {
+                    "x": 600.0,
+                    "y": 0.0,
+                    "z": 647.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#dcd7fb",
+                    "title": "Печенье ЛЕНТА Хрустики 500г",
+                    "article": "",
+                    "group_id": "7ihfbkabbk7kdu2iza96llbd1iwdnh2n",
+                    "group_title": "Группа 7"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 7,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zm0wc76iesfncvydzqty8wm90xwnzrkb",
+                "position": {
+                    "x": 600.0,
+                    "y": 0.0,
+                    "z": 494.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#636708",
+                    "title": "Печенье ЛЕНТА Курабье 500г",
+                    "article": "",
+                    "group_id": "45drgxnsalrawjarkljusvakazyhi0km",
+                    "group_title": "Группа 4"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 4,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zazdemjdehunu36o4vhqip19wu36tnuv",
+                "position": {
+                    "x": 800.0,
+                    "y": 0.0,
+                    "z": 647.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#636708",
+                    "title": "Печенье ЛЕНТА Курабье 500г",
+                    "article": "",
+                    "group_id": "45drgxnsalrawjarkljusvakazyhi0km",
+                    "group_title": "Группа 4"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 4,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zazdemjdehunu36o4vhqip19wu36tnuv",
+                "position": {
+                    "x": 800.0,
+                    "y": 0.0,
+                    "z": 494.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#db99a0",
+                    "title": "Печенье ЛЕНТА Венское 500г",
+                    "article": "",
+                    "group_id": "2naovvfysueqwe6946jwtaejsckxev3w",
+                    "group_title": "Группа 2"
+                },
+                "mass": 0.54,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hou6jiewpflidnnpiocstpgunxrt9ryr",
+                "position": {
+                    "x": 1000.0,
+                    "y": 0.0,
+                    "z": 647.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#636708",
+                    "title": "Печенье ЛЕНТА Курабье 500г",
+                    "article": "",
+                    "group_id": "45drgxnsalrawjarkljusvakazyhi0km",
+                    "group_title": "Группа 4"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 4,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zazdemjdehunu36o4vhqip19wu36tnuv",
+                "position": {
+                    "x": 1000.0,
+                    "y": 0.0,
+                    "z": 494.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#36753d",
+                    "title": "Корм дкош WHISKAS Желе с гов и ягн 75г",
+                    "article": "",
+                    "group_id": "24djiibwbzfecguoj2skxhymfmuqzar3",
+                    "group_title": "Группа 24"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 24,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1mwpxwucxlxenjsyfsri5bsdudmfxarq",
+                "position": {
+                    "x": 0.0,
+                    "y": 150.0,
+                    "z": 685.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#0133c8",
+                    "title": "Зефир ШАРМЭЛЬ с ароматом ванили 255г",
+                    "article": "",
+                    "group_id": "1xzrytefbrh9ivhzjew4ksb5qxferazy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 3.842,
+                "size": {
+                    "width": 300.0,
+                    "height": 193.0,
+                    "length": 400.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eomgvv1rjxzqr1zk0x1dpo8i1diqvb7p",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 193.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#c858a6",
+                    "title": "Корм дкош WHISKAS Желе с кур и инд 75г",
+                    "article": "",
+                    "group_id": "19svapismnnjb550pcrdji35pb4lgune",
+                    "group_title": "Группа 19"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 19,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eyhrquvj3h2euokcveigxjvc4jwcotla",
+                "position": {
+                    "x": 0.0,
+                    "y": 168.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#c858a6",
+                    "title": "Корм дкош WHISKAS Желе с кур и инд 75г",
+                    "article": "",
+                    "group_id": "19svapismnnjb550pcrdji35pb4lgune",
+                    "group_title": "Группа 19"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 19,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eyhrquvj3h2euokcveigxjvc4jwcotla",
+                "position": {
+                    "x": 98.0,
+                    "y": 168.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#3c54fc",
+                    "title": "Корм дкош WHISKAS Желе с курицей 75г",
+                    "article": "",
+                    "group_id": "20nvdompictndodgskknwaft9kcfp6tl",
+                    "group_title": "Группа 20"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 20,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "u40owcqdiddqrwjckwqngmikb4d5mblg",
+                "position": {
+                    "x": 196.0,
+                    "y": 168.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#2cb975",
+                    "title": "Корм дкотят WHISKAS Рагу с ягненком 75г",
+                    "article": "",
+                    "group_id": "32kwcybqnppnlsxysgqgixzsedsbideh",
+                    "group_title": "Группа 32"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 32,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uhuprml2rsxlydcdz2opjnaf6anthnzd",
+                "position": {
+                    "x": 294.0,
+                    "y": 168.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#52205c",
+                    "title": "Корм дкотят WHISKAS Паштет с куриц 75г",
+                    "article": "",
+                    "group_id": "33covdn2wxrfj1a2mx4g1d1gch1wwlkb",
+                    "group_title": "Группа 33"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 33,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "d0kepl7wh5ojb0g8nnbgoyzcbxqwfy7b",
+                "position": {
+                    "x": 0.0,
+                    "y": 293.0,
+                    "z": 693.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#cf87ea",
+                    "title": "Корм дстер.кош PERFECT FIT Гов соус 75г",
+                    "article": "",
+                    "group_id": "18nct1veaj35yoqgcql7es05jopqwght",
+                    "group_title": "Группа 18"
+                },
+                "mass": 2.321,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 18,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zatgbok7ejozxsyejm3px6n36rrratlo",
+                "position": {
+                    "x": 0.0,
+                    "y": 193.0,
+                    "z": 196.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#eeefe6",
+                    "title": "Корм дкош WHISKAS Паштет из кур инд 75г",
+                    "article": "",
+                    "group_id": "17wmikxdnsqhuppmzdwxqfd0sskifl0m",
+                    "group_title": "Группа 17"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 17,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lyr062uzm3gz4wjnrfilggfdbr9odwuh",
+                "position": {
+                    "x": 0.0,
+                    "y": 193.0,
+                    "z": 98.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#eeefe6",
+                    "title": "Корм дкош WHISKAS Паштет из кур инд 75г",
+                    "article": "",
+                    "group_id": "17wmikxdnsqhuppmzdwxqfd0sskifl0m",
+                    "group_title": "Группа 17"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 17,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lyr062uzm3gz4wjnrfilggfdbr9odwuh",
+                "position": {
+                    "x": 0.0,
+                    "y": 193.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#52205c",
+                    "title": "Корм дкотят WHISKAS Паштет с куриц 75г",
+                    "article": "",
+                    "group_id": "33covdn2wxrfj1a2mx4g1d1gch1wwlkb",
+                    "group_title": "Группа 33"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 33,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "d0kepl7wh5ojb0g8nnbgoyzcbxqwfy7b",
+                "position": {
+                    "x": 0.0,
+                    "y": 311.0,
+                    "z": 595.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#219695",
+                    "title": "Жмыло AURA Ромашка с антибак. эфф500мл",
+                    "article": "",
+                    "group_id": "13jfeyu9jkd0fjfcj6moe1ujtq77lfph",
+                    "group_title": "Группа 13"
+                },
+                "mass": 6.8,
+                "size": {
+                    "width": 220.0,
+                    "height": 295.0,
+                    "length": 360.0
+                },
+                "sort": 13,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pd53znpswvq0es0czrvuggayyjjfk4jj",
+                "position": {
+                    "x": 410.0,
+                    "y": 60.0,
+                    "z": 580.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 295.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#7f57cd",
+                    "title": "Жмыло Я САМАЯ Масло Арганы 500мл",
+                    "article": "",
+                    "group_id": "12iqeir0bppuc66rofdwrobrr7dlcr8g",
+                    "group_title": "Группа 12"
+                },
+                "mass": 6.8,
+                "size": {
+                    "width": 200.0,
+                    "height": 280.0,
+                    "length": 430.0
+                },
+                "sort": 12,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lzb8wmpwotqvj3tjjnakac6nhp3ccew3",
+                "position": {
+                    "x": 770.0,
+                    "y": 60.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 280.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#2f8a38",
+                    "title": "Корм дкош WHISKAS Паштет инд крол 75г",
+                    "article": "",
+                    "group_id": "16xqq3lnwsdaj53jhhblwg3swk1e9gx4",
+                    "group_title": "Группа 16"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 16,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "q8qze4upk65xgf5vdegcd0m4y3lhsncw",
+                "position": {
+                    "x": 410.0,
+                    "y": 60.0,
+                    "z": 482.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#36753d",
+                    "title": "Корм дкош WHISKAS Желе с гов и ягн 75г",
+                    "article": "",
+                    "group_id": "24djiibwbzfecguoj2skxhymfmuqzar3",
+                    "group_title": "Группа 24"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 24,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1mwpxwucxlxenjsyfsri5bsdudmfxarq",
+                "position": {
+                    "x": 410.0,
+                    "y": 203.0,
+                    "z": 482.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#83357a",
+                    "title": "Корм дкош PURINA ONE домаш курмор 75г",
+                    "article": "",
+                    "group_id": "22e8g2msnrbngn57sb74hzt5gl2al6lq",
+                    "group_title": "Группа 22"
+                },
+                "mass": 2.3,
+                "size": {
+                    "width": 100.0,
+                    "height": 142.0,
+                    "length": 395.0
+                },
+                "sort": 22,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vklpypxncxosmum8wbolwoitobslv6bt",
+                "position": {
+                    "x": 805.0,
+                    "y": 60.0,
+                    "z": 500.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 100.0,
+                    "height": 142.0,
+                    "length": 395.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#326350",
+                    "title": "Корм дстер.кош PERFECT FIT Крол соус 75",
+                    "article": "",
+                    "group_id": "21qmh5gpbes0k8wazh9zzwhvsevbotdl",
+                    "group_title": "Группа 21"
+                },
+                "mass": 2.321,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 21,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2bjaxlzhiukglhxdzifrigxmz2opzlq2",
+                "position": {
+                    "x": 815.0,
+                    "y": 202.0,
+                    "z": 502.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#8ab7a7",
+                    "title": "Корм дкош WHISKAS Паштет с уткой 75г",
+                    "article": "",
+                    "group_id": "15z7of3wtyalohrl7yqt2jt9khg9so8r",
+                    "group_title": "Группа 15"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 15,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wnqc4fv5bg1la74dyus3cgdina5ypfgm",
+                "position": {
+                    "x": 450.0,
+                    "y": 0.0,
+                    "z": 380.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#6e40ab",
+                    "title": "Хлопья ЯСНО СОЛН овсяные №2 800г",
+                    "article": "",
+                    "group_id": "92tjy60jbw5pu9cnlyxqmuaglgzrbuzo",
+                    "group_title": "Группа 9"
+                },
+                "mass": 4.33,
+                "size": {
+                    "width": 150.0,
+                    "height": 210.0,
+                    "length": 380.0
+                },
+                "sort": 9,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lezarnhm5rl7fh6b7zmr8epcsf9lwrv9",
+                "position": {
+                    "x": 400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 380.0,
+                    "height": 210.0,
+                    "length": 150.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#8726e5",
+                    "title": "Корм двзр.кош PURINA ONE с говмор 75г",
+                    "article": "",
+                    "group_id": "34wgc37pvqjodv4jmnomk6uxpdixae90",
+                    "group_title": "Группа 34"
+                },
+                "mass": 2.3,
+                "size": {
+                    "width": 100.0,
+                    "height": 142.0,
+                    "length": 395.0
+                },
+                "sort": 34,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "j0liyzrs43wi8g3yihfsp58ebeisfu2z",
+                "position": {
+                    "x": 450.0,
+                    "y": 210.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 395.0,
+                    "height": 142.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#50fa6d",
+                    "title": "Халва РОТ ФРОНТ Дружба Возд с арах500г",
+                    "article": "",
+                    "group_id": "3gfwoamvfcjfyqapmrzstthx3ohk4fyn",
+                    "group_title": "Группа 3"
+                },
+                "mass": 1.83,
+                "size": {
+                    "width": 380.0,
+                    "height": 105.0,
+                    "length": 285.0
+                },
+                "sort": 3,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zoj4okhmjzlus2fday5fryhky14b8aol",
+                "position": {
+                    "x": 550.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 380.0,
+                    "height": 105.0,
+                    "length": 285.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#56380e",
+                    "title": "Шоколад MILKA мол цельн фунд85г",
+                    "article": "",
+                    "group_id": "10tfs1s7f5wbfznd0kylgdryuhifetaa",
+                    "group_title": "Группа 10"
+                },
+                "mass": 1.73,
+                "size": {
+                    "width": 185.0,
+                    "height": 70.0,
+                    "length": 200.0
+                },
+                "sort": 10,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vbqc785zv0bwknirvwwsgikonjk2t1on",
+                "position": {
+                    "x": 835.0,
+                    "y": 0.0,
+                    "z": 261.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 185.0,
+                    "height": 70.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#519677",
+                    "title": "Изделие сдоб DELISSE Заряшки слоёные500г",
+                    "article": "",
+                    "group_id": "6dkxfol9vis5wvx6naccko8jojte9zml",
+                    "group_title": "Группа 6"
+                },
+                "mass": 0.56,
+                "size": {
+                    "width": 194.0,
+                    "height": 100.0,
+                    "length": 261.0
+                },
+                "sort": 6,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ewqsoi2ypopyv6gyy1w46xw87l6pbr2o",
+                "position": {
+                    "x": 835.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 261.0,
+                    "height": 100.0,
+                    "length": 194.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#e5ed16",
+                    "title": "Прокладки VIVI Comfort Normal Soft",
+                    "article": "",
+                    "group_id": "14vsdiqtuuc3vs6y78uugbte5ywcmhwc",
+                    "group_title": "Группа 14"
+                },
+                "mass": 1.536,
+                "size": {
+                    "width": 326.0,
+                    "height": 183.0,
+                    "length": 340.0
+                },
+                "sort": 14,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "5oggxeehihs46wpgbihymv7wottcgtdo",
+                "position": {
+                    "x": 550.0,
+                    "y": 105.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 326.0,
+                    "height": 183.0,
+                    "length": 340.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#0b4858",
+                    "title": "Корм дкош WHISKAS Рагу с телятиной 75г",
+                    "article": "",
+                    "group_id": "23idtby1d64rxk5vae8jhz1kwsd6nahc",
+                    "group_title": "Группа 23"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 23,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "71u6r7x4rowef7uf7xgdlpoamtbkrr6v",
+                "position": {
+                    "x": 890.0,
+                    "y": 100.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#d3bfa8",
+                    "title": "Корм дкош WHISKAS микс рагу уткпеч 75г",
+                    "article": "",
+                    "group_id": "35r6auq9gsdlqa5fymmjkaizk6jhi9x8",
+                    "group_title": "Группа 35"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 35,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xrfv7i5qmnowytgnhc2swgom3nyp1y52",
+                "position": {
+                    "x": 988.0,
+                    "y": 100.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#636708",
+                    "title": "Печенье ЛЕНТА Курабье 500г",
+                    "article": "",
+                    "group_id": "45drgxnsalrawjarkljusvakazyhi0km",
+                    "group_title": "Группа 4"
+                },
+                "mass": 0.55,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 4,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zazdemjdehunu36o4vhqip19wu36tnuv",
+                "position": {
+                    "x": 1047.0,
+                    "y": 0.0,
+                    "z": 294.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 60.0,
+                    "length": 153.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#db99a0",
+                    "title": "Печенье ЛЕНТА Венское 500г",
+                    "article": "",
+                    "group_id": "2naovvfysueqwe6946jwtaejsckxev3w",
+                    "group_title": "Группа 2"
+                },
+                "mass": 0.54,
+                "size": {
+                    "width": 153.0,
+                    "height": 60.0,
+                    "length": 200.0
+                },
+                "sort": 2,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hou6jiewpflidnnpiocstpgunxrt9ryr",
+                "position": {
+                    "x": 1029.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 60.0,
+                    "length": 153.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#2f8a38",
+                    "title": "Корм дкош WHISKAS Паштет инд крол 75г",
+                    "article": "",
+                    "group_id": "16xqq3lnwsdaj53jhhblwg3swk1e9gx4",
+                    "group_title": "Группа 16"
+                },
+                "mass": 2.013,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 16,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "q8qze4upk65xgf5vdegcd0m4y3lhsncw",
+                "position": {
+                    "x": 1102.0,
+                    "y": 60.0,
+                    "z": 115.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#78744f",
+                    "title": "Корм дкош WHISKAS Желе с лососем 75г",
+                    "article": "",
+                    "group_id": "26hwapcvjmpqb0avstdqpz07ocxlxtvm",
+                    "group_title": "Группа 26"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 26,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "iqdoomb7syuugiophx3nntibubpbwbe5",
+                "position": {
+                    "x": 410.0,
+                    "y": 355.0,
+                    "z": 702.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#0c9f92",
+                    "title": "Корм дкош WHISKAS Желе с гов и крол 75г",
+                    "article": "",
+                    "group_id": "25gaidrdt75yxcjlt88efk9yopoia7dx",
+                    "group_title": "Группа 25"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 25,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "brcvycdktts2rla0czmuvhqdmmbgld0f",
+                "position": {
+                    "x": 815.0,
+                    "y": 340.0,
+                    "z": 702.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#8999a5",
+                    "title": "Корм дкошек KITEKAT вк ягн в соусе 85г",
+                    "article": "",
+                    "group_id": "27l3xtkka5gzcxktni6mdckra2hak7ce",
+                    "group_title": "Группа 27"
+                },
+                "mass": 2.605,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 27,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "m8ymgbyfpjfpy0r8xyznxj9y1lxcwfsj",
+                "position": {
+                    "x": 410.0,
+                    "y": 355.0,
+                    "z": 604.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#0c9f92",
+                    "title": "Корм дкош WHISKAS Желе с гов и крол 75г",
+                    "article": "",
+                    "group_id": "25gaidrdt75yxcjlt88efk9yopoia7dx",
+                    "group_title": "Группа 25"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 25,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "brcvycdktts2rla0czmuvhqdmmbgld0f",
+                "position": {
+                    "x": 815.0,
+                    "y": 340.0,
+                    "z": 604.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#a9f100",
+                    "title": "Корм дкош WHISKAS слив.соус лоскрев 75",
+                    "article": "",
+                    "group_id": "31coq6xm9amhpfzj4ven7ylqzxzlnfez",
+                    "group_title": "Группа 31"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 31,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uj1zsqqgznpsnvp0hkbxm5p7qjbsxblh",
+                "position": {
+                    "x": 410.0,
+                    "y": 355.0,
+                    "z": 506.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#a9f100",
+                    "title": "Корм дкош WHISKAS слив.соус лоскрев 75",
+                    "article": "",
+                    "group_id": "31coq6xm9amhpfzj4ven7ylqzxzlnfez",
+                    "group_title": "Группа 31"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 31,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uj1zsqqgznpsnvp0hkbxm5p7qjbsxblh",
+                "position": {
+                    "x": 795.0,
+                    "y": 345.0,
+                    "z": 506.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 66,
+                "info": {
+                    "color": "#bc1f70",
+                    "title": "Огурцы 365 ДНЕЙ соленые ст. 720мл",
+                    "article": "",
+                    "group_id": "472gv05rxcvk1jvi6ezooqbndtd7euvr",
+                    "group_title": "Группа 47"
+                },
+                "mass": 6.348,
+                "size": {
+                    "width": 195.0,
+                    "height": 130.0,
+                    "length": 290.0
+                },
+                "sort": 47,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "viukzxjzy8xno70jzqbwci2meqmwkaa6",
+                "position": {
+                    "x": 0.0,
+                    "y": 454.0,
+                    "z": 595.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 195.0,
+                    "height": 130.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#10d396",
+                    "title": "Корм дсоб PEDIGREE Говяд всех пор2,2кг",
+                    "article": "",
+                    "group_id": "28j643wkvu4afv4xspqztrwp4twuks6c",
+                    "group_title": "Группа 28"
+                },
+                "mass": 6.68,
+                "size": {
+                    "width": 235.0,
+                    "height": 290.0,
+                    "length": 295.0
+                },
+                "sort": 28,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "exhqerzmztwcbyzv1mlw2tfnrq9z8pie",
+                "position": {
+                    "x": 0.0,
+                    "y": 311.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 295.0,
+                    "height": 290.0,
+                    "length": 235.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 63,
+                "info": {
+                    "color": "#e7f64a",
+                    "title": "Горчица МАХЕЕВЪ Русская 140г",
+                    "article": "",
+                    "group_id": "45zoyuuwkuuusu4gvbewevkjecvryb0m",
+                    "group_title": "Группа 45"
+                },
+                "mass": 2.8,
+                "size": {
+                    "width": 170.0,
+                    "height": 215.0,
+                    "length": 245.0
+                },
+                "sort": 45,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zhwkpdo5jnx9bkkmnvc501p2wqm5obn2",
+                "position": {
+                    "x": 235.0,
+                    "y": 311.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 245.0,
+                    "height": 215.0,
+                    "length": 170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 58,
+                "info": {
+                    "color": "#80b7a4",
+                    "title": "Корм дкош WHISKAS курица в соусе 75г",
+                    "article": "",
+                    "group_id": "41rcfph8ntehkzy6mkefe0cpa73scjva",
+                    "group_title": "Группа 41"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 41,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wzd0hu3cgt0djvmqp3kq4s46hwcdvlvn",
+                "position": {
+                    "x": 550.0,
+                    "y": 288.0,
+                    "z": 292.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 51,
+                "info": {
+                    "color": "#6ea1cc",
+                    "title": "Корм дкош WHISKAS желе с говядиной 75г",
+                    "article": "",
+                    "group_id": "36trfh0lpv7majxkhvvugtuv1imslnei",
+                    "group_title": "Группа 36"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 36,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wi9rt6f8calko6bnfeytvs0vzrd5i8fh",
+                "position": {
+                    "x": 550.0,
+                    "y": 288.0,
+                    "z": 194.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#a971c4",
+                    "title": "Изделия слоен DELISSE Заряшки с сах.500г",
+                    "article": "",
+                    "group_id": "11qvazwf01qwso1cdgdksxrtdempvgeh",
+                    "group_title": "Группа 11"
+                },
+                "mass": 0.56,
+                "size": {
+                    "width": 194.0,
+                    "height": 100.0,
+                    "length": 261.0
+                },
+                "sort": 11,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dmhudfmdnbcyazjnanfwpvrfpfhmnwjq",
+                "position": {
+                    "x": 550.0,
+                    "y": 288.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 194.0,
+                    "height": 100.0,
+                    "length": 261.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#fc90be",
+                    "title": "Корм PURINA ONE дкрасивой шерсти 750г",
+                    "article": "",
+                    "group_id": "297xmb0egv3jcxfvxvzcui2m8d0ajzjg",
+                    "group_title": "Группа 29"
+                },
+                "mass": 6.6,
+                "size": {
+                    "width": 300.0,
+                    "height": 217.0,
+                    "length": 400.0
+                },
+                "sort": 29,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l87qqyt8vyjapsf9vvittdzde2uv1y6z",
+                "position": {
+                    "x": 0.0,
+                    "y": 336.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 217.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#030202",
+                    "title": "Корм дкош WHISKAS Рагу форель и лос 75г",
+                    "article": "",
+                    "group_id": "37x3ovcqaqvf20xedhq0hi6vsx1qtbqn",
+                    "group_title": "Группа 37"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 37,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "quir1hpb6p0wswl5y9wrbbw0hcouhjl6",
+                "position": {
+                    "x": 452.0,
+                    "y": 352.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 74,
+                "info": {
+                    "color": "#4e6fe8",
+                    "title": "Маслины 365 ДНЕЙ черные бк 300314мл",
+                    "article": "",
+                    "group_id": "55jg2dj8m7hjdblrp33oqeg9qfoc0oef",
+                    "group_title": "Группа 55"
+                },
+                "mass": 3.984,
+                "size": {
+                    "width": 200.0,
+                    "height": 100.0,
+                    "length": 270.0
+                },
+                "sort": 55,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "4miwhlbgiaaxm4jy6htmmzvqivyksbed",
+                "position": {
+                    "x": 550.0,
+                    "y": 431.0,
+                    "z": 190.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 100.0,
+                    "length": 270.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 69,
+                "info": {
+                    "color": "#75fc3a",
+                    "title": "Томатная паста 365 ДНЕЙ ТУ 25% 500г",
+                    "article": "",
+                    "group_id": "50kkmhbqk9i6ggz87piscsctyimsqkrl",
+                    "group_title": "Группа 50"
+                },
+                "mass": 6.02,
+                "size": {
+                    "width": 170.0,
+                    "height": 120.0,
+                    "length": 340.0
+                },
+                "sort": 50,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "91j3gu2ofkpwrkcl2cbagb4r7tzmtnpr",
+                "position": {
+                    "x": 550.0,
+                    "y": 388.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 170.0,
+                    "height": 120.0,
+                    "length": 340.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 76,
+                "info": {
+                    "color": "#8532a5",
+                    "title": "Соус MIVIMEX Чили кавказский 200г",
+                    "article": "",
+                    "group_id": "57amdxtjgkgb6vvbkdzqkuinrb6ywacg",
+                    "group_title": "Группа 57"
+                },
+                "mass": 3.51,
+                "size": {
+                    "width": 143.0,
+                    "height": 198.0,
+                    "length": 238.0
+                },
+                "sort": 57,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6tyytfijpipoboknmcalfmkfvm28ul9e",
+                "position": {
+                    "x": 943.0,
+                    "y": 243.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 238.0,
+                    "height": 198.0,
+                    "length": 143.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#7f2911",
+                    "title": "Корм дкотят WHISKAS Рагу с курицей 75г",
+                    "article": "",
+                    "group_id": "30peugz1d1rbesrmpn8ht7qwenk8lezr",
+                    "group_title": "Группа 30"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 30,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "770jeuvkn7r0cpxlfct62b93iegnml7c",
+                "position": {
+                    "x": 1102.0,
+                    "y": 203.0,
+                    "z": 115.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 53,
+                "info": {
+                    "color": "#fe2995",
+                    "title": "Корм дкош WHISKAS Рагу с курицей 75г",
+                    "article": "",
+                    "group_id": "38dzkpivzfsx6smvlcp1jgrnchf4jxyz",
+                    "group_title": "Группа 38"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 38,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "fwj0aza9hget8jjf47ikuthee2kohcqr",
+                "position": {
+                    "x": 1102.0,
+                    "y": 346.0,
+                    "z": 115.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 68,
+                "info": {
+                    "color": "#e1944e",
+                    "title": "Уксус 365 ДНЕЙ Пищевой 0,5л",
+                    "article": "",
+                    "group_id": "49umolrtddebynqxbgobs4ed8tkevuya",
+                    "group_title": "Группа 49"
+                },
+                "mass": 8.025,
+                "size": {
+                    "width": 190.0,
+                    "height": 210.0,
+                    "length": 320.0
+                },
+                "sort": 49,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "i4fah2aci3jfuxku06sceaybwrbexe4o",
+                "position": {
+                    "x": 410.0,
+                    "y": 498.0,
+                    "z": 610.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 190.0,
+                    "height": 210.0,
+                    "length": 320.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 49,
+                "info": {
+                    "color": "#6ea1cc",
+                    "title": "Корм дкош WHISKAS желе с говядиной 75г",
+                    "article": "",
+                    "group_id": "36trfh0lpv7majxkhvvugtuv1imslnei",
+                    "group_title": "Группа 36"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 36,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wi9rt6f8calko6bnfeytvs0vzrd5i8fh",
+                "position": {
+                    "x": 815.0,
+                    "y": 483.0,
+                    "z": 702.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 50,
+                "info": {
+                    "color": "#6ea1cc",
+                    "title": "Корм дкош WHISKAS желе с говядиной 75г",
+                    "article": "",
+                    "group_id": "36trfh0lpv7majxkhvvugtuv1imslnei",
+                    "group_title": "Группа 36"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 36,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wi9rt6f8calko6bnfeytvs0vzrd5i8fh",
+                "position": {
+                    "x": 815.0,
+                    "y": 483.0,
+                    "z": 604.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 54,
+                "info": {
+                    "color": "#73062b",
+                    "title": "Корм дкош WHISKAS Рагу с инд и крол 75г",
+                    "article": "",
+                    "group_id": "396vd4sb8pnv5hctuofuphhhkyxdzmvi",
+                    "group_title": "Группа 39"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 39,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hlwmkkx4w0fudgx39tfzqhdfgqim5awo",
+                "position": {
+                    "x": 410.0,
+                    "y": 498.0,
+                    "z": 512.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 72,
+                "info": {
+                    "color": "#d1a250",
+                    "title": "Патиссоны ЛЕНТА маринованные 720мл",
+                    "article": "",
+                    "group_id": "53w6sv4hfnbp6jbj7wjolqjmk7skcxet",
+                    "group_title": "Группа 53"
+                },
+                "mass": 6.372,
+                "size": {
+                    "width": 285.0,
+                    "height": 130.0,
+                    "length": 190.0
+                },
+                "sort": 53,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hhsaucwyyyoiueycdhenmvwbubj6jpsa",
+                "position": {
+                    "x": 795.0,
+                    "y": 488.0,
+                    "z": 414.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 190.0,
+                    "height": 130.0,
+                    "length": 285.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 55,
+                "info": {
+                    "color": "#73062b",
+                    "title": "Корм дкош WHISKAS Рагу с инд и крол 75г",
+                    "article": "",
+                    "group_id": "396vd4sb8pnv5hctuofuphhhkyxdzmvi",
+                    "group_title": "Группа 39"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 39,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hlwmkkx4w0fudgx39tfzqhdfgqim5awo",
+                "position": {
+                    "x": 0.0,
+                    "y": 601.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 56,
+                "info": {
+                    "color": "#5b8556",
+                    "title": "Корм дкош WHISKAS желе говязовощ 75г",
+                    "article": "",
+                    "group_id": "40w8zjbacjeoxldihdjoayqurzjp488i",
+                    "group_title": "Группа 40"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 40,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hjfudtvofsupup4j5tparftdaxwqlxx3",
+                "position": {
+                    "x": 98.0,
+                    "y": 601.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 61,
+                "info": {
+                    "color": "#d8cfd7",
+                    "title": "Корм дкош WHISKAS Рагу с ягненком 7+75г",
+                    "article": "",
+                    "group_id": "44mywfuhvqpuzlheb9nqy6qn1uydoceb",
+                    "group_title": "Группа 44"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 44,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "see6hezv97ydud3hweavfklsms5zqdgl",
+                "position": {
+                    "x": 410.0,
+                    "y": 708.0,
+                    "z": 702.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 60,
+                "info": {
+                    "color": "#5b1f41",
+                    "title": "Корм дкош WHISKAS желе с кроликом 75г",
+                    "article": "",
+                    "group_id": "43evl5yzqtdf5wiuwxcro39wahe75qco",
+                    "group_title": "Группа 43"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 43,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kdrs5mouuz236g9za9lnkt0rfbdfpxoi",
+                "position": {
+                    "x": 410.0,
+                    "y": 641.0,
+                    "z": 512.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 67,
+                "info": {
+                    "color": "#53d65d",
+                    "title": "Морская капуста ДОШИРАК Доль Ким 5г",
+                    "article": "",
+                    "group_id": "48epftw06l6g4hpfnpujakud8qo2amru",
+                    "group_title": "Группа 48"
+                },
+                "mass": 1.71,
+                "size": {
+                    "width": 255.0,
+                    "height": 195.0,
+                    "length": 575.0
+                },
+                "sort": 48,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ukfbvh6ga1vqplpkwfpjqqknykq4v9d7",
+                "position": {
+                    "x": 0.0,
+                    "y": 553.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 255.0,
+                    "height": 195.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 77,
+                "info": {
+                    "color": "#d0dcaa",
+                    "title": "Соус SEN SOY соев Классический столов 1л",
+                    "article": "",
+                    "group_id": "58ajluqvdhcd5itkj5vqs1nhdwy6ojso",
+                    "group_title": "Группа 58"
+                },
+                "mass": 7.0,
+                "size": {
+                    "width": 180.0,
+                    "height": 260.0,
+                    "length": 260.0
+                },
+                "sort": 58,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hrro6tsra6fu0jetg3bcokltxihdjs3p",
+                "position": {
+                    "x": 630.0,
+                    "y": 508.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 180.0,
+                    "height": 260.0,
+                    "length": 260.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 57,
+                "info": {
+                    "color": "#80b7a4",
+                    "title": "Корм дкош WHISKAS курица в соусе 75г",
+                    "article": "",
+                    "group_id": "41rcfph8ntehkzy6mkefe0cpa73scjva",
+                    "group_title": "Группа 41"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 41,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wzd0hu3cgt0djvmqp3kq4s46hwcdvlvn",
+                "position": {
+                    "x": 1102.0,
+                    "y": 489.0,
+                    "z": 115.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 70,
+                "info": {
+                    "color": "#81f7a5",
+                    "title": "Мк говядина СКОПИНСКИЙ туш вс ГОСТ 325",
+                    "article": "",
+                    "group_id": "51gyem7aqb5qzlbtgvod6yxhwrkc2dlz",
+                    "group_title": "Группа 51"
+                },
+                "mass": 7.1,
+                "size": {
+                    "width": 310.0,
+                    "height": 170.0,
+                    "length": 210.0
+                },
+                "sort": 51,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1hmykjad6ihzbnlxpew7qe7owknmxafe",
+                "position": {
+                    "x": 890.0,
+                    "y": 626.0,
+                    "z": 590.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 210.0,
+                    "height": 170.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 62,
+                "info": {
+                    "color": "#d8cfd7",
+                    "title": "Корм дкош WHISKAS Рагу с ягненком 7+75г",
+                    "article": "",
+                    "group_id": "44mywfuhvqpuzlheb9nqy6qn1uydoceb",
+                    "group_title": "Группа 44"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 44,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "see6hezv97ydud3hweavfklsms5zqdgl",
+                "position": {
+                    "x": 0.0,
+                    "y": 744.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 64,
+                "info": {
+                    "color": "#7bc222",
+                    "title": "Корм дкош WHISKAS Рагу с гов и ягн 75г",
+                    "article": "",
+                    "group_id": "46rxzh0w5zy0cswxn0ounj9ck9c3we36",
+                    "group_title": "Группа 46"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 46,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hcr1ahmnscwbptn3sausbzhiar5fo42r",
+                "position": {
+                    "x": 98.0,
+                    "y": 744.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 73,
+                "info": {
+                    "color": "#f0512f",
+                    "title": "Маслины ЛЕНТА черные крупные бк 370 мл",
+                    "article": "",
+                    "group_id": "54cdmc9767kutjs2ajbyil8njealfnkd",
+                    "group_title": "Группа 54"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 200.0,
+                    "height": 120.0,
+                    "length": 270.0
+                },
+                "sort": 54,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "twjzkuqkjtjq0ehjc5fzntxfbqvfggph",
+                "position": {
+                    "x": 0.0,
+                    "y": 748.0,
+                    "z": 98.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 120.0,
+                    "length": 270.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 59,
+                "info": {
+                    "color": "#70b11b",
+                    "title": "Корм дкош WHISKAS микс сл.соус курут75",
+                    "article": "",
+                    "group_id": "42vk9xycsl4am5r1zblcy9qeezmqyt3z",
+                    "group_title": "Группа 42"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 42,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jauxv0z96skxvhxk506str0zneklflah",
+                "position": {
+                    "x": 1102.0,
+                    "y": 632.0,
+                    "z": 115.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 143.0,
+                    "length": 98.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 65,
+                "info": {
+                    "color": "#7bc222",
+                    "title": "Корм дкош WHISKAS Рагу с гов и ягн 75г",
+                    "article": "",
+                    "group_id": "46rxzh0w5zy0cswxn0ounj9ck9c3we36",
+                    "group_title": "Группа 46"
+                },
+                "mass": 2.325,
+                "size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "sort": 46,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hcr1ahmnscwbptn3sausbzhiar5fo42r",
+                "position": {
+                    "x": 0.0,
+                    "y": 748.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 143.0,
+                    "length": 385.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 75,
+                "info": {
+                    "color": "#188e78",
+                    "title": "Лапша ЛЕНТА крахмальная Фунчоза 200г",
+                    "article": "",
+                    "group_id": "56wlvkpsyypcmvdcoekln3sxhzykfqyn",
+                    "group_title": "Группа 56"
+                },
+                "mass": 4.46,
+                "size": {
+                    "width": 253.0,
+                    "height": 237.0,
+                    "length": 380.0
+                },
+                "sort": 56,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "mhaaqq0q29w3b0gazkpb4awdq6tmib7d",
+                "position": {
+                    "x": 0.0,
+                    "y": 887.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 380.0,
+                    "height": 237.0,
+                    "length": 253.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 80,
+                "info": {
+                    "color": "#53f8fa",
+                    "title": "Чипсы LAYS Stax Сметана и лук 140г",
+                    "article": "",
+                    "group_id": "61c6m3saevqob7n9m0c5hmm2n6rz5bvn",
+                    "group_title": "Группа 61"
+                },
+                "mass": 2.163,
+                "size": {
+                    "width": 240.0,
+                    "height": 240.0,
+                    "length": 240.0
+                },
+                "sort": 61,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kvgu6jzvzd2vosbdht7yparjrww1q2ae",
+                "position": {
+                    "x": 410.0,
+                    "y": 851.0,
+                    "z": 560.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 240.0,
+                    "height": 240.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 78,
+                "info": {
+                    "color": "#816255",
+                    "title": "Луковые колечки 365 ДНЕЙ сыр и смет 50г",
+                    "article": "",
+                    "group_id": "59xyinopgmlp7kklf8ywnw84l4nspdab",
+                    "group_title": "Группа 59"
+                },
+                "mass": 2.1,
+                "size": {
+                    "width": 400.0,
+                    "height": 270.0,
+                    "length": 400.0
+                },
+                "sort": 59,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "32hwgcoq5blmuzbjbml6r98gwujby2zw",
+                "position": {
+                    "x": 0.0,
+                    "y": 891.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 270.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 79,
+                "info": {
+                    "color": "#6fd7cb",
+                    "title": "Чипсы LAYS Краб 140г",
+                    "article": "",
+                    "group_id": "60te3nbwo4y1ummfeovu2qbczeydcugt",
+                    "group_title": "Группа 60"
+                },
+                "mass": 3.26,
+                "size": {
+                    "width": 386.0,
+                    "height": 231.0,
+                    "length": 586.0
+                },
+                "sort": 60,
+                "step": 51,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pjq2hjyc4bymt5zcvlbik8vhvmepr1vo",
+                "position": {
+                    "x": 814.0,
+                    "y": 796.0,
+                    "z": 214.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 586.0,
+                    "height": 231.0,
+                    "length": 386.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 91,
+                "info": {
+                    "color": "#89fc22",
+                    "title": "Губка дпосуды ЛЕНТА Макси,100х70х30,8шт",
+                    "article": "",
+                    "group_id": "70oyjhr9cybbauk5bbkrel6dhpgxwhja",
+                    "group_title": "Группа 70"
+                },
+                "mass": 1.816,
+                "size": {
+                    "width": 420.0,
+                    "height": 250.0,
+                    "length": 520.0
+                },
+                "sort": 70,
+                "step": 52,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "e2pwtkm3f7hex2et92ixlsg9esumzkre",
+                "position": {
+                    "x": 0.0,
+                    "y": 1161.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 420.0,
+                    "height": 250.0,
+                    "length": 520.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 81,
+                "info": {
+                    "color": "#e984d2",
+                    "title": "Чипсы LAYS Сметана и лук 225г",
+                    "article": "",
+                    "group_id": "620ffeqxrel4uyfvnxmgwb7pehmo8wwi",
+                    "group_title": "Группа 62"
+                },
+                "mass": 3.793,
+                "size": {
+                    "width": 386.0,
+                    "height": 271.0,
+                    "length": 586.0
+                },
+                "sort": 62,
+                "step": 53,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kg8dwjwxlsd3xj38zkgs4pmnxcg25lwm",
+                "position": {
+                    "x": 814.0,
+                    "y": 1027.0,
+                    "z": 214.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 586.0,
+                    "height": 271.0,
+                    "length": 386.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 84,
+                "info": {
+                    "color": "#37f4bc",
+                    "title": "Бполотенца PAPIA 3-сл. 2шт",
+                    "article": "",
+                    "group_id": "65ehsrasbmqwlhjjtjwfgwd4lz6fl3w2",
+                    "group_title": "Группа 65"
+                },
+                "mass": 4.066,
+                "size": {
+                    "width": 400.0,
+                    "height": 230.0,
+                    "length": 770.0
+                },
+                "sort": 65,
+                "step": 54,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "q4de0ve6xoao833l4ynqxawv7zorex8x",
+                "position": {
+                    "x": 800.0,
+                    "y": 1298.0,
+                    "z": 30.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 770.0,
+                    "height": 230.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 87,
+                "info": {
+                    "color": "#d9e79b",
+                    "title": "Тбумага ЛЕНТА 2-сл.8шт",
+                    "article": "",
+                    "group_id": "68f7bhkukr6zjc64hjjrardsgjdq9s8r",
+                    "group_title": "Группа 68"
+                },
+                "mass": 3.64,
+                "size": {
+                    "width": 400.0,
+                    "height": 200.0,
+                    "length": 700.0
+                },
+                "sort": 68,
+                "step": 55,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "znycijytc9m2qy322ezxyltbsiihlc9l",
+                "position": {
+                    "x": 800.0,
+                    "y": 1528.0,
+                    "z": 100.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 700.0,
+                    "height": 200.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1112,
+            "info": {
+                "uid": "1112_0",
+                "sort": 0,
+                "title": "ЛЕНТА",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 15.0,
+            "size": {
+                "width": 800.0,
+                "height": 140.0,
+                "length": 1200.0
+            },
+            "type": "pallet",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": -1660.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 800.0,
+                "height": 1800.0,
+                "length": 1200.0
+            },
+            "calculation_info": {
+                "step_count": 55,
+                "cargos_mass": 0.245803,
+                "load_volume": 1.728,
+                "cargos_volume": 0.93356,
+                "count_cargoes": 85,
+                "load_capacity": 0.6,
+                "loading_height": 1.728,
+                "density_percent": 56.27628,
+                "remaining_volume": 0.79444,
+                "void_space_percent": 45.97477,
+                "filling_space_percent": 54.02523
+            },
+            "carrying_capacity": 600.0,
+            "real_center_of_gravity": [
+                576.3917812231748,
+                465.6805673649225,
+                440.8947368421053
+            ],
+            "ideal_center_of_gravity": [
+                600.0,
+                0.0,
+                400.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#bb781b",
+                    "title": "Бумага туалетная ЛЕНТА Сакура 2-сл.12шт",
+                    "article": "",
+                    "group_id": "63pqkglvhxln6j4ohwkwtzzwrumhu6ey",
+                    "group_title": "Группа 63"
+                },
+                "mass": 7.64,
+                "size": {
+                    "width": 480.0,
+                    "height": 200.0,
+                    "length": 800.0
+                },
+                "sort": 63,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "qwsprmelo6kv9tcyxlj5tdpv6twgiujb",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorStability"
+            },
+            {
+                "info": {
+                    "color": "#55d785",
+                    "title": "Бполотенца 365 ДНЕЙ кух. 2-сл.2шт",
+                    "article": "",
+                    "group_id": "645amget0u8h4owluxxbnjzpljhdl6ds",
+                    "group_title": "Группа 64"
+                },
+                "mass": 16.032,
+                "size": {
+                    "width": 600.0,
+                    "height": 230.0,
+                    "length": 700.0
+                },
+                "sort": 64,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "u4o5nzgabmygpr85yyhwv7zrdrp9y5z4",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorStability"
+            },
+            {
+                "info": {
+                    "color": "#c2bfcd",
+                    "title": "Тбумага FAMILIA Plus Волшеб цв 2-сл 4шт",
+                    "article": "",
+                    "group_id": "66wk7xco9cg5774y0mmvgsvsq8astber",
+                    "group_title": "Группа 66"
+                },
+                "mass": 4.6,
+                "size": {
+                    "width": 370.0,
+                    "height": 195.0,
+                    "length": 810.0
+                },
+                "sort": 66,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3v5eurra3zcwmtvwgumwunfoo0dg0ug5",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#6c3866",
+                    "title": "Тбумага ЛЕНТА Белая 3-сл.4шт",
+                    "article": "",
+                    "group_id": "67v5hvkogwgwtrwvstrwn1sczvrqxkr9",
+                    "group_title": "Группа 67"
+                },
+                "mass": 7.74,
+                "size": {
+                    "width": 590.0,
+                    "height": 195.0,
+                    "length": 740.0
+                },
+                "sort": 67,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6kb3g2phmyucvb3deyjzgypustbwbp7t",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorStability"
+            },
+            {
+                "info": {
+                    "color": "#d9e79b",
+                    "title": "Тбумага ЛЕНТА 2-сл.8шт",
+                    "article": "",
+                    "group_id": "68f7bhkukr6zjc64hjjrardsgjdq9s8r",
+                    "group_title": "Группа 68"
+                },
+                "mass": 3.64,
+                "size": {
+                    "width": 400.0,
+                    "height": 200.0,
+                    "length": 700.0
+                },
+                "sort": 68,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "znycijytc9m2qy322ezxyltbsiihlc9l",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#fbc770",
+                    "title": "Тбумага ZEWA Deluxe белая 3-сл.8шт",
+                    "article": "",
+                    "group_id": "69nvgsnqpvl9brvkasii90qtrbe84u8u",
+                    "group_title": "Группа 69"
+                },
+                "mass": 5.88,
+                "size": {
+                    "width": 428.0,
+                    "height": 190.0,
+                    "length": 826.0
+                },
+                "sort": 69,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "fsgldtv0cbijfvutqotjj5xfz8wgq8ah",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            }
+        ],
+        "packing_type": "PackingLayers",
+        "calculation_id": 15405,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "fsgldtv0cbijfvutqotjj5xfz8wgq8ah",
+                        "info": {
+                            "color": "#fbc770",
+                            "title": "Тбумага ZEWA Deluxe белая 3-сл.8шт",
+                            "article": "",
+                            "group_id": "69nvgsnqpvl9brvkasii90qtrbe84u8u",
+                            "group_title": "Группа 69"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 9,
+                "name": "errorStability",
+                "boxes": [
+                    {
+                        "id": "qwsprmelo6kv9tcyxlj5tdpv6twgiujb",
+                        "info": {
+                            "color": "#bb781b",
+                            "title": "Бумага туалетная ЛЕНТА Сакура 2-сл.12шт",
+                            "article": "",
+                            "group_id": "63pqkglvhxln6j4ohwkwtzzwrumhu6ey",
+                            "group_title": "Группа 63"
+                        }
+                    },
+                    {
+                        "id": "u4o5nzgabmygpr85yyhwv7zrdrp9y5z4",
+                        "info": {
+                            "color": "#55d785",
+                            "title": "Бполотенца 365 ДНЕЙ кух. 2-сл.2шт",
+                            "article": "",
+                            "group_id": "645amget0u8h4owluxxbnjzpljhdl6ds",
+                            "group_title": "Группа 64"
+                        }
+                    },
+                    {
+                        "id": "6kb3g2phmyucvb3deyjzgypustbwbp7t",
+                        "info": {
+                            "color": "#6c3866",
+                            "title": "Тбумага ЛЕНТА Белая 3-сл.4шт",
+                            "article": "",
+                            "group_id": "67v5hvkogwgwtrwvstrwn1sczvrqxkr9",
+                            "group_title": "Группа 67"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 11,
+                "name": "errorIntersectionContainer",
+                "boxes": [
+                    {
+                        "id": "3v5eurra3zcwmtvwgumwunfoo0dg0ug5",
+                        "info": {
+                            "color": "#c2bfcd",
+                            "title": "Тбумага FAMILIA Plus Волшеб цв 2-сл 4шт",
+                            "article": "",
+                            "group_id": "66wk7xco9cg5774y0mmvgsvsq8astber",
+                            "group_title": "Группа 66"
+                        }
+                    },
+                    {
+                        "id": "znycijytc9m2qy322ezxyltbsiihlc9l",
+                        "info": {
+                            "color": "#d9e79b",
+                            "title": "Тбумага ЛЕНТА 2-сл.8шт",
+                            "article": "",
+                            "group_id": "68f7bhkukr6zjc64hjjrardsgjdq9s8r",
+                            "group_title": "Группа 68"
+                        }
+                    },
+                    {
+                        "id": "fsgldtv0cbijfvutqotjj5xfz8wgq8ah",
+                        "info": {
+                            "color": "#fbc770",
+                            "title": "Тбумага ZEWA Deluxe белая 3-сл.8шт",
+                            "article": "",
+                            "group_id": "69nvgsnqpvl9brvkasii90qtrbe84u8u",
+                            "group_title": "Группа 69"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [
+            "ERROR_INDENTATION"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

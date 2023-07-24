@@ -1,0 +1,2407 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#9ff402",
+                    "title": "Фундук",
+                    "article": "",
+                    "group_id": "1xa8ls1nei06qa1g6gnmjudiqphtsing",
+                    "group_title": "Батончики"
+                },
+                "mass": 3.0,
+                "size": {
+                    "width": 240,
+                    "height": 165,
+                    "length": 280
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 25,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "oyshmib1kedem8ckr79oi8h8nxs4piet",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#9ff402",
+                    "title": "Арахис",
+                    "article": "",
+                    "group_id": "1xa8ls1nei06qa1g6gnmjudiqphtsing",
+                    "group_title": "Батончики"
+                },
+                "mass": 3.0,
+                "size": {
+                    "width": 240,
+                    "height": 165,
+                    "length": 280
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 27,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gtbu0relz2dwheth8bayf4qiaprrjpzv",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240,
+                    "height": 290,
+                    "length": 390
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 37,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240,
+                    "height": 290,
+                    "length": 390
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 57,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 1273,
+            "info": {
+                "uid": "1273_0",
+                "sort": 0,
+                "title": "Авиа",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 500,
+            "size": {
+                "width": 800,
+                "height": 150,
+                "length": 1200
+            },
+            "type": "pallet",
+            "axles": [],
+            "title": "Авиа",
+            "margin": {
+                "width": 0,
+                "height": 0,
+                "length": 0
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 800,
+                "height": 1500,
+                "length": 1200
+            },
+            "carrying_capacity": 500,
+            "last_changed_user_id": null
+        },
+        "calculation_id": "17253"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 53,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 55,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 240.0,
+                    "y": 0.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 54,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 240.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 57,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 480.0,
+                    "y": 0.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 56,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 480.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 59,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 720.0,
+                    "y": 0.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 58,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 720.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 61,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 960.0,
+                    "y": 0.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 60,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 960.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 70,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 0.0,
+                    "y": 290.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 71,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 0.0,
+                    "y": 290.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 68,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 240.0,
+                    "y": 290.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 69,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 240.0,
+                    "y": 290.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 66,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 480.0,
+                    "y": 290.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 67,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 480.0,
+                    "y": 290.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 64,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 720.0,
+                    "y": 290.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 65,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 720.0,
+                    "y": 290.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 62,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 960.0,
+                    "y": 290.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 63,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 960.0,
+                    "y": 290.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 73,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 0.0,
+                    "y": 580.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 72,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 0.0,
+                    "y": 580.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 75,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 240.0,
+                    "y": 580.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 74,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 240.0,
+                    "y": 580.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 77,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 480.0,
+                    "y": 580.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 76,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 480.0,
+                    "y": 580.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 79,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 720.0,
+                    "y": 580.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 78,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 720.0,
+                    "y": 580.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 81,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 960.0,
+                    "y": 580.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 80,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "position": {
+                    "x": 960.0,
+                    "y": 580.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 90,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 0.0,
+                    "y": 870.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 89,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 0.0,
+                    "y": 870.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 92,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 240.0,
+                    "y": 870.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 91,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 240.0,
+                    "y": 870.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 94,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 480.0,
+                    "y": 870.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 93,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 480.0,
+                    "y": 870.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 96,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 720.0,
+                    "y": 870.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 95,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 720.0,
+                    "y": 870.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 98,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 960.0,
+                    "y": 870.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 97,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 960.0,
+                    "y": 870.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 107,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 0.0,
+                    "y": 1160.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 108,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 0.0,
+                    "y": 1160.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 105,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 240.0,
+                    "y": 1160.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 106,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 240.0,
+                    "y": 1160.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 103,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 480.0,
+                    "y": 1160.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 104,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 480.0,
+                    "y": 1160.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 101,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 720.0,
+                    "y": 1160.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 102,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 720.0,
+                    "y": 1160.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 99,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 960.0,
+                    "y": 1160.0,
+                    "z": 390.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 100,
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "position": {
+                    "x": 960.0,
+                    "y": 1160.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 290.0,
+                    "length": 240.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1273,
+            "info": {
+                "uid": "1273_0",
+                "sort": 0,
+                "title": "Авиа",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 500.0,
+            "size": {
+                "width": 800.0,
+                "height": 150.0,
+                "length": 1200.0
+            },
+            "type": "pallet",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": -1350.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 800.0,
+                "height": 1500.0,
+                "length": 1200.0
+            },
+            "calculation_info": {
+                "step_count": 50,
+                "cargos_mass": 0.171,
+                "load_volume": 1.44,
+                "cargos_volume": 1.3572,
+                "count_cargoes": 50,
+                "load_capacity": 0.5,
+                "loading_height": 1.45,
+                "density_percent": 100.0,
+                "remaining_volume": 0.0828,
+                "void_space_percent": 5.75,
+                "filling_space_percent": 94.25
+            },
+            "carrying_capacity": 500.0,
+            "real_center_of_gravity": [
+                600.0000000000005,
+                725.0000000000011,
+                390.00000000000017
+            ],
+            "ideal_center_of_gravity": [
+                600.0,
+                0.0,
+                400.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#9ff402",
+                    "title": "Фундук",
+                    "article": "",
+                    "group_id": "1xa8ls1nei06qa1g6gnmjudiqphtsing",
+                    "group_title": "Батончики"
+                },
+                "mass": 3.0,
+                "size": {
+                    "width": 240.0,
+                    "height": 165.0,
+                    "length": 280.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 25.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oyshmib1kedem8ckr79oi8h8nxs4piet",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            },
+            {
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 7.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            },
+            {
+                "info": {
+                    "color": "#1f43d3",
+                    "title": "Печенье Малиновый чизкейк",
+                    "article": "",
+                    "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                    "group_title": "Печенье"
+                },
+                "mass": 3.42,
+                "size": {
+                    "width": 240.0,
+                    "height": 290.0,
+                    "length": 390.0
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 37.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            },
+            {
+                "info": {
+                    "color": "#9ff402",
+                    "title": "Арахис",
+                    "article": "",
+                    "group_id": "1xa8ls1nei06qa1g6gnmjudiqphtsing",
+                    "group_title": "Батончики"
+                },
+                "mass": 3.0,
+                "size": {
+                    "width": 240.0,
+                    "height": 165.0,
+                    "length": 280.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 27.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gtbu0relz2dwheth8bayf4qiaprrjpzv",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            }
+        ],
+        "packing_type": "PackingPalletBlocks",
+        "calculation_id": 17253,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "oyshmib1kedem8ckr79oi8h8nxs4piet",
+                        "info": {
+                            "color": "#9ff402",
+                            "title": "Фундук",
+                            "article": "",
+                            "group_id": "1xa8ls1nei06qa1g6gnmjudiqphtsing",
+                            "group_title": "Батончики"
+                        }
+                    },
+                    {
+                        "id": "xfznogqcnhewaktkmdsrfnq2chkiqiry",
+                        "info": {
+                            "color": "#1f43d3",
+                            "title": "Печенье Малиновый чизкейк",
+                            "article": "",
+                            "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                            "group_title": "Печенье"
+                        }
+                    },
+                    {
+                        "id": "tjgox5sdbemi6qovhhecrwj7qrhxd3l2",
+                        "info": {
+                            "color": "#1f43d3",
+                            "title": "Печенье Малиновый чизкейк",
+                            "article": "",
+                            "group_id": "2wgwjk9vztbc4f7chiobwcferuwbtzrs",
+                            "group_title": "Печенье"
+                        }
+                    },
+                    {
+                        "id": "gtbu0relz2dwheth8bayf4qiaprrjpzv",
+                        "info": {
+                            "color": "#9ff402",
+                            "title": "Арахис",
+                            "article": "",
+                            "group_id": "1xa8ls1nei06qa1g6gnmjudiqphtsing",
+                            "group_title": "Батончики"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [
+            "ERROR_INDENTATION"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

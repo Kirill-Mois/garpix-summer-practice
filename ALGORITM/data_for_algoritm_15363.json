@@ -1,0 +1,238 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#87a18b",
+                    "title": "RM800F",
+                    "article": "12",
+                    "group_id": "16jz9yacqzcvkacgxniiwx4jfpygffmy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 720.0,
+                    "height": 600.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wvkngvpvgyjqcgcvim6ahtktvqh9fyvb",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1798.4204340000003,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 280,
+        "cargo_space": {
+            "id": 1057,
+            "info": {
+                "uid": "1057_9",
+                "sort": 9,
+                "title": "Аудио USA (copy)",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 20,
+            "size": {
+                "width": 1000,
+                "height": 135,
+                "length": 1300
+            },
+            "type": "pallet",
+            "axles": [],
+            "title": "Аудио USA (copy)",
+            "margin": {
+                "width": 0,
+                "height": 0,
+                "length": 0
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 1000,
+                "height": 2330,
+                "length": 1300
+            },
+            "carrying_capacity": 1000
+        },
+        "calculation_id": "15294"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 280,
+                "info": {
+                    "color": "#87a18b",
+                    "title": "RM800F",
+                    "article": "12",
+                    "group_id": "16jz9yacqzcvkacgxniiwx4jfpygffmy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 720.0,
+                    "height": 600.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wvkngvpvgyjqcgcvim6ahtktvqh9fyvb",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 720.0,
+                    "height": 1420.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 281,
+                "info": {
+                    "color": "#87a18b",
+                    "title": "RM800F",
+                    "article": "12",
+                    "group_id": "16jz9yacqzcvkacgxniiwx4jfpygffmy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 720.0,
+                    "height": 600.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wvkngvpvgyjqcgcvim6ahtktvqh9fyvb",
+                "position": {
+                    "x": 600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 720.0,
+                    "height": 1420.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1057,
+            "info": {
+                "uid": "1057_9",
+                "sort": 9,
+                "title": "Аудио USA (copy)",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 20.0,
+            "size": {
+                "width": 1000.0,
+                "height": 135.0,
+                "length": 1300.0
+            },
+            "type": "pallet",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": -2195.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 1000.0,
+                "height": 2330.0,
+                "length": 1300.0
+            },
+            "calculation_info": {
+                "step_count": 2,
+                "cargos_mass": 0.096,
+                "load_volume": 3.029,
+                "cargos_volume": 1.22688,
+                "count_cargoes": 2,
+                "load_capacity": 1.0,
+                "loading_height": 1.42,
+                "density_percent": 100.0,
+                "remaining_volume": 1.80212,
+                "void_space_percent": 59.49554,
+                "filling_space_percent": 40.50446
+            },
+            "carrying_capacity": 1000.0,
+            "real_center_of_gravity": [
+                600.0,
+                710.0,
+                360.0
+            ],
+            "ideal_center_of_gravity": [
+                650.0,
+                0.0,
+                500.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingLayers",
+        "calculation_id": 15294,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [
+            "ERROR_INDENTATION"
+        ],
+        "is_packed_same_boxes": true
+    }
+}

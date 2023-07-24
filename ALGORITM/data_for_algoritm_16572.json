@@ -1,0 +1,668 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100,
+                    "height": 120,
+                    "length": 120
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 150,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 1189,
+            "info": {
+                "uid": "1189_0",
+                "sort": 0,
+                "title": "ULD Q7"
+            },
+            "mass": 160,
+            "size": {
+                "width": 244,
+                "height": 300,
+                "length": 317
+            },
+            "type": "container",
+            "axles": [],
+            "title": "ULD Q7",
+            "indentation": {
+                "width": 2,
+                "height": 0,
+                "length": 1,
+                "height_top": 5,
+                "length_end": 1,
+                "width_right": 2
+            },
+            "loading_size": {
+                "width": 240,
+                "height": 295,
+                "length": 315
+            },
+            "carrying_capacity": 5600
+        },
+        "calculation_id": "16572"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 5,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 7.5,
+                    "y": 0.0,
+                    "z": 120.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 7.5,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 7.5,
+                    "y": 120.0,
+                    "z": 120.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 7.5,
+                    "y": 120.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 107.5,
+                    "y": 0.0,
+                    "z": 120.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 107.5,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 107.5,
+                    "y": 120.0,
+                    "z": 120.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 107.5,
+                    "y": 120.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 207.5,
+                    "y": 0.0,
+                    "z": 120.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 207.5,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 207.5,
+                    "y": 120.0,
+                    "z": 120.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "position": {
+                    "x": 207.5,
+                    "y": 120.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 120.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1189,
+            "info": {
+                "uid": "1189_0",
+                "sort": 0,
+                "title": "ULD Q7"
+            },
+            "mass": 160.0,
+            "size": {
+                "width": 244.0,
+                "height": 300.0,
+                "length": 317.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 2.0,
+                "height": 0.0,
+                "length": 1.0,
+                "height_top": 5.0,
+                "length_end": 1.0,
+                "width_right": 2.0
+            },
+            "loading_size": {
+                "width": 240.0,
+                "height": 295.0,
+                "length": 315.0
+            },
+            "calculation_info": {
+                "step_count": 12,
+                "cargos_mass": 3.0,
+                "load_volume": 0.022302,
+                "cargos_volume": 0.01728,
+                "count_cargoes": 12,
+                "load_capacity": 5.6,
+                "loading_height": 0.24,
+                "density_percent": 100.0,
+                "remaining_volume": 0.00502,
+                "void_space_percent": 22.51816,
+                "filling_space_percent": 77.48184
+            },
+            "carrying_capacity": 5600.0,
+            "real_center_of_gravity": [
+                157.5,
+                120.0,
+                120.0
+            ],
+            "ideal_center_of_gravity": [
+                157.5,
+                0.0,
+                120.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#24daf2",
+                    "title": "Ящики",
+                    "article": "",
+                    "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                    "group_title": "Группа 1"
+                },
+                "mass": 250.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 120.0,
+                    "length": 120.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 138.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            }
+        ],
+        "packing_type": "PackingContainerPoint",
+        "calculation_id": 16572,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "evibrnsrpcmtqkm2hznms4onlgjddbug",
+                        "info": {
+                            "color": "#24daf2",
+                            "title": "Ящики",
+                            "article": "",
+                            "group_id": "1zfuhe45312xfvjclhjy8mjufh3ylvdm",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

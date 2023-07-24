@@ -1,0 +1,2197 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#cc28ae",
+                    "title": "короба",
+                    "article": "",
+                    "group_id": "1qmltmzcpj4wbeq9rdddfb4qwd8y2nkq",
+                    "group_title": "Группа 3"
+                },
+                "mass": 260.0,
+                "size": {
+                    "width": 1200,
+                    "height": 600,
+                    "length": 800
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "skdcq9rpgy82q7gozzcpkevn4bjomrli",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0f6775",
+                    "title": "диск колесный",
+                    "article": "",
+                    "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                    "group_title": "Группа 2"
+                },
+                "mass": 23.0,
+                "size": {
+                    "width": 1000,
+                    "height": 464,
+                    "length": 1000
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 8,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350,
+                    "height": 350,
+                    "length": 1350
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 39,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 104,
+            "info": {
+                "uid": "104_0",
+                "sort": 0,
+                "title": "Стандартный (2 оси)"
+            },
+            "mass": 8650,
+            "size": {
+                "width": 2400,
+                "height": 2300,
+                "length": 6120
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1300,
+                    "max_load": 6600,
+                    "default_load": 5350
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 5710,
+                    "max_load": 9200,
+                    "default_load": 3300
+                }
+            ],
+            "title": "Стандартный (2 оси)",
+            "full_length": 8250,
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2400,
+                "height": 2300,
+                "length": 6120
+            },
+            "carrying_capacity": 11300
+        },
+        "calculation_id": "15275"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 3,
+                "info": {
+                    "color": "#0f6775",
+                    "title": "диск колесный",
+                    "article": "",
+                    "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                    "group_title": "Группа 2"
+                },
+                "mass": 23.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                "position": {
+                    "x": 256.0,
+                    "y": 0.0,
+                    "z": 1350.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 1000.0,
+                    "length": 464.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 20.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 1350.0,
+                    "length": 350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#0f6775",
+                    "title": "диск колесный",
+                    "article": "",
+                    "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                    "group_title": "Группа 2"
+                },
+                "mass": 23.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                "position": {
+                    "x": 256.0,
+                    "y": 1000.0,
+                    "z": 1350.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 1000.0,
+                    "length": 464.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 370.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 1350.0,
+                    "length": 350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 0.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 350.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 700.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 1050.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 0.0,
+                    "z": 700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 0.0,
+                    "z": 350.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 1400.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#0f6775",
+                    "title": "диск колесный",
+                    "article": "",
+                    "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                    "group_title": "Группа 2"
+                },
+                "mass": 23.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                "position": {
+                    "x": 520.0,
+                    "y": 1350.0,
+                    "z": 50.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 720.0,
+                    "y": 1750.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#0f6775",
+                    "title": "диск колесный",
+                    "article": "",
+                    "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                    "group_title": "Группа 2"
+                },
+                "mass": 23.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                "position": {
+                    "x": 520.0,
+                    "y": 1814.0,
+                    "z": 50.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 0.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 350.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 700.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 1050.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 0.0,
+                    "z": 700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 0.0,
+                    "z": 350.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 1400.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#0f6775",
+                    "title": "диск колесный",
+                    "article": "",
+                    "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                    "group_title": "Группа 2"
+                },
+                "mass": 23.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                "position": {
+                    "x": 1520.0,
+                    "y": 1350.0,
+                    "z": 50.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 2070.0,
+                    "y": 1750.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#0f6775",
+                    "title": "диск колесный",
+                    "article": "",
+                    "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                    "group_title": "Группа 2"
+                },
+                "mass": 23.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                "position": {
+                    "x": 1520.0,
+                    "y": 1814.0,
+                    "z": 50.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 0.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 350.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 700.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 1050.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 0.0,
+                    "z": 700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 0.0,
+                    "z": 350.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 1400.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#cc28ae",
+                    "title": "короба",
+                    "article": "",
+                    "group_id": "1qmltmzcpj4wbeq9rdddfb4qwd8y2nkq",
+                    "group_title": "Группа 3"
+                },
+                "mass": 260.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 600.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "skdcq9rpgy82q7gozzcpkevn4bjomrli",
+                "position": {
+                    "x": 2520.0,
+                    "y": 1350.0,
+                    "z": 250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 600.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 3420.0,
+                    "y": 1750.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 0.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 350.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 700.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 1050.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 0.0,
+                    "z": 700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 0.0,
+                    "z": 350.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 1350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#cc28ae",
+                    "title": "короба",
+                    "article": "",
+                    "group_id": "1qmltmzcpj4wbeq9rdddfb4qwd8y2nkq",
+                    "group_title": "Группа 3"
+                },
+                "mass": 260.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 600.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "skdcq9rpgy82q7gozzcpkevn4bjomrli",
+                "position": {
+                    "x": 3720.0,
+                    "y": 1350.0,
+                    "z": 250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 600.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 1400.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "position": {
+                    "x": 4770.0,
+                    "y": 1750.0,
+                    "z": 1050.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#cc28ae",
+                    "title": "короба",
+                    "article": "",
+                    "group_id": "1qmltmzcpj4wbeq9rdddfb4qwd8y2nkq",
+                    "group_title": "Группа 3"
+                },
+                "mass": 260.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 600.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "skdcq9rpgy82q7gozzcpkevn4bjomrli",
+                "position": {
+                    "x": 4920.0,
+                    "y": 1350.0,
+                    "z": 250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 600.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 104,
+            "info": {
+                "uid": "104_0",
+                "sort": 0,
+                "title": "Стандартный (2 оси)"
+            },
+            "mass": 8650.0,
+            "size": {
+                "width": 2400.0,
+                "height": 2300.0,
+                "length": 6120.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1300.0,
+                    "max_load": 6600.0,
+                    "default_load": 5350.0,
+                    "calculated_load": 6130.73765
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 5710.0,
+                    "max_load": 9200.0,
+                    "default_load": 3300.0,
+                    "calculated_load": 5603.26235
+                }
+            ],
+            "full_length": 6120.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 0.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2400.0,
+                "height": 2300.0,
+                "length": 6120.0
+            },
+            "calculation_info": {
+                "step_count": 47,
+                "cargos_mass": 3.084,
+                "load_volume": 33.7824,
+                "cargos_volume": 28.75125,
+                "count_cargoes": 47,
+                "load_capacity": 11.3,
+                "loading_height": 2.278,
+                "density_percent": 85.92912,
+                "remaining_volume": 5.03115,
+                "void_space_percent": 14.89281,
+                "filling_space_percent": 85.10719
+            },
+            "carrying_capacity": 11300.0,
+            "real_center_of_gravity": [
+                3434.4708171206225,
+                1126.763294422828,
+                1114.9643320363161
+            ],
+            "ideal_center_of_gravity": [
+                3060.0,
+                0.0,
+                1200.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#0f6775",
+                    "title": "диск колесный",
+                    "article": "",
+                    "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                    "group_title": "Группа 2"
+                },
+                "mass": 23.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 464.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            },
+            {
+                "info": {
+                    "color": "#0bef6e",
+                    "title": "колеса",
+                    "article": "",
+                    "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1350.0,
+                    "height": 350.0,
+                    "length": 1350.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            }
+        ],
+        "packing_type": "PackingBigBlocks",
+        "calculation_id": 15275,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "ndo7bkrvotad2cvi82jifruoyeg3zmk0",
+                        "info": {
+                            "color": "#0f6775",
+                            "title": "диск колесный",
+                            "article": "",
+                            "group_id": "2ide9kxwkkr0so0nqbgimdhbxgn1arhm",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "uly7esuem1njxzsa2vr3ryw5oflb6tzy",
+                        "info": {
+                            "color": "#0bef6e",
+                            "title": "колеса",
+                            "article": "",
+                            "group_id": "3q4mtbptftnb7syl2kghdrof9yuassd1",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [
+            "ERROR_AXLES_DISTANCE_CAR"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

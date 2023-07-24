@@ -1,0 +1,4171 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690,
+                    "height": 1060,
+                    "length": 210
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 50,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154,
+                    "height": 1354,
+                    "length": 230
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 50,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 266,
+            "info": {
+                "uid": "266_0",
+                "sort": 0,
+                "title": "40' HC (valid)"
+            },
+            "mass": 4200,
+            "size": {
+                "width": 2438,
+                "height": 2896,
+                "length": 12192
+            },
+            "type": "container",
+            "axles": [],
+            "title": "40' HC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2698,
+                "length": 12032
+            },
+            "carrying_capacity": 28650
+        },
+        "calculation_id": "15466"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 1,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 56.00000000000182,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 56.00000000000182,
+                    "y": 1060.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 99,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 266.0000000000018,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 97,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 496.0000000000018,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 95,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 726.0000000000018,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 93,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 956.0000000000018,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 91,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 1186.0000000000018,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 49,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 1186.0000000000018,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 89,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 1416.0000000000018,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 1396.0000000000018,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 87,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 1646.0000000000018,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 1606.0000000000018,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 85,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 1876.0000000000018,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 1816.0000000000018,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 83,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 2106.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 2026.0000000000018,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 81,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 2336.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 2236.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 79,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 2566.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 2446.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 77,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 2796.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 2656.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 75,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 3026.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 2866.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 73,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 3256.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 3076.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 71,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 3486.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 3286.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 3496.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 69,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 3716.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 3706.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 67,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 3946.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 3916.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 65,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 4176.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 4126.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 63,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 4406.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 4336.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 61,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 4636.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 4546.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 59,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 4866.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 4756.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 57,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 5096.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 4966.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 55,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 5326.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 5176.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 53,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 5556.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 5386.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 51,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 5786.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 5596.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 5806.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 50,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 6016.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 6016.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 6246.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 6226.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 54,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 6476.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 6436.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 56,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 6706.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 6646.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 58,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 6936.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 6856.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 60,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 7166.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 7066.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 62,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 7396.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 7276.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 64,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 7626.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 7486.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 66,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 7856.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 7696.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 68,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 8086.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 7906.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 70,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 8316.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 8116.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 8326.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 72,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 8546.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 8536.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 74,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 8776.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 8746.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 76,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 9006.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 8956.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 78,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 9236.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 9166.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 80,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 9466.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 9376.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 82,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 9696.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 9586.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 84,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 9926.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 9796.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 86,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 10156.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 10006.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 88,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 10386.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 10216.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 90,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 10616.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 10426.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 51,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 10636.000000000002,
+                    "y": 1354.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 92,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 52,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 10846.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 94,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 53,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 11076.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 96,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 54,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 11306.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 98,
+                "info": {
+                    "color": "#742987",
+                    "title": "86CTM2",
+                    "article": "EDF86CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 102.0,
+                "size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "sort": 1,
+                "step": 55,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vlxo71avgymk3rouszzckoxi0lp21qa3",
+                "position": {
+                    "x": 11536.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2154.0,
+                    "height": 1354.0,
+                    "length": 230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 56,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 11766.000000000002,
+                    "y": 0.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#045e12",
+                    "title": "65CTM2",
+                    "article": "EDF65CTM2",
+                    "group_id": "1rkxizxxyygqnijydevk6g4uvhuvis3z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 57.0,
+                "size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "sort": 1,
+                "step": 57,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "22zd06nququ2dfwqsvpq25991h0jqnja",
+                "position": {
+                    "x": 11766.000000000002,
+                    "y": 1060.0,
+                    "z": 182.16981132075455
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1690.0,
+                    "height": 1060.0,
+                    "length": 210.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 266,
+            "info": {
+                "uid": "266_0",
+                "sort": 0,
+                "title": "40' HC (valid)"
+            },
+            "mass": 4200.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2896.0,
+                "length": 12192.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2698.0,
+                "length": 12032.0
+            },
+            "calculation_info": {
+                "step_count": 57,
+                "cargos_mass": 7.95,
+                "load_volume": 76.351414272,
+                "cargos_volume": 52.34963,
+                "count_cargoes": 100,
+                "load_capacity": 28.65,
+                "loading_height": 2.414,
+                "density_percent": 84.17817,
+                "remaining_volume": 24.00178,
+                "void_space_percent": 31.43593,
+                "filling_space_percent": 68.56407
+            },
+            "carrying_capacity": 28650.0,
+            "real_center_of_gravity": [
+                6016.0,
+                1086.0664150943396,
+                1176.0
+            ],
+            "ideal_center_of_gravity": [
+                6016.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingContainerPoint",
+        "calculation_id": 15466,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

@@ -1,0 +1,899 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#e0c860",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800,
+                    "height": 2370,
+                    "length": 2000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 6,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ounzvrdukhsr3yfxp7f3pouefhh8g94g",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f9c24a",
+                    "title": "G35403410 G35441403 Hygiene Clinic A T24 PE. Master A T24T15",
+                    "article": "G35403410, G35441403",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 942.8,
+                "size": {
+                    "width": 1220,
+                    "height": 2370,
+                    "length": 1220
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gjguntsgykss3acgtlcgwrdvecoc6fww",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8ed82d",
+                    "title": "G35584010 G35442650 Akusto™ Wall A Texona. Master B",
+                    "article": "G35584010, G35442650",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1360.0,
+                "size": {
+                    "width": 1230,
+                    "height": 2370,
+                    "length": 2740
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "2vllw75ihaiodmbcnyxe4dt2fkmcbw0t",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0620a0",
+                    "title": "26338101  26337101 MR Connect T24. Akusto™ Wall C Texona",
+                    "article": "26338101,  26337101",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 681.0,
+                "size": {
+                    "width": 1200,
+                    "height": 2300,
+                    "length": 3800
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "9zu4rmk8qisnkhsf9az9rqsgmfqpf4qr",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 201,
+            "info": {
+                "uid": "201_0",
+                "sort": 0,
+                "title": "KRONE SDP 27"
+            },
+            "mass": 6500,
+            "size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13692
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300,
+                    "max_load": 9000,
+                    "default_load": 1670
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000,
+                "max_load": 12000,
+                "default_load": 1500
+            },
+            "title": "KRONE SDP 27",
+            "tractor": {
+                "mass": 9000,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410,
+                        "max_load": 8000,
+                        "default_load": 6000
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827,
+                        "max_load": 11000,
+                        "default_load": 2300
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395,
+                        "max_load": 10000,
+                        "default_load": 2200
+                    }
+                ],
+                "title": "IVECO STRALIS AT440S42",
+                "length": 6140,
+                "hitch_distance": 778
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 46,
+                "height_top": 0,
+                "length_end": 46,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13600
+            },
+            "carrying_capacity": 32500
+        },
+        "calculation_id": "15573"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 11,
+                "info": {
+                    "color": "#8ed82d",
+                    "title": "G35584010 G35442650 Akusto™ Wall A Texona. Master B",
+                    "article": "G35584010, G35442650",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1360.0,
+                "size": {
+                    "width": 1230.0,
+                    "height": 2370.0,
+                    "length": 2740.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2vllw75ihaiodmbcnyxe4dt2fkmcbw0t",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1250.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1230.0,
+                    "height": 2370.0,
+                    "length": 2740.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#8ed82d",
+                    "title": "G35584010 G35442650 Akusto™ Wall A Texona. Master B",
+                    "article": "G35584010, G35442650",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1360.0,
+                "size": {
+                    "width": 1230.0,
+                    "height": 2370.0,
+                    "length": 2740.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2vllw75ihaiodmbcnyxe4dt2fkmcbw0t",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1230.0,
+                    "height": 2370.0,
+                    "length": 2740.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#0620a0",
+                    "title": "26338101  26337101 MR Connect T24. Akusto™ Wall C Texona",
+                    "article": "26338101,  26337101",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 681.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 2300.0,
+                    "length": 3800.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "9zu4rmk8qisnkhsf9az9rqsgmfqpf4qr",
+                "position": {
+                    "x": 2740.0,
+                    "y": 0.0,
+                    "z": 1280.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 2300.0,
+                    "length": 3800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#8ed82d",
+                    "title": "G35584010 G35442650 Akusto™ Wall A Texona. Master B",
+                    "article": "G35584010, G35442650",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1360.0,
+                "size": {
+                    "width": 1230.0,
+                    "height": 2370.0,
+                    "length": 2740.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2vllw75ihaiodmbcnyxe4dt2fkmcbw0t",
+                "position": {
+                    "x": 2740.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1230.0,
+                    "height": 2370.0,
+                    "length": 2740.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#f9c24a",
+                    "title": "G35403410 G35441403 Hygiene Clinic A T24 PE. Master A T24T15",
+                    "article": "G35403410, G35441403",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 942.8,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2370.0,
+                    "length": 1220.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gjguntsgykss3acgtlcgwrdvecoc6fww",
+                "position": {
+                    "x": 5480.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2370.0,
+                    "length": 1220.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#f9c24a",
+                    "title": "G35403410 G35441403 Hygiene Clinic A T24 PE. Master A T24T15",
+                    "article": "G35403410, G35441403",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 942.8,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2370.0,
+                    "length": 1220.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gjguntsgykss3acgtlcgwrdvecoc6fww",
+                "position": {
+                    "x": 6540.0,
+                    "y": 0.0,
+                    "z": 1260.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2370.0,
+                    "length": 1220.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#f9c24a",
+                    "title": "G35403410 G35441403 Hygiene Clinic A T24 PE. Master A T24T15",
+                    "article": "G35403410, G35441403",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 942.8,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2370.0,
+                    "length": 1220.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gjguntsgykss3acgtlcgwrdvecoc6fww",
+                "position": {
+                    "x": 6700.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2370.0,
+                    "length": 1220.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#f9c24a",
+                    "title": "G35403410 G35441403 Hygiene Clinic A T24 PE. Master A T24T15",
+                    "article": "G35403410, G35441403",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 942.8,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2370.0,
+                    "length": 1220.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gjguntsgykss3acgtlcgwrdvecoc6fww",
+                "position": {
+                    "x": 7760.0,
+                    "y": 0.0,
+                    "z": 1260.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2370.0,
+                    "length": 1220.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#e0c860",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ounzvrdukhsr3yfxp7f3pouefhh8g94g",
+                "position": {
+                    "x": 8980.0,
+                    "y": 0.0,
+                    "z": 1680.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#e0c860",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ounzvrdukhsr3yfxp7f3pouefhh8g94g",
+                "position": {
+                    "x": 8980.0,
+                    "y": 0.0,
+                    "z": 880.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#e0c860",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ounzvrdukhsr3yfxp7f3pouefhh8g94g",
+                "position": {
+                    "x": 7920.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#e0c860",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ounzvrdukhsr3yfxp7f3pouefhh8g94g",
+                "position": {
+                    "x": 10980.0,
+                    "y": 0.0,
+                    "z": 1680.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#e0c860",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ounzvrdukhsr3yfxp7f3pouefhh8g94g",
+                "position": {
+                    "x": 10980.0,
+                    "y": 0.0,
+                    "z": 880.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#e0c860",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1kd9kzzqujekkvzg3bzbsnxbggknxhmv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ounzvrdukhsr3yfxp7f3pouefhh8g94g",
+                "position": {
+                    "x": 9920.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 201,
+            "info": {
+                "uid": "201_0",
+                "sort": 0,
+                "title": "KRONE SDP 27"
+            },
+            "mass": 6500.0,
+            "size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13692.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 2692.24139
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 2692.24139
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300.0,
+                    "max_load": 9000.0,
+                    "default_load": 1670.0,
+                    "calculated_load": 2697.24139
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000.0,
+                "max_load": 12000.0,
+                "default_load": 1500.0,
+                "calculated_load": 7085.47583
+            },
+            "tractor": {
+                "mass": 9000.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410.0,
+                        "max_load": 8000.0,
+                        "default_load": 6000.0,
+                        "calculated_load": 7232.9409
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827.0,
+                        "max_load": 11000.0,
+                        "default_load": 2300.0,
+                        "calculated_load": 4476.26747
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395.0,
+                        "max_load": 10000.0,
+                        "default_load": 2200.0,
+                        "calculated_load": 4376.26747
+                    }
+                ],
+                "length": 6140.0,
+                "hitch_distance": 778.0
+            },
+            "full_length": 13692.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 46.0,
+                "height_top": 0.0,
+                "length_end": 46.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13600.0
+            },
+            "calculation_info": {
+                "step_count": 14,
+                "cargos_mass": 8.667200000000001,
+                "load_volume": 96.46208,
+                "cargos_volume": 71.31215,
+                "count_cargoes": 14,
+                "load_capacity": 32.5,
+                "loading_height": 2.37,
+                "density_percent": 93.47357,
+                "remaining_volume": 25.14993,
+                "void_space_percent": 26.07234,
+                "filling_space_percent": 73.92766
+            },
+            "carrying_capacity": 32500.0,
+            "real_center_of_gravity": [
+                4750.809488646852,
+                1182.2499769244969,
+                1192.4229278198259
+            ],
+            "ideal_center_of_gravity": [
+                6800.0,
+                0.0,
+                1240.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingTruck PackingStepByStep",
+        "calculation_id": 15573,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

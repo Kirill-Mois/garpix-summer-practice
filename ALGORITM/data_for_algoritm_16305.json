@@ -1,0 +1,1371 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760,
+                    "height": 740,
+                    "length": 1400
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 16,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600,
+                    "height": 700,
+                    "length": 1300
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 14,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 267,
+            "info": {
+                "uid": "267_0",
+                "sort": 0,
+                "title": "40' DV (valid)"
+            },
+            "mass": 4000,
+            "size": {
+                "width": 2438,
+                "height": 2591,
+                "length": 12192
+            },
+            "type": "container",
+            "axles": [],
+            "title": "40' DV (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2393,
+                "length": 12032
+            },
+            "carrying_capacity": 26840
+        },
+        "calculation_id": "16305"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 23,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 388.36139630390153,
+                    "y": 0.0,
+                    "z": 1752.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 168.36139630390153,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 168.36139630390153,
+                    "y": 700.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 768.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 1688.3613963039015,
+                    "y": 0.0,
+                    "z": 1752.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 1528.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 2288.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 2988.3613963039015,
+                    "y": 0.0,
+                    "z": 1752.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 3048.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 3808.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 4288.3613963039015,
+                    "y": 0.0,
+                    "z": 1592.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 4568.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 5688.3613963039015,
+                    "y": 0.0,
+                    "z": 1592.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 5328.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 5088.3613963039015,
+                    "y": 740.0,
+                    "z": 1052.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 6088.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 5688.3613963039015,
+                    "y": 740.0,
+                    "z": 1052.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 7088.3613963039015,
+                    "y": 0.0,
+                    "z": 1752.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 6848.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 6288.3613963039015,
+                    "y": 740.0,
+                    "z": 1052.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 6888.3613963039015,
+                    "y": 740.0,
+                    "z": 1052.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 7608.3613963039015,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 8388.361396303902,
+                    "y": 0.0,
+                    "z": 1752.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 8368.361396303902,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 9128.361396303902,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 9688.361396303902,
+                    "y": 0.0,
+                    "z": 1752.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 9888.361396303902,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#c65647",
+                    "title": "ящик 14",
+                    "article": "",
+                    "group_id": "1wzbnqi5w2wwqheolfmtnd0tbrxiynie",
+                    "group_title": "Группа 2"
+                },
+                "mass": 397.0,
+                "size": {
+                    "width": 760.0,
+                    "height": 740.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eow6efx0qb0nl1ut5uzbvchsqxesccwg",
+                "position": {
+                    "x": 10648.361396303902,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1400.0,
+                    "height": 740.0,
+                    "length": 760.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 11408.361396303902,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#56ccce",
+                    "title": "ящик 13",
+                    "article": "",
+                    "group_id": "2mvxyhfzyojlro2j5ctoq1tmzhaaspxv",
+                    "group_title": "Группа 1"
+                },
+                "mass": 242.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 700.0,
+                    "length": 1300.0
+                },
+                "sort": 2,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8jazzhtxlqloxxqd5sjxuvulby0mil5x",
+                "position": {
+                    "x": 11408.361396303902,
+                    "y": 700.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 267,
+            "info": {
+                "uid": "267_0",
+                "sort": 0,
+                "title": "40' DV (valid)"
+            },
+            "mass": 4000.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2591.0,
+                "length": 12192.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2393.0,
+                "length": 12032.0
+            },
+            "calculation_info": {
+                "step_count": 30,
+                "cargos_mass": 9.74,
+                "load_volume": 67.720138752,
+                "cargos_volume": 20.24176,
+                "count_cargoes": 30,
+                "load_capacity": 26.84,
+                "loading_height": 1.44,
+                "density_percent": 50.1386,
+                "remaining_volume": 47.47838,
+                "void_space_percent": 70.10969,
+                "filling_space_percent": 29.89031
+            },
+            "carrying_capacity": 26840.0,
+            "real_center_of_gravity": [
+                6016.0,
+                471.37166324435316,
+                1099.8570841889118
+            ],
+            "ideal_center_of_gravity": [
+                6016.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingContainerPoint",
+        "calculation_id": 16305,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

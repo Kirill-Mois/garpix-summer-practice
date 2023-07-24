@@ -1,0 +1,712 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#c60bad",
+                    "title": "люлька",
+                    "article": "",
+                    "group_id": "1q7mtmexrcntl7zbbbttajtdlupd3o9w",
+                    "group_title": "Группа 7"
+                },
+                "mass": 300.0,
+                "size": {
+                    "width": 1200,
+                    "height": 1200,
+                    "length": 500
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "x9d1dfeal8piqw717peakabpb1woxvjf",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#56e2b8",
+                    "title": "Щетка",
+                    "article": "",
+                    "group_id": "2whu3vtas09yt41fewbwkvsnk7ly3oyc",
+                    "group_title": "Группа 6"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 2095,
+                    "height": 940,
+                    "length": 3335
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ypse6fzkef3k4je8nifzbviehr8f3q48",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#568c00",
+                    "title": "Емкость",
+                    "article": "",
+                    "group_id": "3kk2sry82r4jahywygkdbvxxvyrxza4p",
+                    "group_title": "Группа 5"
+                },
+                "mass": 1440.0,
+                "size": {
+                    "width": 2300,
+                    "height": 2500,
+                    "length": 4710
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "kpynahy0jj17yfljc22flqaqels6bfr1",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cc9124",
+                    "title": "Противовес 3",
+                    "article": "",
+                    "group_id": "4nqr5imtilgtcu4tw2kni9xdd01uerhb",
+                    "group_title": "Группа 4"
+                },
+                "mass": 3000.0,
+                "size": {
+                    "width": 860,
+                    "height": 220,
+                    "length": 2366
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "az9d8mtcii4hg4adlrmaqwhoamyaxbcz",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#a8362b",
+                    "title": "Противовес 1",
+                    "article": "",
+                    "group_id": "5awxbnpu0r7ytnytbz7f56e1jlczvmpr",
+                    "group_title": "Группа 3"
+                },
+                "mass": 3000.0,
+                "size": {
+                    "width": 823,
+                    "height": 220,
+                    "length": 2970
+                },
+                "sort": 5,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xnztzs3lbcrgnjsvq9gmbqrtlmh8fs9b",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#772799",
+                    "title": "Кабина Вольво",
+                    "article": "",
+                    "group_id": "6f1vumw0kiqg5elqmrfdnc8sqjpiy62v",
+                    "group_title": "Группа 2"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 2650,
+                    "height": 2250,
+                    "length": 2050
+                },
+                "sort": 6,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "y1weeprlcc5zyzwzttyrrvsiy5owpdji",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#19968c",
+                    "title": "Кабина Скания",
+                    "article": "",
+                    "group_id": "7m7bxsuy5spzht5dpdyeu7dhuf4jibiy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 2600,
+                    "height": 2600,
+                    "length": 2500
+                },
+                "sort": 7,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "lh9a4xgturbnooyztar9k4hf0obpkkal",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 201,
+            "info": {
+                "uid": "201_0",
+                "sort": 0,
+                "title": "KRONE SDP 27"
+            },
+            "mass": 6500,
+            "size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13692
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300,
+                    "max_load": 9000,
+                    "default_load": 1670
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000,
+                "max_load": 12000,
+                "default_load": 1500
+            },
+            "title": "KRONE SDP 27",
+            "tractor": {
+                "mass": 9000,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410,
+                        "max_load": 8000,
+                        "default_load": 6000
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827,
+                        "max_load": 11000,
+                        "default_load": 2300
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395,
+                        "max_load": 10000,
+                        "default_load": 2200
+                    }
+                ],
+                "title": "IVECO STRALIS AT440S42",
+                "length": 6140,
+                "hitch_distance": 778
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 46,
+                "height_top": 0,
+                "length_end": 46,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13600
+            },
+            "carrying_capacity": 32500
+        },
+        "calculation_id": "17030"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 2,
+                "info": {
+                    "color": "#568c00",
+                    "title": "Емкость",
+                    "article": "",
+                    "group_id": "3kk2sry82r4jahywygkdbvxxvyrxza4p",
+                    "group_title": "Группа 5"
+                },
+                "mass": 1440.0,
+                "size": {
+                    "width": 2300.0,
+                    "height": 2500.0,
+                    "length": 4710.0
+                },
+                "sort": 3,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kpynahy0jj17yfljc22flqaqels6bfr1",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2300.0,
+                    "height": 2500.0,
+                    "length": 4710.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#772799",
+                    "title": "Кабина Вольво",
+                    "article": "",
+                    "group_id": "6f1vumw0kiqg5elqmrfdnc8sqjpiy62v",
+                    "group_title": "Группа 2"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 2650.0,
+                    "height": 2250.0,
+                    "length": 2050.0
+                },
+                "sort": 6,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "y1weeprlcc5zyzwzttyrrvsiy5owpdji",
+                "position": {
+                    "x": 4710.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2250.0,
+                    "height": 2050.0,
+                    "length": 2650.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#a8362b",
+                    "title": "Противовес 1",
+                    "article": "",
+                    "group_id": "5awxbnpu0r7ytnytbz7f56e1jlczvmpr",
+                    "group_title": "Группа 3"
+                },
+                "mass": 3000.0,
+                "size": {
+                    "width": 823.0,
+                    "height": 220.0,
+                    "length": 2970.0
+                },
+                "sort": 5,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xnztzs3lbcrgnjsvq9gmbqrtlmh8fs9b",
+                "position": {
+                    "x": 7360.0,
+                    "y": 0.0,
+                    "z": 2095.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 823.0,
+                    "length": 2970.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#56e2b8",
+                    "title": "Щетка",
+                    "article": "",
+                    "group_id": "2whu3vtas09yt41fewbwkvsnk7ly3oyc",
+                    "group_title": "Группа 6"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 2095.0,
+                    "height": 940.0,
+                    "length": 3335.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ypse6fzkef3k4je8nifzbviehr8f3q48",
+                "position": {
+                    "x": 7360.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2095.0,
+                    "height": 940.0,
+                    "length": 3335.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#cc9124",
+                    "title": "Противовес 3",
+                    "article": "",
+                    "group_id": "4nqr5imtilgtcu4tw2kni9xdd01uerhb",
+                    "group_title": "Группа 4"
+                },
+                "mass": 3000.0,
+                "size": {
+                    "width": 860.0,
+                    "height": 220.0,
+                    "length": 2366.0
+                },
+                "sort": 4,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "az9d8mtcii4hg4adlrmaqwhoamyaxbcz",
+                "position": {
+                    "x": 10695.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2366.0,
+                    "height": 220.0,
+                    "length": 860.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#c60bad",
+                    "title": "люлька",
+                    "article": "",
+                    "group_id": "1q7mtmexrcntl7zbbbttajtdlupd3o9w",
+                    "group_title": "Группа 7"
+                },
+                "mass": 300.0,
+                "size": {
+                    "width": 1200.0,
+                    "height": 1200.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "x9d1dfeal8piqw717peakabpb1woxvjf",
+                "position": {
+                    "x": 11555.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 500.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 201,
+            "info": {
+                "uid": "201_0",
+                "sort": 0,
+                "title": "KRONE SDP 27"
+            },
+            "mass": 6500.0,
+            "size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13692.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 4821.64672
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 4821.64672
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300.0,
+                    "max_load": 9000.0,
+                    "default_load": 1670.0,
+                    "calculated_load": 4826.64672
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000.0,
+                "max_load": 12000.0,
+                "default_load": 1500.0,
+                "calculated_load": 770.05985
+            },
+            "tractor": {
+                "mass": 9000.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410.0,
+                        "max_load": 8000.0,
+                        "default_load": 6000.0,
+                        "calculated_load": 5838.87262
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827.0,
+                        "max_load": 11000.0,
+                        "default_load": 2300.0,
+                        "calculated_load": 2015.59361
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395.0,
+                        "max_load": 10000.0,
+                        "default_load": 2200.0,
+                        "calculated_load": 1915.59361
+                    }
+                ],
+                "length": 6140.0,
+                "hitch_distance": 778.0
+            },
+            "full_length": 13692.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 46.0,
+                "height_top": 0.0,
+                "length_end": 46.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13600.0
+            },
+            "calculation_info": {
+                "step_count": 6,
+                "cargos_mass": 8.74,
+                "load_volume": 96.46208,
+                "cargos_volume": 47.57864,
+                "count_cargoes": 6,
+                "load_capacity": 32.5,
+                "loading_height": 2.5,
+                "density_percent": 63.06331,
+                "remaining_volume": 48.88344,
+                "void_space_percent": 50.67633,
+                "filling_space_percent": 49.32367
+            },
+            "carrying_capacity": 32500.0,
+            "real_center_of_gravity": [
+                8521.61899313501,
+                479.0617848970252,
+                1497.2826086956522
+            ],
+            "ideal_center_of_gravity": [
+                6800.0,
+                0.0,
+                1240.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#19968c",
+                    "title": "Кабина Скания",
+                    "article": "",
+                    "group_id": "7m7bxsuy5spzht5dpdyeu7dhuf4jibiy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 2500.0,
+                    "height": 2600.0,
+                    "length": 2600.0
+                },
+                "sort": 7,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lh9a4xgturbnooyztar9k4hf0obpkkal",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_OVERSIZE"
+            }
+        ],
+        "packing_type": "PackingTruck PackingStepByStep",
+        "calculation_id": 17030,
+        "invalid_errors": [
+            {
+                "key": 1,
+                "name": "ERROR_CARGO_OVERSIZE",
+                "boxes": [
+                    {
+                        "id": "lh9a4xgturbnooyztar9k4hf0obpkkal",
+                        "info": {
+                            "color": "#19968c",
+                            "title": "Кабина Скания",
+                            "article": "",
+                            "group_id": "7m7bxsuy5spzht5dpdyeu7dhuf4jibiy",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

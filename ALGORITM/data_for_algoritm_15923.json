@@ -1,0 +1,441 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#2ef7e3",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1pwez6plfbtwqg9eaeyyvrmbwwarmnrd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 7.0,
+                "size": {
+                    "width": 800,
+                    "height": 800,
+                    "length": 2000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "p84ymx1qotz3kojqnizpcwzwjmq3ok05",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e2da3d",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1pwez6plfbtwqg9eaeyyvrmbwwarmnrd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800,
+                    "height": 2370,
+                    "length": 2000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "pqzmxrjlfvkzvkdq8ri3gantz8djtma4",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 201,
+            "info": {
+                "uid": "201_0",
+                "sort": 0,
+                "title": "KRONE SDP 27"
+            },
+            "mass": 6500,
+            "size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13692
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300,
+                    "max_load": 9000,
+                    "default_load": 1670
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000,
+                "max_load": 12000,
+                "default_load": 1500
+            },
+            "title": "KRONE SDP 27",
+            "tractor": {
+                "mass": 9000,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410,
+                        "max_load": 8000,
+                        "default_load": 6000
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827,
+                        "max_load": 11000,
+                        "default_load": 2300
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395,
+                        "max_load": 10000,
+                        "default_load": 2200
+                    }
+                ],
+                "title": "IVECO STRALIS AT440S42",
+                "length": 6140,
+                "hitch_distance": 778
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 46,
+                "height_top": 0,
+                "length_end": 46,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13600
+            },
+            "carrying_capacity": 32500
+        },
+        "calculation_id": "15923"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 1,
+                "info": {
+                    "color": "#e2da3d",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1pwez6plfbtwqg9eaeyyvrmbwwarmnrd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pqzmxrjlfvkzvkdq8ri3gantz8djtma4",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#e2da3d",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1pwez6plfbtwqg9eaeyyvrmbwwarmnrd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pqzmxrjlfvkzvkdq8ri3gantz8djtma4",
+                "position": {
+                    "x": 800.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#e2da3d",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1pwez6plfbtwqg9eaeyyvrmbwwarmnrd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pqzmxrjlfvkzvkdq8ri3gantz8djtma4",
+                "position": {
+                    "x": 1600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#2ef7e3",
+                    "title": "G35446739 Solo Baffleanchor 1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "1pwez6plfbtwqg9eaeyyvrmbwwarmnrd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 7.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 800.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "p84ymx1qotz3kojqnizpcwzwjmq3ok05",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 800.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 201,
+            "info": {
+                "uid": "201_0",
+                "sort": 0,
+                "title": "KRONE SDP 27"
+            },
+            "mass": 6500.0,
+            "size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13692.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 1657.52764
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 1657.52764
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300.0,
+                    "max_load": 9000.0,
+                    "default_load": 1670.0,
+                    "calculated_load": 1662.52764
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000.0,
+                "max_load": 12000.0,
+                "default_load": 1500.0,
+                "calculated_load": 1596.91708
+            },
+            "tractor": {
+                "mass": 9000.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410.0,
+                        "max_load": 8000.0,
+                        "default_load": 6000.0,
+                        "calculated_load": 6021.39353
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827.0,
+                        "max_load": 11000.0,
+                        "default_load": 2300.0,
+                        "calculated_load": 2337.76178
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395.0,
+                        "max_load": 10000.0,
+                        "default_load": 2200.0,
+                        "calculated_load": 2237.76178
+                    }
+                ],
+                "length": 6140.0,
+                "hitch_distance": 778.0
+            },
+            "full_length": 13692.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 46.0,
+                "height_top": 0.0,
+                "length_end": 46.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13600.0
+            },
+            "calculation_info": {
+                "step_count": 4,
+                "cargos_mass": 0.0745,
+                "load_volume": 96.46208,
+                "cargos_volume": 12.656,
+                "count_cargoes": 4,
+                "load_capacity": 32.5,
+                "loading_height": 2.37,
+                "density_percent": 83.43882,
+                "remaining_volume": 83.80608,
+                "void_space_percent": 86.87982,
+                "filling_space_percent": 13.12018
+            },
+            "carrying_capacity": 32500.0,
+            "real_center_of_gravity": [
+                1350.3355704697988,
+                1111.241610738255,
+                1000.0
+            ],
+            "ideal_center_of_gravity": [
+                6800.0,
+                0.0,
+                1240.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingTruck PackingLayers",
+        "calculation_id": 15923,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

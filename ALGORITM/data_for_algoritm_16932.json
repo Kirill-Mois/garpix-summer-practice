@@ -1,0 +1,471 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#ce7f4a",
+                    "title": "Деревянный ящик 2",
+                    "article": "3",
+                    "group_id": "1dxqui15bmoxeeutmfk3hzymdke1n9fe",
+                    "group_title": "Группа 3"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 700,
+                    "height": 600,
+                    "length": 1200
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xtyfrxffxo66cche35zuftrpcqze49yj",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ff68e5",
+                    "title": "Деревянный ящик 1",
+                    "article": "2",
+                    "group_id": "25ba7kngeovcyg6zs5sekrurxpu5l4nv",
+                    "group_title": "Группа 2"
+                },
+                "mass": 110.0,
+                "size": {
+                    "width": 700,
+                    "height": 600,
+                    "length": 1000
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "yo80uomy7iy2fg2nzfid9wi8q95m80g9",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d38452",
+                    "title": "Короб картонный",
+                    "article": "1",
+                    "group_id": "3ptxxjqwmhucpwjglhfhjk6ux7wizicr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 600,
+                    "height": 600,
+                    "length": 600
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xpxzgvaqarmzlid5x0ycyoeylrqntjai",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 436,
+            "info": {
+                "uid": "436_0",
+                "sort": 0,
+                "title": "Газель NEXT A21R32"
+            },
+            "mass": 2310,
+            "size": {
+                "width": 2068,
+                "height": 2110,
+                "length": 4210
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 875,
+                    "max_load": 1550,
+                    "default_load": 1160
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 3175,
+                    "max_load": 1950,
+                    "default_load": 1150
+                }
+            ],
+            "title": "Газель NEXT A21R32",
+            "full_length": 6709,
+            "indentation": {
+                "width": 45,
+                "height": 0,
+                "length": 21,
+                "height_top": 10,
+                "length_end": 21,
+                "width_right": 45
+            },
+            "loading_size": {
+                "width": 1978,
+                "height": 2100,
+                "length": 4168
+            },
+            "carrying_capacity": 1500
+        },
+        "calculation_id": "16932"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 1,
+                "info": {
+                    "color": "#ce7f4a",
+                    "title": "Деревянный ящик 2",
+                    "article": "3",
+                    "group_id": "1dxqui15bmoxeeutmfk3hzymdke1n9fe",
+                    "group_title": "Группа 3"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 700.0,
+                    "height": 600.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xtyfrxffxo66cche35zuftrpcqze49yj",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1278.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 700.0,
+                    "height": 600.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#ff68e5",
+                    "title": "Деревянный ящик 1",
+                    "article": "2",
+                    "group_id": "25ba7kngeovcyg6zs5sekrurxpu5l4nv",
+                    "group_title": "Группа 2"
+                },
+                "mass": 110.0,
+                "size": {
+                    "width": 700.0,
+                    "height": 600.0,
+                    "length": 1000.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yo80uomy7iy2fg2nzfid9wi8q95m80g9",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 600.0,
+                    "length": 700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#d38452",
+                    "title": "Короб картонный",
+                    "article": "1",
+                    "group_id": "3ptxxjqwmhucpwjglhfhjk6ux7wizicr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 600.0,
+                    "length": 600.0
+                },
+                "sort": 3,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xpxzgvaqarmzlid5x0ycyoeylrqntjai",
+                "position": {
+                    "x": 1200.0,
+                    "y": 0.0,
+                    "z": 1378.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 600.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#ce7f4a",
+                    "title": "Деревянный ящик 2",
+                    "article": "3",
+                    "group_id": "1dxqui15bmoxeeutmfk3hzymdke1n9fe",
+                    "group_title": "Группа 3"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 700.0,
+                    "height": 600.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xtyfrxffxo66cche35zuftrpcqze49yj",
+                "position": {
+                    "x": 700.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 600.0,
+                    "length": 700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#d38452",
+                    "title": "Короб картонный",
+                    "article": "1",
+                    "group_id": "3ptxxjqwmhucpwjglhfhjk6ux7wizicr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 600.0,
+                    "length": 600.0
+                },
+                "sort": 3,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xpxzgvaqarmzlid5x0ycyoeylrqntjai",
+                "position": {
+                    "x": 1800.0,
+                    "y": 0.0,
+                    "z": 1378.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 600.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#ce7f4a",
+                    "title": "Деревянный ящик 2",
+                    "article": "3",
+                    "group_id": "1dxqui15bmoxeeutmfk3hzymdke1n9fe",
+                    "group_title": "Группа 3"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 700.0,
+                    "height": 600.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xtyfrxffxo66cche35zuftrpcqze49yj",
+                "position": {
+                    "x": 1400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 600.0,
+                    "length": 700.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 436,
+            "info": {
+                "uid": "436_0",
+                "sort": 0,
+                "title": "Газель NEXT A21R32"
+            },
+            "mass": 2310.0,
+            "size": {
+                "width": 2068.0,
+                "height": 2110.0,
+                "length": 4210.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 875.0,
+                    "max_load": 1550.0,
+                    "default_load": 1160.0,
+                    "calculated_load": 1232.62362
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 3175.0,
+                    "max_load": 1950.0,
+                    "default_load": 1150.0,
+                    "calculated_load": 1467.37638
+                }
+            ],
+            "full_length": 4210.0,
+            "indentation": {
+                "width": 45.0,
+                "height": 0.0,
+                "length": 21.0,
+                "height_top": 10.0,
+                "length_end": 21.0,
+                "width_right": 45.0
+            },
+            "loading_size": {
+                "width": 1978.0,
+                "height": 2100.0,
+                "length": 4168.0
+            },
+            "calculation_info": {
+                "step_count": 6,
+                "cargos_mass": 0.39,
+                "load_volume": 17.3130384,
+                "cargos_volume": 2.364,
+                "count_cargoes": 6,
+                "load_capacity": 1.5,
+                "loading_height": 0.6,
+                "density_percent": 82.99629,
+                "remaining_volume": 14.94904,
+                "void_space_percent": 86.34555,
+                "filling_space_percent": 13.65445
+            },
+            "carrying_capacity": 1500.0,
+            "real_center_of_gravity": [
+                980.7692307692307,
+                300.0,
+                893.2307692307693
+            ],
+            "ideal_center_of_gravity": [
+                2084.0,
+                0.0,
+                989.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingLayers",
+        "calculation_id": 16932,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

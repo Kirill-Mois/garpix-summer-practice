@@ -1,0 +1,902 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#ff0c59",
+                    "title": "крыльцо",
+                    "article": "",
+                    "group_id": "1p1n7363uap0nheyiifedmpgrtrueon4",
+                    "group_title": "Группа 11"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1900,
+                    "height": 400,
+                    "length": 2100
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "g4dza4wdzexv6rrjxlh7i49ismtvohed",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#35dd75",
+                    "title": "ЦСП",
+                    "article": "",
+                    "group_id": "2ouczr4vggdson3txd2bdtfj1hqqftd9",
+                    "group_title": "Группа 10"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1300,
+                    "height": 700,
+                    "length": 2550
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ykafhcebz5rjzjxhyy3nmfonxnebgxs2",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#41c66b",
+                    "title": "пандус",
+                    "article": "",
+                    "group_id": "38ogej1o0lay3t5b9cwnwputxk8bnxsg",
+                    "group_title": "Группа 9"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1300,
+                    "height": 1300,
+                    "length": 4000
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "oygbemfjojrdttszysxi0k3czcgxvui2",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#21ba51",
+                    "title": "панели 1",
+                    "article": "",
+                    "group_id": "4iizvjzggaq8e2usctmdcasuxb2f4wej",
+                    "group_title": "Группа 8"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1300,
+                    "height": 2100,
+                    "length": 3000
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "iyp0r42pwkrlckcvrdszf7vzdqrhxxjt",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c1197b",
+                    "title": "панели",
+                    "article": "",
+                    "group_id": "5jcrypqnkjpm5r4tdl0lol0clu5ibxov",
+                    "group_title": "Группа 7"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1300,
+                    "height": 2100,
+                    "length": 3000
+                },
+                "sort": 5,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "kpswnmopz4gifubvevpaikdiqlv2a5yg",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#2d12c9",
+                    "title": "транспак №4",
+                    "article": "",
+                    "group_id": "6nfhk6jsriy5wllnxkqkdxuuzffvgwew",
+                    "group_title": "Группа 6"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440,
+                    "height": 1200,
+                    "length": 6000
+                },
+                "sort": 6,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gzv2sepgsglhndxwgmpe5ny7foeaifye",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e57f5e",
+                    "title": "траспак №3",
+                    "article": "",
+                    "group_id": "7m23wfhlic07sag9wojm1a6lz9jfjyac",
+                    "group_title": "Группа 5"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440,
+                    "height": 1200,
+                    "length": 6000
+                },
+                "sort": 7,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vqoneh6i0qkbfzzfyr5vpzpoanwjh5pu",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#02e0bb",
+                    "title": "транспак №2",
+                    "article": "",
+                    "group_id": "8nffuksv7w2rmt2l3neiod9ojv9cpwvf",
+                    "group_title": "Группа 4"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440,
+                    "height": 1200,
+                    "length": 6000
+                },
+                "sort": 8,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ysa8pylheqtcnxq3nl3ktntzy2ciqovc",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ac38f4",
+                    "title": "транспак №6",
+                    "article": "",
+                    "group_id": "9gcdfvdirjozwj0blsmvyqiv6ecvexze",
+                    "group_title": "Группа 3"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440,
+                    "height": 1000,
+                    "length": 6000
+                },
+                "sort": 9,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vg5ubuebswd42azkgsktnslcia7l8voa",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4dead0",
+                    "title": "транспак №1",
+                    "article": "",
+                    "group_id": "10avts1pr5x6l4drmkuwocd3mv8hx7uq",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440,
+                    "height": 1200,
+                    "length": 6000
+                },
+                "sort": 10,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "t3p3jpfne5vsekb36vpn63z1bu8yzgfd",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d3d849",
+                    "title": "транспак №5",
+                    "article": "",
+                    "group_id": "11klf1xiixxaqoh1ihhjgtlrwhltkgxr",
+                    "group_title": "Транспак"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440,
+                    "height": 740,
+                    "length": 6000
+                },
+                "sort": 11,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nfrear1418b9hhsd0lioh5tockrfewy2",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 105,
+            "info": {
+                "uid": "105_0",
+                "sort": 0,
+                "title": "Nissan Cabstar 3.0 D"
+            },
+            "mass": 1850,
+            "size": {
+                "width": 1870,
+                "height": 2135,
+                "length": 3050
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1100,
+                    "max_load": 3500,
+                    "default_load": 925
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 2900,
+                    "max_load": 3500,
+                    "default_load": 925
+                }
+            ],
+            "title": "Nissan Cabstar 3.0 D",
+            "full_length": 4756,
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 1870,
+                "height": 2135,
+                "length": 3050
+            },
+            "carrying_capacity": 3000
+        },
+        "calculation_id": "16608"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#ff0c59",
+                    "title": "крыльцо",
+                    "article": "",
+                    "group_id": "1p1n7363uap0nheyiifedmpgrtrueon4",
+                    "group_title": "Группа 11"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1900.0,
+                    "height": 400.0,
+                    "length": 2100.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "g4dza4wdzexv6rrjxlh7i49ismtvohed",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1300.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 1900.0,
+                    "length": 2100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#21ba51",
+                    "title": "панели 1",
+                    "article": "",
+                    "group_id": "4iizvjzggaq8e2usctmdcasuxb2f4wej",
+                    "group_title": "Группа 8"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1300.0,
+                    "height": 2100.0,
+                    "length": 3000.0
+                },
+                "sort": 4,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "iyp0r42pwkrlckcvrdszf7vzdqrhxxjt",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1300.0,
+                    "height": 2100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 105,
+            "info": {
+                "uid": "105_0",
+                "sort": 0,
+                "title": "Nissan Cabstar 3.0 D"
+            },
+            "mass": 1850.0,
+            "size": {
+                "width": 1870.0,
+                "height": 2135.0,
+                "length": 3050.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1100.0,
+                    "max_load": 3500.0,
+                    "default_load": 925.0,
+                    "calculated_load": 925.70276
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 2900.0,
+                    "max_load": 3500.0,
+                    "default_load": 925.0,
+                    "calculated_load": 926.29724
+                }
+            ],
+            "full_length": 3050.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 0.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 1870.0,
+                "height": 2135.0,
+                "length": 3050.0
+            },
+            "calculation_info": {
+                "step_count": 2,
+                "cargos_mass": 0.002,
+                "load_volume": 12.1769725,
+                "cargos_volume": 9.786,
+                "count_cargoes": 2,
+                "load_capacity": 3.0,
+                "loading_height": 2.1,
+                "density_percent": 91.37255,
+                "remaining_volume": 2.39097,
+                "void_space_percent": 19.6352,
+                "filling_space_percent": 80.3648
+            },
+            "carrying_capacity": 3000.0,
+            "real_center_of_gravity": [
+                1275.0,
+                1000.0,
+                1075.0
+            ],
+            "ideal_center_of_gravity": [
+                1525.0,
+                0.0,
+                935.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#41c66b",
+                    "title": "пандус",
+                    "article": "",
+                    "group_id": "38ogej1o0lay3t5b9cwnwputxk8bnxsg",
+                    "group_title": "Группа 9"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1300.0,
+                    "height": 1300.0,
+                    "length": 4000.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oygbemfjojrdttszysxi0k3czcgxvui2",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_OVERSIZE"
+            },
+            {
+                "info": {
+                    "color": "#35dd75",
+                    "title": "ЦСП",
+                    "article": "",
+                    "group_id": "2ouczr4vggdson3txd2bdtfj1hqqftd9",
+                    "group_title": "Группа 10"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1300.0,
+                    "height": 700.0,
+                    "length": 2550.0
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ykafhcebz5rjzjxhyy3nmfonxnebgxs2",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#c1197b",
+                    "title": "панели",
+                    "article": "",
+                    "group_id": "5jcrypqnkjpm5r4tdl0lol0clu5ibxov",
+                    "group_title": "Группа 7"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1300.0,
+                    "height": 2100.0,
+                    "length": 3000.0
+                },
+                "sort": 5,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kpswnmopz4gifubvevpaikdiqlv2a5yg",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#2d12c9",
+                    "title": "транспак №4",
+                    "article": "",
+                    "group_id": "6nfhk6jsriy5wllnxkqkdxuuzffvgwew",
+                    "group_title": "Группа 6"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440.0,
+                    "height": 1200.0,
+                    "length": 6000.0
+                },
+                "sort": 6,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gzv2sepgsglhndxwgmpe5ny7foeaifye",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_OVERSIZE"
+            },
+            {
+                "info": {
+                    "color": "#e57f5e",
+                    "title": "траспак №3",
+                    "article": "",
+                    "group_id": "7m23wfhlic07sag9wojm1a6lz9jfjyac",
+                    "group_title": "Группа 5"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440.0,
+                    "height": 1200.0,
+                    "length": 6000.0
+                },
+                "sort": 7,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vqoneh6i0qkbfzzfyr5vpzpoanwjh5pu",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_OVERSIZE"
+            },
+            {
+                "info": {
+                    "color": "#02e0bb",
+                    "title": "транспак №2",
+                    "article": "",
+                    "group_id": "8nffuksv7w2rmt2l3neiod9ojv9cpwvf",
+                    "group_title": "Группа 4"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440.0,
+                    "height": 1200.0,
+                    "length": 6000.0
+                },
+                "sort": 8,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ysa8pylheqtcnxq3nl3ktntzy2ciqovc",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_OVERSIZE"
+            },
+            {
+                "info": {
+                    "color": "#ac38f4",
+                    "title": "транспак №6",
+                    "article": "",
+                    "group_id": "9gcdfvdirjozwj0blsmvyqiv6ecvexze",
+                    "group_title": "Группа 3"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440.0,
+                    "height": 1000.0,
+                    "length": 6000.0
+                },
+                "sort": 9,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vg5ubuebswd42azkgsktnslcia7l8voa",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_OVERSIZE"
+            },
+            {
+                "info": {
+                    "color": "#4dead0",
+                    "title": "транспак №1",
+                    "article": "",
+                    "group_id": "10avts1pr5x6l4drmkuwocd3mv8hx7uq",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440.0,
+                    "height": 1200.0,
+                    "length": 6000.0
+                },
+                "sort": 10,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t3p3jpfne5vsekb36vpn63z1bu8yzgfd",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_OVERSIZE"
+            },
+            {
+                "info": {
+                    "color": "#d3d849",
+                    "title": "транспак №5",
+                    "article": "",
+                    "group_id": "11klf1xiixxaqoh1ihhjgtlrwhltkgxr",
+                    "group_title": "Транспак"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 2440.0,
+                    "height": 740.0,
+                    "length": 6000.0
+                },
+                "sort": 11,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nfrear1418b9hhsd0lioh5tockrfewy2",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_OVERSIZE"
+            }
+        ],
+        "packing_type": "PackingLayers",
+        "calculation_id": 16608,
+        "invalid_errors": [
+            {
+                "key": 1,
+                "name": "ERROR_CARGO_OVERSIZE",
+                "boxes": [
+                    {
+                        "id": "oygbemfjojrdttszysxi0k3czcgxvui2",
+                        "info": {
+                            "color": "#41c66b",
+                            "title": "пандус",
+                            "article": "",
+                            "group_id": "38ogej1o0lay3t5b9cwnwputxk8bnxsg",
+                            "group_title": "Группа 9"
+                        }
+                    },
+                    {
+                        "id": "gzv2sepgsglhndxwgmpe5ny7foeaifye",
+                        "info": {
+                            "color": "#2d12c9",
+                            "title": "транспак №4",
+                            "article": "",
+                            "group_id": "6nfhk6jsriy5wllnxkqkdxuuzffvgwew",
+                            "group_title": "Группа 6"
+                        }
+                    },
+                    {
+                        "id": "vqoneh6i0qkbfzzfyr5vpzpoanwjh5pu",
+                        "info": {
+                            "color": "#e57f5e",
+                            "title": "траспак №3",
+                            "article": "",
+                            "group_id": "7m23wfhlic07sag9wojm1a6lz9jfjyac",
+                            "group_title": "Группа 5"
+                        }
+                    },
+                    {
+                        "id": "ysa8pylheqtcnxq3nl3ktntzy2ciqovc",
+                        "info": {
+                            "color": "#02e0bb",
+                            "title": "транспак №2",
+                            "article": "",
+                            "group_id": "8nffuksv7w2rmt2l3neiod9ojv9cpwvf",
+                            "group_title": "Группа 4"
+                        }
+                    },
+                    {
+                        "id": "vg5ubuebswd42azkgsktnslcia7l8voa",
+                        "info": {
+                            "color": "#ac38f4",
+                            "title": "транспак №6",
+                            "article": "",
+                            "group_id": "9gcdfvdirjozwj0blsmvyqiv6ecvexze",
+                            "group_title": "Группа 3"
+                        }
+                    },
+                    {
+                        "id": "t3p3jpfne5vsekb36vpn63z1bu8yzgfd",
+                        "info": {
+                            "color": "#4dead0",
+                            "title": "транспак №1",
+                            "article": "",
+                            "group_id": "10avts1pr5x6l4drmkuwocd3mv8hx7uq",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "nfrear1418b9hhsd0lioh5tockrfewy2",
+                        "info": {
+                            "color": "#d3d849",
+                            "title": "транспак №5",
+                            "article": "",
+                            "group_id": "11klf1xiixxaqoh1ihhjgtlrwhltkgxr",
+                            "group_title": "Транспак"
+                        }
+                    }
+                ]
+            }
+        ],
+        "unpacked_errors": [
+            {
+                "key": 11,
+                "name": "errorIntersectionContainer",
+                "boxes": [
+                    {
+                        "id": "ykafhcebz5rjzjxhyy3nmfonxnebgxs2",
+                        "info": {
+                            "color": "#35dd75",
+                            "title": "ЦСП",
+                            "article": "",
+                            "group_id": "2ouczr4vggdson3txd2bdtfj1hqqftd9",
+                            "group_title": "Группа 10"
+                        }
+                    },
+                    {
+                        "id": "kpswnmopz4gifubvevpaikdiqlv2a5yg",
+                        "info": {
+                            "color": "#c1197b",
+                            "title": "панели",
+                            "article": "",
+                            "group_id": "5jcrypqnkjpm5r4tdl0lol0clu5ibxov",
+                            "group_title": "Группа 7"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [
+            "ERROR_AXLES_DISTANCE_CAR"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

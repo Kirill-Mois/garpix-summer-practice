@@ -1,0 +1,599 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#009327",
+                    "title": "Шкаф",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 800,
+                    "height": 2400,
+                    "length": 1400
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "wivam3z7653qte445oeve4zchkar8bw0",
+                "stacking": false,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d6660a",
+                    "title": "Шина",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 210.0,
+                "size": {
+                    "width": 300,
+                    "height": 300,
+                    "length": 2300
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "pcjstavm60fhmjrb7uisg35nywtqayx0",
+                "stacking": false,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#28569b",
+                    "title": "Поддон",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800,
+                    "height": 1400,
+                    "length": 1200
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 6,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gnjwno5coauo3m0qab8orpqo64exstxe",
+                "stacking": false,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 270,
+            "info": {
+                "uid": "270_0",
+                "sort": 0,
+                "title": "Фургон №3"
+            },
+            "mass": 4000,
+            "size": {
+                "width": 2210,
+                "height": 3098,
+                "length": 4850
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1085,
+                    "max_load": 4000,
+                    "default_load": 2000
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 4600,
+                    "max_load": 4000,
+                    "default_load": 2000
+                }
+            ],
+            "title": "Фургон №3",
+            "full_length": 6730,
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 1138,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2210,
+                "height": 1960,
+                "length": 4850
+            },
+            "carrying_capacity": 4000
+        },
+        "calculation_id": "15440"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 2,
+                "info": {
+                    "color": "#d6660a",
+                    "title": "Шина",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 210.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 300.0,
+                    "length": 2300.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pcjstavm60fhmjrb7uisg35nywtqayx0",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 300.0,
+                    "length": 2300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#009327",
+                    "title": "Шкаф",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2400.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wivam3z7653qte445oeve4zchkar8bw0",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 800.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 2400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#009327",
+                    "title": "Шкаф",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 500.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 2400.0,
+                    "length": 1400.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wivam3z7653qte445oeve4zchkar8bw0",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 2400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#28569b",
+                    "title": "Поддон",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gnjwno5coauo3m0qab8orpqo64exstxe",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#28569b",
+                    "title": "Поддон",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gnjwno5coauo3m0qab8orpqo64exstxe",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 1400.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#28569b",
+                    "title": "Поддон",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gnjwno5coauo3m0qab8orpqo64exstxe",
+                "position": {
+                    "x": 3600.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#28569b",
+                    "title": "Поддон",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gnjwno5coauo3m0qab8orpqo64exstxe",
+                "position": {
+                    "x": 3200.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 1400.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#28569b",
+                    "title": "Поддон",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gnjwno5coauo3m0qab8orpqo64exstxe",
+                "position": {
+                    "x": 4000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 1400.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 270,
+            "info": {
+                "uid": "270_0",
+                "sort": 0,
+                "title": "Фургон №3"
+            },
+            "mass": 4000.0,
+            "size": {
+                "width": 2210.0,
+                "height": 3098.0,
+                "length": 4850.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1085.0,
+                    "max_load": 4000.0,
+                    "default_load": 2000.0,
+                    "calculated_load": 2732.07609
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 4600.0,
+                    "max_load": 4000.0,
+                    "default_load": 2000.0,
+                    "calculated_load": 3477.92391
+                }
+            ],
+            "full_length": 4850.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 1138.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2210.0,
+                "height": 1960.0,
+                "length": 4850.0
+            },
+            "calculation_info": {
+                "step_count": 8,
+                "cargos_mass": 2.21,
+                "load_volume": 21.00826,
+                "cargos_volume": 12.303,
+                "count_cargoes": 8,
+                "load_capacity": 4.0,
+                "loading_height": 1.4,
+                "density_percent": 91.54018,
+                "remaining_volume": 8.70526,
+                "void_space_percent": 41.43732,
+                "filling_space_percent": 58.56268
+            },
+            "carrying_capacity": 4000.0,
+            "real_center_of_gravity": [
+                2281.2217194570135,
+                647.737556561086,
+                980.7692307692307
+            ],
+            "ideal_center_of_gravity": [
+                2425.0,
+                0.0,
+                1105.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#28569b",
+                    "title": "Поддон",
+                    "article": "",
+                    "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 1400.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gnjwno5coauo3m0qab8orpqo64exstxe",
+                "stacking": false,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            }
+        ],
+        "packing_type": "PackingLayers",
+        "calculation_id": 15440,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 11,
+                "name": "errorIntersectionContainer",
+                "boxes": [
+                    {
+                        "id": "gnjwno5coauo3m0qab8orpqo64exstxe",
+                        "info": {
+                            "color": "#28569b",
+                            "title": "Поддон",
+                            "article": "",
+                            "group_id": "1quogmoe13jjhlvxgy206wnhr18zzhjy",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [
+            "ERROR_AXLES_DISTANCE_CAR"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

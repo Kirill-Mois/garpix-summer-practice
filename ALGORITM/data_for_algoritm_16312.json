@@ -1,0 +1,724 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100,
+                    "height": 1100,
+                    "length": 3000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 24,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 265,
+            "info": {
+                "uid": "265_0",
+                "sort": 0,
+                "title": "40' HCPW (valid)"
+            },
+            "mass": 4400,
+            "size": {
+                "width": 2500,
+                "height": 2896,
+                "length": 12192
+            },
+            "type": "container",
+            "axles": [],
+            "title": "40' HCPW (valid)",
+            "indentation": {
+                "width": 34,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 34
+            },
+            "loading_size": {
+                "width": 2432,
+                "height": 2698,
+                "length": 12032
+            },
+            "carrying_capacity": 30720
+        },
+        "calculation_id": "16312"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 1,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1100.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 0.0,
+                    "y": 1100.0,
+                    "z": 1100.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 0.0,
+                    "y": 1100.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 3000.0,
+                    "y": 0.0,
+                    "z": 1332.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 3000.0,
+                    "y": 0.0,
+                    "z": 232.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 6000.0,
+                    "y": 0.0,
+                    "z": 1332.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 6000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 9000.0,
+                    "y": 0.0,
+                    "z": 1332.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 6032.0,
+                    "y": 1100.0,
+                    "z": 1332.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 9000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 9032.0,
+                    "y": 1100.0,
+                    "z": 1332.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "position": {
+                    "x": 9032.0,
+                    "y": 1100.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 265,
+            "info": {
+                "uid": "265_0",
+                "sort": 0,
+                "title": "40' HCPW (valid)"
+            },
+            "mass": 4400.0,
+            "size": {
+                "width": 2500.0,
+                "height": 2896.0,
+                "length": 12192.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 34.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 34.0
+            },
+            "loading_size": {
+                "width": 2432.0,
+                "height": 2698.0,
+                "length": 12032.0
+            },
+            "calculation_info": {
+                "step_count": 13,
+                "cargos_mass": 29.25,
+                "load_volume": 78.948401152,
+                "cargos_volume": 47.19,
+                "count_cargoes": 13,
+                "load_capacity": 30.72,
+                "loading_height": 2.2,
+                "density_percent": 73.3037,
+                "remaining_volume": 31.7584,
+                "void_space_percent": 40.22678,
+                "filling_space_percent": 59.77322
+            },
+            "carrying_capacity": 30720.0,
+            "real_center_of_gravity": [
+                6122.7692307692305,
+                973.0769230769231,
+                1249.3846153846155
+            ],
+            "ideal_center_of_gravity": [
+                6016.0,
+                0.0,
+                1216.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#e0d760",
+                    "title": "пиломатериалы",
+                    "article": "",
+                    "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2250.0,
+                "size": {
+                    "width": 1100.0,
+                    "height": 1100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 11.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorLoadCapacity"
+            }
+        ],
+        "packing_type": "PackingLayers",
+        "calculation_id": 16312,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                        "info": {
+                            "color": "#e0d760",
+                            "title": "пиломатериалы",
+                            "article": "",
+                            "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 4,
+                "name": "errorLoadCapacity",
+                "boxes": [
+                    {
+                        "id": "1jlx3l62p7remksmgeywby4wpspo7ccx",
+                        "info": {
+                            "color": "#e0d760",
+                            "title": "пиломатериалы",
+                            "article": "",
+                            "group_id": "13fa2lwvyk5i1qqm2glfektdabh2agwb",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

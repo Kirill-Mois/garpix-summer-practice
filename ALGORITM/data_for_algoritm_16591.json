@@ -1,0 +1,1600 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#7affc1",
+                    "title": "Die Walkure",
+                    "article": "Die Walkure",
+                    "group_id": "1z7vr75nnyuiqzjge5tigoitzsb9i0p1",
+                    "group_title": "Группа 4"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 820,
+                    "height": 570,
+                    "length": 680
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ds6lafpnniak46f7gs02dwrwg4swjs6v",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0d133a",
+                    "title": "Calaf",
+                    "article": "Calaf",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 420,
+                    "height": 340,
+                    "length": 540
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "bigsnueallfp2kxaf1fxt97uu375gz6o",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8e1cc8",
+                    "title": "M-100Plus",
+                    "article": "M-100Plus",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 680,
+                    "height": 380,
+                    "length": 700
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 4,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "a7c9hcqaw4ojfvjspzum9yjoc0sknvu2",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ad88f7",
+                    "title": "Cyber 880I",
+                    "article": "Cyber 880I",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 640,
+                    "height": 400,
+                    "length": 580
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "eolrcnmbyaagle11sfadfsmuyouymzou",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#26f728",
+                    "title": "Grill Cyber 880I",
+                    "article": "Grill Cyber 880I",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 250,
+                    "height": 510,
+                    "length": 290
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ddwbhqtk9zisvugtqjmza5cnirp0uujn",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#b63435",
+                    "title": "Grill Cyber 100TH",
+                    "article": "Grill Cyber 100TH",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 250,
+                    "height": 510,
+                    "length": 290
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tppxaknipaxswvgfn3sffr5kl2xxkw6h",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#fc22bd",
+                    "title": "Cyber 100TH",
+                    "article": "Cyber 100TH",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 520,
+                    "height": 370,
+                    "length": 570
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "mvr7oc54hklxzul3kf9jz7eu4zlbs4vo",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#dd5d3a",
+                    "title": "PM-11",
+                    "article": "PM-11",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 680,
+                    "height": 380,
+                    "length": 700
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "90z46cbppwljuztbheysi0xflxyzmesn",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#db7835",
+                    "title": "Linear CDS 120",
+                    "article": "Linear CDS 120",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 500,
+                    "height": 280,
+                    "length": 570
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 5,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "oi3yy8m7mzixpyvuk1tknnq5xiopjxvb",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#950223",
+                    "title": "Referens CDS8",
+                    "article": "Referens CDS8",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 500,
+                    "height": 280,
+                    "length": 570
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "g87pp8ilawfwicmiojq3sc0p4knnddbp",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#7af94c",
+                    "title": "AMP150",
+                    "article": "AMP150",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 500,
+                    "height": 280,
+                    "length": 570
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 7,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "03tacgano1sv9ph7aadlkeakyrvyomno",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ed9205",
+                    "title": "Reference 40MKII",
+                    "article": "Reference 40MKII",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 490,
+                    "height": 280,
+                    "length": 670
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xzbwf4exjhazx4vn3k95wcvirpfxxvlh",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#b621e8",
+                    "title": "A18-P",
+                    "article": "A18-P",
+                    "group_id": "4ayhi7mgwb0zgwwkpznlvnxrgvhmff5z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 450,
+                    "height": 320,
+                    "length": 500
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "squnayeccee7b2g18ktouocsodg5i8n0",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#aab172",
+                    "title": "Linear 15",
+                    "article": "Linear 15",
+                    "group_id": "4ayhi7mgwb0zgwwkpznlvnxrgvhmff5z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 660,
+                    "height": 370,
+                    "length": 620
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tleecdg7bn46pkf5kjpmypux9qz4dqbg",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": true,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 1190,
+            "info": {
+                "uid": "1190_0",
+                "sort": 0,
+                "title": "EURO Consonance",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 20,
+            "size": {
+                "width": 800,
+                "height": 200,
+                "length": 1200
+            },
+            "type": "pallet",
+            "axles": [],
+            "title": "EURO Consonance",
+            "margin": {
+                "width": 0,
+                "height": 0,
+                "length": 0
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 800,
+                "height": 2300,
+                "length": 1200
+            },
+            "carrying_capacity": 1000
+        },
+        "calculation_id": "16591"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#7affc1",
+                    "title": "Die Walkure",
+                    "article": "Die Walkure",
+                    "group_id": "1z7vr75nnyuiqzjge5tigoitzsb9i0p1",
+                    "group_title": "Группа 4"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 820.0,
+                    "height": 570.0,
+                    "length": 680.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ds6lafpnniak46f7gs02dwrwg4swjs6v",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 680.0,
+                    "height": 570.0,
+                    "length": 820.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#b63435",
+                    "title": "Grill Cyber 100TH",
+                    "article": "Grill Cyber 100TH",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 510.0,
+                    "length": 290.0
+                },
+                "sort": 3,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tppxaknipaxswvgfn3sffr5kl2xxkw6h",
+                "position": {
+                    "x": 820.0,
+                    "y": 0.0,
+                    "z": 510.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 290.0,
+                    "height": 510.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#26f728",
+                    "title": "Grill Cyber 880I",
+                    "article": "Grill Cyber 880I",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 510.0,
+                    "length": 290.0
+                },
+                "sort": 3,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ddwbhqtk9zisvugtqjmza5cnirp0uujn",
+                "position": {
+                    "x": 820.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 510.0,
+                    "height": 250.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#26f728",
+                    "title": "Grill Cyber 880I",
+                    "article": "Grill Cyber 880I",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 510.0,
+                    "length": 290.0
+                },
+                "sort": 3,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ddwbhqtk9zisvugtqjmza5cnirp0uujn",
+                "position": {
+                    "x": 820.0,
+                    "y": 250.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 510.0,
+                    "height": 250.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#b63435",
+                    "title": "Grill Cyber 100TH",
+                    "article": "Grill Cyber 100TH",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 510.0,
+                    "length": 290.0
+                },
+                "sort": 3,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tppxaknipaxswvgfn3sffr5kl2xxkw6h",
+                "position": {
+                    "x": 0.0,
+                    "y": 570.0,
+                    "z": 420.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 290.0,
+                    "length": 510.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#b63435",
+                    "title": "Grill Cyber 100TH",
+                    "article": "Grill Cyber 100TH",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 510.0,
+                    "length": 290.0
+                },
+                "sort": 3,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tppxaknipaxswvgfn3sffr5kl2xxkw6h",
+                "position": {
+                    "x": 820.0,
+                    "y": 510.0,
+                    "z": 550.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 510.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#0d133a",
+                    "title": "Calaf",
+                    "article": "Calaf",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 420.0,
+                    "height": 340.0,
+                    "length": 540.0
+                },
+                "sort": 2,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bigsnueallfp2kxaf1fxt97uu375gz6o",
+                "position": {
+                    "x": 0.0,
+                    "y": 570.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 420.0,
+                    "height": 340.0,
+                    "length": 540.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#0d133a",
+                    "title": "Calaf",
+                    "article": "Calaf",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 420.0,
+                    "height": 340.0,
+                    "length": 540.0
+                },
+                "sort": 2,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bigsnueallfp2kxaf1fxt97uu375gz6o",
+                "position": {
+                    "x": 540.0,
+                    "y": 570.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 540.0,
+                    "height": 340.0,
+                    "length": 420.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#8e1cc8",
+                    "title": "M-100Plus",
+                    "article": "M-100Plus",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 680.0,
+                    "height": 380.0,
+                    "length": 700.0
+                },
+                "sort": 2,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a7c9hcqaw4ojfvjspzum9yjoc0sknvu2",
+                "position": {
+                    "x": 0.0,
+                    "y": 910.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 680.0,
+                    "height": 380.0,
+                    "length": 700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#0d133a",
+                    "title": "Calaf",
+                    "article": "Calaf",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 420.0,
+                    "height": 340.0,
+                    "length": 540.0
+                },
+                "sort": 2,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bigsnueallfp2kxaf1fxt97uu375gz6o",
+                "position": {
+                    "x": 700.0,
+                    "y": 910.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 540.0,
+                    "height": 340.0,
+                    "length": 420.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#8e1cc8",
+                    "title": "M-100Plus",
+                    "article": "M-100Plus",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 680.0,
+                    "height": 380.0,
+                    "length": 700.0
+                },
+                "sort": 2,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a7c9hcqaw4ojfvjspzum9yjoc0sknvu2",
+                "position": {
+                    "x": 0.0,
+                    "y": 1290.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 680.0,
+                    "height": 380.0,
+                    "length": 700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#0d133a",
+                    "title": "Calaf",
+                    "article": "Calaf",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 420.0,
+                    "height": 340.0,
+                    "length": 540.0
+                },
+                "sort": 2,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bigsnueallfp2kxaf1fxt97uu375gz6o",
+                "position": {
+                    "x": 700.0,
+                    "y": 1250.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 540.0,
+                    "height": 340.0,
+                    "length": 420.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#8e1cc8",
+                    "title": "M-100Plus",
+                    "article": "M-100Plus",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 680.0,
+                    "height": 380.0,
+                    "length": 700.0
+                },
+                "sort": 2,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a7c9hcqaw4ojfvjspzum9yjoc0sknvu2",
+                "position": {
+                    "x": 0.0,
+                    "y": 1670.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 680.0,
+                    "height": 380.0,
+                    "length": 700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#db7835",
+                    "title": "Linear CDS 120",
+                    "article": "Linear CDS 120",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 500.0,
+                    "height": 280.0,
+                    "length": 570.0
+                },
+                "sort": 3,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oi3yy8m7mzixpyvuk1tknnq5xiopjxvb",
+                "position": {
+                    "x": 700.0,
+                    "y": 1590.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 570.0,
+                    "height": 280.0,
+                    "length": 500.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#db7835",
+                    "title": "Linear CDS 120",
+                    "article": "Linear CDS 120",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 500.0,
+                    "height": 280.0,
+                    "length": 570.0
+                },
+                "sort": 3,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oi3yy8m7mzixpyvuk1tknnq5xiopjxvb",
+                "position": {
+                    "x": 700.0,
+                    "y": 1870.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 570.0,
+                    "height": 280.0,
+                    "length": 500.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1190,
+            "info": {
+                "uid": "1190_0",
+                "sort": 0,
+                "title": "EURO Consonance",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 20.0,
+            "size": {
+                "width": 800.0,
+                "height": 200.0,
+                "length": 1200.0
+            },
+            "type": "pallet",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": -2100.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 800.0,
+                "height": 2300.0,
+                "length": 1200.0
+            },
+            "calculation_info": {
+                "step_count": 15,
+                "cargos_mass": 0.15,
+                "load_volume": 2.208,
+                "cargos_volume": 1.5134,
+                "count_cargoes": 15,
+                "load_capacity": 1.0,
+                "loading_height": 2.15,
+                "density_percent": 73.3234,
+                "remaining_volume": 0.69461,
+                "void_space_percent": 31.45856,
+                "filling_space_percent": 68.54144
+            },
+            "carrying_capacity": 1000.0,
+            "real_center_of_gravity": [
+                686.3333333333334,
+                978.6666666666666,
+                355.6666666666667
+            ],
+            "ideal_center_of_gravity": [
+                600.0,
+                0.0,
+                400.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#ad88f7",
+                    "title": "Cyber 880I",
+                    "article": "Cyber 880I",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 580.0,
+                    "height": 400.0,
+                    "length": 640.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "eolrcnmbyaagle11sfadfsmuyouymzou",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#7af94c",
+                    "title": "AMP150",
+                    "article": "AMP150",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 500.0,
+                    "height": 280.0,
+                    "length": 570.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 7.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "03tacgano1sv9ph7aadlkeakyrvyomno",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#dd5d3a",
+                    "title": "PM-11",
+                    "article": "PM-11",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 680.0,
+                    "height": 380.0,
+                    "length": 700.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "90z46cbppwljuztbheysi0xflxyzmesn",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#ed9205",
+                    "title": "Reference 40MKII",
+                    "article": "Reference 40MKII",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 490.0,
+                    "height": 280.0,
+                    "length": 670.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xzbwf4exjhazx4vn3k95wcvirpfxxvlh",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#b621e8",
+                    "title": "A18-P",
+                    "article": "A18-P",
+                    "group_id": "4ayhi7mgwb0zgwwkpznlvnxrgvhmff5z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 450.0,
+                    "height": 320.0,
+                    "length": 500.0
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "squnayeccee7b2g18ktouocsodg5i8n0",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#aab172",
+                    "title": "Linear 15",
+                    "article": "Linear 15",
+                    "group_id": "4ayhi7mgwb0zgwwkpznlvnxrgvhmff5z",
+                    "group_title": "Группа 1"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 620.0,
+                    "height": 370.0,
+                    "length": 660.0
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tleecdg7bn46pkf5kjpmypux9qz4dqbg",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#db7835",
+                    "title": "Linear CDS 120",
+                    "article": "Linear CDS 120",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 500.0,
+                    "height": 280.0,
+                    "length": 570.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 3.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "oi3yy8m7mzixpyvuk1tknnq5xiopjxvb",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#8e1cc8",
+                    "title": "M-100Plus",
+                    "article": "M-100Plus",
+                    "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                    "group_title": "Группа 3"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 680.0,
+                    "height": 380.0,
+                    "length": 700.0
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "a7c9hcqaw4ojfvjspzum9yjoc0sknvu2",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#fc22bd",
+                    "title": "Cyber 100TH",
+                    "article": "Cyber 100TH",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 520.0,
+                    "height": 370.0,
+                    "length": 570.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 3.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "mvr7oc54hklxzul3kf9jz7eu4zlbs4vo",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            },
+            {
+                "info": {
+                    "color": "#950223",
+                    "title": "Referens CDS8",
+                    "article": "Referens CDS8",
+                    "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                    "group_title": "Группа 2"
+                },
+                "mass": 10.0,
+                "size": {
+                    "width": 500.0,
+                    "height": 280.0,
+                    "length": 570.0
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "g87pp8ilawfwicmiojq3sc0p4knnddbp",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            }
+        ],
+        "packing_type": "PackingLayers",
+        "calculation_id": 16591,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "eolrcnmbyaagle11sfadfsmuyouymzou",
+                        "info": {
+                            "color": "#ad88f7",
+                            "title": "Cyber 880I",
+                            "article": "Cyber 880I",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "03tacgano1sv9ph7aadlkeakyrvyomno",
+                        "info": {
+                            "color": "#7af94c",
+                            "title": "AMP150",
+                            "article": "AMP150",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "xzbwf4exjhazx4vn3k95wcvirpfxxvlh",
+                        "info": {
+                            "color": "#ed9205",
+                            "title": "Reference 40MKII",
+                            "article": "Reference 40MKII",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "tleecdg7bn46pkf5kjpmypux9qz4dqbg",
+                        "info": {
+                            "color": "#aab172",
+                            "title": "Linear 15",
+                            "article": "Linear 15",
+                            "group_id": "4ayhi7mgwb0zgwwkpznlvnxrgvhmff5z",
+                            "group_title": "Группа 1"
+                        }
+                    },
+                    {
+                        "id": "oi3yy8m7mzixpyvuk1tknnq5xiopjxvb",
+                        "info": {
+                            "color": "#db7835",
+                            "title": "Linear CDS 120",
+                            "article": "Linear CDS 120",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "mvr7oc54hklxzul3kf9jz7eu4zlbs4vo",
+                        "info": {
+                            "color": "#fc22bd",
+                            "title": "Cyber 100TH",
+                            "article": "Cyber 100TH",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "g87pp8ilawfwicmiojq3sc0p4knnddbp",
+                        "info": {
+                            "color": "#950223",
+                            "title": "Referens CDS8",
+                            "article": "Referens CDS8",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 11,
+                "name": "errorIntersectionContainer",
+                "boxes": [
+                    {
+                        "id": "eolrcnmbyaagle11sfadfsmuyouymzou",
+                        "info": {
+                            "color": "#ad88f7",
+                            "title": "Cyber 880I",
+                            "article": "Cyber 880I",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "03tacgano1sv9ph7aadlkeakyrvyomno",
+                        "info": {
+                            "color": "#7af94c",
+                            "title": "AMP150",
+                            "article": "AMP150",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "90z46cbppwljuztbheysi0xflxyzmesn",
+                        "info": {
+                            "color": "#dd5d3a",
+                            "title": "PM-11",
+                            "article": "PM-11",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "xzbwf4exjhazx4vn3k95wcvirpfxxvlh",
+                        "info": {
+                            "color": "#ed9205",
+                            "title": "Reference 40MKII",
+                            "article": "Reference 40MKII",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "squnayeccee7b2g18ktouocsodg5i8n0",
+                        "info": {
+                            "color": "#b621e8",
+                            "title": "A18-P",
+                            "article": "A18-P",
+                            "group_id": "4ayhi7mgwb0zgwwkpznlvnxrgvhmff5z",
+                            "group_title": "Группа 1"
+                        }
+                    },
+                    {
+                        "id": "tleecdg7bn46pkf5kjpmypux9qz4dqbg",
+                        "info": {
+                            "color": "#aab172",
+                            "title": "Linear 15",
+                            "article": "Linear 15",
+                            "group_id": "4ayhi7mgwb0zgwwkpznlvnxrgvhmff5z",
+                            "group_title": "Группа 1"
+                        }
+                    },
+                    {
+                        "id": "oi3yy8m7mzixpyvuk1tknnq5xiopjxvb",
+                        "info": {
+                            "color": "#db7835",
+                            "title": "Linear CDS 120",
+                            "article": "Linear CDS 120",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "a7c9hcqaw4ojfvjspzum9yjoc0sknvu2",
+                        "info": {
+                            "color": "#8e1cc8",
+                            "title": "M-100Plus",
+                            "article": "M-100Plus",
+                            "group_id": "2mslf3r5o6cwzeymrt9vo51zzgjfaj7l",
+                            "group_title": "Группа 3"
+                        }
+                    },
+                    {
+                        "id": "mvr7oc54hklxzul3kf9jz7eu4zlbs4vo",
+                        "info": {
+                            "color": "#fc22bd",
+                            "title": "Cyber 100TH",
+                            "article": "Cyber 100TH",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    },
+                    {
+                        "id": "g87pp8ilawfwicmiojq3sc0p4knnddbp",
+                        "info": {
+                            "color": "#950223",
+                            "title": "Referens CDS8",
+                            "article": "Referens CDS8",
+                            "group_id": "38isjiafvg7kutvquebjm46rhlbotc0s",
+                            "group_title": "Группа 2"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [
+            "ERROR_INDENTATION"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

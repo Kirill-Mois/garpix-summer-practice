@@ -1,0 +1,2360 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#b72130",
+                    "title": "box",
+                    "article": "",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 300,
+                    "height": 1000,
+                    "length": 200
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "twbsjj6n1kqtmfc0jteyirtcflluqjki",
+                "stacking": false,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563,
+                    "height": 460,
+                    "length": 360
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 50,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#3c9314",
+                    "title": "sdsads",
+                    "article": "",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.0,
+                "size": {
+                    "width": 344,
+                    "height": 670,
+                    "length": 255
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vrjlh7a1yuoulz3en3wgsvxhls6lv82t",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 306,
+            "info": {
+                "uid": "306_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370,
+            "size": {
+                "width": 2438,
+                "height": 2591,
+                "length": 6058
+            },
+            "type": "container",
+            "axles": [],
+            "title": "20' DC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2393,
+                "length": 5898
+            },
+            "carrying_capacity": 28335
+        },
+        "calculation_id": "16362"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 6,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1445.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 360.0,
+                    "y": 0.0,
+                    "z": 1648.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 522.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 563.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 360.0,
+                    "y": 0.0,
+                    "z": 725.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 563.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 923.0,
+                    "y": 0.0,
+                    "z": 1445.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 1283.0,
+                    "y": 0.0,
+                    "z": 1648.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 923.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 923.0,
+                    "y": 0.0,
+                    "z": 522.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 1486.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 1283.0,
+                    "y": 0.0,
+                    "z": 725.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 923.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 1486.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 1846.0,
+                    "y": 0.0,
+                    "z": 1445.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 2206.0,
+                    "y": 0.0,
+                    "z": 1648.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 1846.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 1846.0,
+                    "y": 0.0,
+                    "z": 522.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 2409.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 2206.0,
+                    "y": 0.0,
+                    "z": 725.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 1846.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 2409.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 2769.0,
+                    "y": 0.0,
+                    "z": 1445.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 53,
+                "info": {
+                    "color": "#3c9314",
+                    "title": "sdsads",
+                    "article": "",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.0,
+                "size": {
+                    "width": 344.0,
+                    "height": 670.0,
+                    "length": 255.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vrjlh7a1yuoulz3en3wgsvxhls6lv82t",
+                "position": {
+                    "x": 3528.0,
+                    "y": 0.0,
+                    "z": 2008.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 344.0,
+                    "height": 255.0,
+                    "length": 670.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 3129.0,
+                    "y": 0.0,
+                    "z": 1648.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 2769.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 3332.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 2769.0,
+                    "y": 0.0,
+                    "z": 522.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 3129.0,
+                    "y": 0.0,
+                    "z": 725.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 2769.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 3332.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 3692.0,
+                    "y": 0.0,
+                    "z": 1445.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#3c9314",
+                    "title": "sdsads",
+                    "article": "",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.0,
+                "size": {
+                    "width": 344.0,
+                    "height": 670.0,
+                    "length": 255.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vrjlh7a1yuoulz3en3wgsvxhls6lv82t",
+                "position": {
+                    "x": 4198.0,
+                    "y": 0.0,
+                    "z": 2008.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 344.0,
+                    "height": 255.0,
+                    "length": 670.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4052.0,
+                    "y": 0.0,
+                    "z": 1648.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 3692.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 3692.0,
+                    "y": 0.0,
+                    "z": 522.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4255.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4052.0,
+                    "y": 0.0,
+                    "z": 725.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 3692.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4255.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4615.0,
+                    "y": 0.0,
+                    "z": 1445.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 51,
+                "info": {
+                    "color": "#3c9314",
+                    "title": "sdsads",
+                    "article": "",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.0,
+                "size": {
+                    "width": 344.0,
+                    "height": 670.0,
+                    "length": 255.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vrjlh7a1yuoulz3en3wgsvxhls6lv82t",
+                "position": {
+                    "x": 4868.0,
+                    "y": 0.0,
+                    "z": 2008.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 344.0,
+                    "height": 255.0,
+                    "length": 670.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4975.0,
+                    "y": 0.0,
+                    "z": 1648.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4615.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4615.0,
+                    "y": 0.0,
+                    "z": 522.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 5178.0,
+                    "y": 0.0,
+                    "z": 1085.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4975.0,
+                    "y": 0.0,
+                    "z": 725.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 4615.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 460.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 5178.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 50,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 5538.0,
+                    "y": 0.0,
+                    "z": 1725.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 49,
+                "info": {
+                    "color": "#cc3795",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 1,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hfucjq8tlksfkvaluss3ftufgfv6zjo8",
+                "position": {
+                    "x": 5538.0,
+                    "y": 0.0,
+                    "z": 1162.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#b72130",
+                    "title": "box",
+                    "article": "",
+                    "group_id": "1t9r5gskeulgtuce83v6fqm6flov1vlj",
+                    "group_title": "Группа 1"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 1000.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "twbsjj6n1kqtmfc0jteyirtcflluqjki",
+                "position": {
+                    "x": 5538.0,
+                    "y": 0.0,
+                    "z": 162.0
+                },
+                "stacking": false,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 300.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 306,
+            "info": {
+                "uid": "306_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2591.0,
+                "length": 6058.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2393.0,
+                "length": 5898.0
+            },
+            "calculation_info": {
+                "step_count": 50,
+                "cargos_mass": 1.066,
+                "load_volume": 33.195925728,
+                "cargos_volume": 4.89796,
+                "count_cargoes": 54,
+                "load_capacity": 28.335,
+                "loading_height": 0.46,
+                "density_percent": 82.43436,
+                "remaining_volume": 28.29797,
+                "void_space_percent": 85.24531,
+                "filling_space_percent": 14.75469
+            },
+            "carrying_capacity": 28335.0,
+            "real_center_of_gravity": [
+                3117.9080675422138,
+                219.90150093808631,
+                1155.7692307692307
+            ],
+            "ideal_center_of_gravity": [
+                2949.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingSmallBlocks",
+        "calculation_id": 16362,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

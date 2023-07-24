@@ -1,0 +1,2388 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360,
+                    "height": 430,
+                    "length": 2080
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 50,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0c6ac9",
+                    "title": "19. Упаковка грузов противовеса",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000,
+                    "height": 140,
+                    "length": 800
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gfch4x1md7euiucsa7tgis6zgzqt5u4e",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 418,
+            "info": {
+                "uid": "418_0",
+                "sort": 0,
+                "title": "MAN 2 оси | полуприцеп 3 оси"
+            },
+            "mass": 9694,
+            "size": {
+                "width": 2500,
+                "height": 2679,
+                "length": 13550
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 2990,
+                    "max_load": 11000,
+                    "default_load": 2113
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360,
+                    "max_load": 11000,
+                    "default_load": 2090
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360,
+                    "max_load": 11000,
+                    "default_load": 2113
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 6240,
+                "max_load": 10058,
+                "default_load": 3378
+            },
+            "title": "MAN 2 оси | полуприцеп 3 оси",
+            "tractor": {
+                "mass": 7523,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1475,
+                        "max_load": 10000,
+                        "default_load": 6013
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 3900,
+                        "max_load": 11000,
+                        "default_load": 4888
+                    }
+                ],
+                "title": "Тягач MAN (Магнит)",
+                "length": 7110,
+                "hitch_distance": 885
+            },
+            "indentation": {
+                "width": 5,
+                "height": 0,
+                "length": 30,
+                "height_top": 89,
+                "length_end": 30,
+                "width_right": 5
+            },
+            "loading_size": {
+                "width": 2490,
+                "height": 2590,
+                "length": 13490
+            },
+            "carrying_capacity": 24000
+        },
+        "calculation_id": "17000"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 2060.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 51,
+                "info": {
+                    "color": "#0c6ac9",
+                    "title": "19. Упаковка грузов противовеса",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gfch4x1md7euiucsa7tgis6zgzqt5u4e",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1000.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 50,
+                "info": {
+                    "color": "#0c6ac9",
+                    "title": "19. Упаковка грузов противовеса",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gfch4x1md7euiucsa7tgis6zgzqt5u4e",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 0.0,
+                    "y": 360.0,
+                    "z": 2060.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#0c6ac9",
+                    "title": "19. Упаковка грузов противовеса",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gfch4x1md7euiucsa7tgis6zgzqt5u4e",
+                "position": {
+                    "x": 800.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 2080.0,
+                    "y": 0.0,
+                    "z": 2060.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 2080.0,
+                    "y": 0.0,
+                    "z": 1630.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 1600.0,
+                    "y": 0.0,
+                    "z": 860.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 1600.0,
+                    "y": 0.0,
+                    "z": 430.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 1600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 2080.0,
+                    "y": 360.0,
+                    "z": 2060.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 2080.0,
+                    "y": 360.0,
+                    "z": 1630.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 1600.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 4160.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 4590.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 5020.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 5450.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 3680.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 5880.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 4160.0,
+                    "y": 360.0,
+                    "z": 2060.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 4160.0,
+                    "y": 360.0,
+                    "z": 1630.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 4160.0,
+                    "y": 360.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 4160.0,
+                    "y": 360.0,
+                    "z": 770.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 6310.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 6740.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 7170.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 7600.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 5760.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 8030.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 6240.0,
+                    "y": 360.0,
+                    "z": 2060.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 6240.0,
+                    "y": 360.0,
+                    "z": 1630.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 6240.0,
+                    "y": 360.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 6240.0,
+                    "y": 360.0,
+                    "z": 770.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 8460.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 8890.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 9320.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 9750.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 7840.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 10180.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 8320.0,
+                    "y": 360.0,
+                    "z": 2060.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 8320.0,
+                    "y": 360.0,
+                    "z": 1630.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 8320.0,
+                    "y": 360.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 49,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 8320.0,
+                    "y": 360.0,
+                    "z": 770.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 10610.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 11040.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 11470.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 11900.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 9920.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 12330.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 10400.0,
+                    "y": 360.0,
+                    "z": 2060.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 10400.0,
+                    "y": 360.0,
+                    "z": 1630.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 10400.0,
+                    "y": 360.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#56ef6d",
+                    "title": "18.1. Упаковка контроллера",
+                    "article": "",
+                    "group_id": "14amr6s8foxmnyviqu1e3ykskzfpdvps",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyaxizf7pxfne5np5uydgio05qxlsnqb",
+                "position": {
+                    "x": 12760.0,
+                    "y": 0.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2080.0,
+                    "height": 360.0,
+                    "length": 430.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 418,
+            "info": {
+                "uid": "418_0",
+                "sort": 0,
+                "title": "MAN 2 оси | полуприцеп 3 оси"
+            },
+            "mass": 9694.0,
+            "size": {
+                "width": 2500.0,
+                "height": 2679.0,
+                "length": 13550.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 2990.0,
+                    "max_load": 11000.0,
+                    "default_load": 2113.0,
+                    "calculated_load": 2502.03335
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360.0,
+                    "max_load": 11000.0,
+                    "default_load": 2090.0,
+                    "calculated_load": 2479.03335
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360.0,
+                    "max_load": 11000.0,
+                    "default_load": 2113.0,
+                    "calculated_load": 2502.03335
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 6240.0,
+                "max_load": 10058.0,
+                "default_load": 3378.0,
+                "calculated_load": 6710.89995
+            },
+            "tractor": {
+                "mass": 7523.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1475.0,
+                        "max_load": 10000.0,
+                        "default_load": 6013.0,
+                        "calculated_load": 6769.31191
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 3900.0,
+                        "max_load": 11000.0,
+                        "default_load": 4888.0,
+                        "calculated_load": 7464.58804
+                    }
+                ],
+                "length": 7110.0,
+                "hitch_distance": 885.0
+            },
+            "full_length": 13550.0,
+            "indentation": {
+                "width": 5.0,
+                "height": 0.0,
+                "length": 30.0,
+                "height_top": 89.0,
+                "length_end": 30.0,
+                "width_right": 5.0
+            },
+            "loading_size": {
+                "width": 2490.0,
+                "height": 2590.0,
+                "length": 13490.0
+            },
+            "calculation_info": {
+                "step_count": 50,
+                "cargos_mass": 4.5,
+                "load_volume": 86.998359,
+                "cargos_volume": 16.4352,
+                "count_cargoes": 53,
+                "load_capacity": 24.0,
+                "loading_height": 0.72,
+                "density_percent": 69.50217,
+                "remaining_volume": 70.56316,
+                "void_space_percent": 81.10861,
+                "filling_space_percent": 18.89139
+            },
+            "carrying_capacity": 24000.0,
+            "real_center_of_gravity": [
+                2846.677777777779,
+                153.2,
+                1030.2555555555552
+            ],
+            "ideal_center_of_gravity": [
+                6745.0,
+                0.0,
+                1245.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingTruck PackingLayers",
+        "calculation_id": 17000,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

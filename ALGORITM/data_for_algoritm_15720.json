@@ -1,0 +1,788 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400,
+                    "height": 30,
+                    "length": 500
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 95,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 1124,
+            "info": {
+                "uid": "1124_0",
+                "sort": 0,
+                "title": "ФФ"
+            },
+            "mass": 1,
+            "size": {
+                "width": 500,
+                "height": 450,
+                "length": 600
+            },
+            "type": "container",
+            "axles": [],
+            "title": "ФФ",
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 500,
+                "height": 450,
+                "length": 600
+            },
+            "carrying_capacity": 30
+        },
+        "calculation_id": "15720"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 30.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 60.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 90.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 120.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 150.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 180.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 210.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 240.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 270.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 300.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 330.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 390.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "position": {
+                    "x": 100.0,
+                    "y": 420.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 30.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1124,
+            "info": {
+                "uid": "1124_0",
+                "sort": 0,
+                "title": "ФФ"
+            },
+            "mass": 1.0,
+            "size": {
+                "width": 500.0,
+                "height": 450.0,
+                "length": 600.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 0.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 500.0,
+                "height": 450.0,
+                "length": 600.0
+            },
+            "calculation_info": {
+                "step_count": 15,
+                "cargos_mass": 0.015,
+                "load_volume": 0.135,
+                "cargos_volume": 0.09,
+                "count_cargoes": 15,
+                "load_capacity": 0.03,
+                "loading_height": 0.45,
+                "density_percent": 100.0,
+                "remaining_volume": 0.045,
+                "void_space_percent": 33.33333,
+                "filling_space_percent": 66.66667
+            },
+            "carrying_capacity": 30.0,
+            "real_center_of_gravity": [
+                300.0,
+                225.0,
+                250.0
+            ],
+            "ideal_center_of_gravity": [
+                300.0,
+                0.0,
+                250.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#2a51aa",
+                    "title": "костюм",
+                    "article": "654",
+                    "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 30.0,
+                    "length": 500.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 80.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            }
+        ],
+        "packing_type": "PackingContainerPoint",
+        "calculation_id": 15720,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "neftbyl6yewoohwx3jndtjunkfe6io4c",
+                        "info": {
+                            "color": "#2a51aa",
+                            "title": "костюм",
+                            "article": "654",
+                            "group_id": "19ybzbqgjf6spy0fygaxezqobg8roqdp",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

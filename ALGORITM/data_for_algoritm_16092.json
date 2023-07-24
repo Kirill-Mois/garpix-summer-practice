@@ -1,0 +1,1223 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#aa64ef",
+                    "title": "G35421501 Focus Ds 600x600",
+                    "article": "G35421501",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1220,
+                    "height": 2400,
+                    "length": 1280
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 6,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vfffhkiigulauolssybvyggpayk3qfb5",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#db39d5",
+                    "title": "G35421500 Focus Ds 1200x600",
+                    "article": "G35421500",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1230,
+                    "height": 2140,
+                    "length": 1250
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 6,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "t502tz2pswipiaszrns9cllv2ocdwpj9",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#bf701c",
+                    "title": "G35597480 Gedina A T15T24 NE 600x600x15",
+                    "article": "G35597480",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 18.0,
+                "size": {
+                    "width": 1220,
+                    "height": 2600,
+                    "length": 1220
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nkevaafwmrpfhudbhsxhqjhxbwrnjvdu",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#bf701c",
+                    "title": "G35597480 Gedina A T15T24 NE 600x600x15",
+                    "article": "G35597480",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 1220,
+                    "height": 500,
+                    "length": 1220
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "yjhlvnyk1xmsb3jgp8v13u8ppn364a9s",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800,
+                    "height": 2370,
+                    "length": 2000
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 7,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "6yqt8pqpi46phyuvxgtjoug7wskmkvb7",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 7.0,
+                "size": {
+                    "width": 800,
+                    "height": 1000,
+                    "length": 2000
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "88xbx9plkiwvmkibovwigtaoee4anhnc",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 201,
+            "info": {
+                "uid": "201_0",
+                "sort": 0,
+                "title": "KRONE SDP 27"
+            },
+            "mass": 6500,
+            "size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13692
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282,
+                    "max_load": 9000,
+                    "default_load": 1665
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300,
+                    "max_load": 9000,
+                    "default_load": 1670
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000,
+                "max_load": 12000,
+                "default_load": 1500
+            },
+            "title": "KRONE SDP 27",
+            "tractor": {
+                "mass": 9000,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410,
+                        "max_load": 8000,
+                        "default_load": 6000
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827,
+                        "max_load": 11000,
+                        "default_load": 2300
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395,
+                        "max_load": 10000,
+                        "default_load": 2200
+                    }
+                ],
+                "title": "IVECO STRALIS AT440S42",
+                "length": 6140,
+                "hitch_distance": 778
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 46,
+                "height_top": 0,
+                "length_end": 46,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2480,
+                "height": 2860,
+                "length": 13600
+            },
+            "carrying_capacity": 32500
+        },
+        "calculation_id": "16092"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 14,
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6yqt8pqpi46phyuvxgtjoug7wskmkvb7",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6yqt8pqpi46phyuvxgtjoug7wskmkvb7",
+                "position": {
+                    "x": 800.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 2,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6yqt8pqpi46phyuvxgtjoug7wskmkvb7",
+                "position": {
+                    "x": 1600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6yqt8pqpi46phyuvxgtjoug7wskmkvb7",
+                "position": {
+                    "x": 2400.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 2,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6yqt8pqpi46phyuvxgtjoug7wskmkvb7",
+                "position": {
+                    "x": 3200.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 2,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6yqt8pqpi46phyuvxgtjoug7wskmkvb7",
+                "position": {
+                    "x": 4000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 22.5,
+                "size": {
+                    "width": 800.0,
+                    "height": 2370.0,
+                    "length": 2000.0
+                },
+                "sort": 2,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6yqt8pqpi46phyuvxgtjoug7wskmkvb7",
+                "position": {
+                    "x": 4800.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2000.0,
+                    "height": 2370.0,
+                    "length": 800.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#aa64ef",
+                    "title": "G35421501 Focus Ds 600x600",
+                    "article": "G35421501",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vfffhkiigulauolssybvyggpayk3qfb5",
+                "position": {
+                    "x": 5600.0,
+                    "y": 0.0,
+                    "z": 1220.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#bf701c",
+                    "title": "G35597480 Gedina A T15T24 NE 600x600x15",
+                    "article": "G35597480",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 18.0,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2600.0,
+                    "length": 1220.0
+                },
+                "sort": 2,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nkevaafwmrpfhudbhsxhqjhxbwrnjvdu",
+                "position": {
+                    "x": 5600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2600.0,
+                    "length": 1220.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#aa64ef",
+                    "title": "G35421501 Focus Ds 600x600",
+                    "article": "G35421501",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vfffhkiigulauolssybvyggpayk3qfb5",
+                "position": {
+                    "x": 6880.0,
+                    "y": 0.0,
+                    "z": 1220.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#aa64ef",
+                    "title": "G35421501 Focus Ds 600x600",
+                    "article": "G35421501",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vfffhkiigulauolssybvyggpayk3qfb5",
+                "position": {
+                    "x": 6820.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#aa64ef",
+                    "title": "G35421501 Focus Ds 600x600",
+                    "article": "G35421501",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vfffhkiigulauolssybvyggpayk3qfb5",
+                "position": {
+                    "x": 8160.0,
+                    "y": 0.0,
+                    "z": 1220.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#aa64ef",
+                    "title": "G35421501 Focus Ds 600x600",
+                    "article": "G35421501",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vfffhkiigulauolssybvyggpayk3qfb5",
+                "position": {
+                    "x": 8100.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#db39d5",
+                    "title": "G35421500 Focus Ds 1200x600",
+                    "article": "G35421500",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1230.0,
+                    "height": 2140.0,
+                    "length": 1250.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t502tz2pswipiaszrns9cllv2ocdwpj9",
+                "position": {
+                    "x": 9440.0,
+                    "y": 0.0,
+                    "z": 1220.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1230.0,
+                    "height": 2140.0,
+                    "length": 1250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#aa64ef",
+                    "title": "G35421501 Focus Ds 600x600",
+                    "article": "G35421501",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vfffhkiigulauolssybvyggpayk3qfb5",
+                "position": {
+                    "x": 9380.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1220.0,
+                    "height": 2400.0,
+                    "length": 1280.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#db39d5",
+                    "title": "G35421500 Focus Ds 1200x600",
+                    "article": "G35421500",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1230.0,
+                    "height": 2140.0,
+                    "length": 1250.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t502tz2pswipiaszrns9cllv2ocdwpj9",
+                "position": {
+                    "x": 10690.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1250.0,
+                    "height": 2140.0,
+                    "length": 1230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#db39d5",
+                    "title": "G35421500 Focus Ds 1200x600",
+                    "article": "G35421500",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1230.0,
+                    "height": 2140.0,
+                    "length": 1250.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t502tz2pswipiaszrns9cllv2ocdwpj9",
+                "position": {
+                    "x": 11920.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1250.0,
+                    "height": 2140.0,
+                    "length": 1230.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#ffbb4f",
+                    "title": "G35446739 Solo Baffleanchor  1800x300x40",
+                    "article": "G35446739",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 7.0,
+                "size": {
+                    "width": 800.0,
+                    "height": 1000.0,
+                    "length": 2000.0
+                },
+                "sort": 2,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "88xbx9plkiwvmkibovwigtaoee4anhnc",
+                "position": {
+                    "x": 10690.0,
+                    "y": 0.0,
+                    "z": 400.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 1000.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 201,
+            "info": {
+                "uid": "201_0",
+                "sort": 0,
+                "title": "KRONE SDP 27"
+            },
+            "mass": 6500.0,
+            "size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13692.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1155.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 1733.48684
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1282.0,
+                    "max_load": 9000.0,
+                    "default_load": 1665.0,
+                    "calculated_load": 1733.48684
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1300.0,
+                    "max_load": 9000.0,
+                    "default_load": 1670.0,
+                    "calculated_load": 1738.48684
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 7000.0,
+                "max_load": 12000.0,
+                "default_load": 1500.0,
+                "calculated_load": 1630.03948
+            },
+            "tractor": {
+                "mass": 9000.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1410.0,
+                        "max_load": 8000.0,
+                        "default_load": 6000.0,
+                        "calculated_load": 6028.70498
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2827.0,
+                        "max_load": 11000.0,
+                        "default_load": 2300.0,
+                        "calculated_load": 2350.66725
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1395.0,
+                        "max_load": 10000.0,
+                        "default_load": 2200.0,
+                        "calculated_load": 2250.66725
+                    }
+                ],
+                "length": 6140.0,
+                "hitch_distance": 778.0
+            },
+            "full_length": 13692.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 46.0,
+                "height_top": 0.0,
+                "length_end": 46.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2480.0,
+                "height": 2860.0,
+                "length": 13600.0
+            },
+            "calculation_info": {
+                "step_count": 18,
+                "cargos_mass": 0.3355,
+                "load_volume": 96.46208,
+                "cargos_volume": 64.37163,
+                "count_cargoes": 18,
+                "load_capacity": 32.5,
+                "loading_height": 2.6,
+                "density_percent": 76.84743,
+                "remaining_volume": 32.09045,
+                "void_space_percent": 33.26742,
+                "filling_space_percent": 66.73258
+            },
+            "carrying_capacity": 32500.0,
+            "real_center_of_gravity": [
+                6081.236959761551,
+                1163.9567809239943,
+                1167.704918032787
+            ],
+            "ideal_center_of_gravity": [
+                6800.0,
+                0.0,
+                1240.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#bf701c",
+                    "title": "G35597480 Gedina A T15T24 NE 600x600x15",
+                    "article": "G35597480",
+                    "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 1220.0,
+                    "height": 500.0,
+                    "length": 1220.0
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yjhlvnyk1xmsb3jgp8v13u8ppn364a9s",
+                "stacking": false,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorStayOnOtherStacking"
+            },
+            {
+                "info": {
+                    "color": "#db39d5",
+                    "title": "G35421500 Focus Ds 1200x600",
+                    "article": "G35421500",
+                    "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                    "group_title": "Группа 2"
+                },
+                "mass": 17.0,
+                "size": {
+                    "width": 1230.0,
+                    "height": 2140.0,
+                    "length": 1250.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "t502tz2pswipiaszrns9cllv2ocdwpj9",
+                "stacking": false,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            }
+        ],
+        "packing_type": "PackingTruck PackingStepByStep",
+        "calculation_id": 16092,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "t502tz2pswipiaszrns9cllv2ocdwpj9",
+                        "info": {
+                            "color": "#db39d5",
+                            "title": "G35421500 Focus Ds 1200x600",
+                            "article": "G35421500",
+                            "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                            "group_title": "Группа 2"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 5,
+                "name": "errorStayOnOtherStacking",
+                "boxes": [
+                    {
+                        "id": "yjhlvnyk1xmsb3jgp8v13u8ppn364a9s",
+                        "info": {
+                            "color": "#bf701c",
+                            "title": "G35597480 Gedina A T15T24 NE 600x600x15",
+                            "article": "G35597480",
+                            "group_id": "2nqlze2aypez7rq0amjjua4mws0kuqdr",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 11,
+                "name": "errorIntersectionContainer",
+                "boxes": [
+                    {
+                        "id": "t502tz2pswipiaszrns9cllv2ocdwpj9",
+                        "info": {
+                            "color": "#db39d5",
+                            "title": "G35421500 Focus Ds 1200x600",
+                            "article": "G35421500",
+                            "group_id": "1lzl4axakicvqttvu5vll5zeita4ngfk",
+                            "group_title": "Группа 2"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

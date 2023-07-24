@@ -1,0 +1,5084 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#978113",
+                    "title": "Пиво OTTO VON SCHR Hef св 5% жб 0.5L",
+                    "article": "",
+                    "group_id": "1lulntgya772m9sve8v4hr4duangbvym",
+                    "group_title": "Группа 1"
+                },
+                "mass": 12.48,
+                "size": {
+                    "width": 265,
+                    "height": 170,
+                    "length": 400
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "3qwjwmk4tfssvwharru3pahnpcqp0cwi",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#a3bc96",
+                    "title": "Пиво св VELKOP KOZEL паст. 4% жб 0.45L",
+                    "article": "",
+                    "group_id": "2fmz08sffvhbni9zpcdcz5fdekegchs2",
+                    "group_title": "Группа 2"
+                },
+                "mass": 11.562,
+                "size": {
+                    "width": 277,
+                    "height": 172,
+                    "length": 407
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tzc4hxfrymt9omujksfgjlpseu3tnd0v",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#32ad5b",
+                    "title": "Нап пив VELKOP KOZEL темн 3,7% жб 0.45L",
+                    "article": "",
+                    "group_id": "3pelgrfanfmxzwcewba6jzlu1dzjyhmc",
+                    "group_title": "Группа 3"
+                },
+                "mass": 11.561,
+                "size": {
+                    "width": 277,
+                    "height": 172,
+                    "length": 407
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "qgrhfss2uouqnswu1nnlz7adg84oaixs",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c46190",
+                    "title": "Пиво св KRUSOVICE паст 4,2% жб 0.43L",
+                    "article": "",
+                    "group_id": "4sjfr64tlpwcjr2owv6kdk1sdiwkklmy",
+                    "group_title": "Группа 4"
+                },
+                "mass": 10.8,
+                "size": {
+                    "width": 387,
+                    "height": 171,
+                    "length": 255
+                },
+                "sort": 4,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "bo9jvnv6yp23f7khw6kcahs0n2gqtdiw",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#42e5a6",
+                    "title": "Нап пив ESSA АнанасГрейпф св 6,5%ст0.45L",
+                    "article": "",
+                    "group_id": "5t4a0jwtlqwz5utwncwmmw2ueueb9lk5",
+                    "group_title": "Группа 5"
+                },
+                "mass": 14.7,
+                "size": {
+                    "width": 282,
+                    "height": 245,
+                    "length": 354
+                },
+                "sort": 5,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "evhmc5c6envxlsjrebt3ojjjoo4p8pmv",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c690c2",
+                    "title": "Пиво св AMSTEL Premium pilse 4,8%ст0.45L",
+                    "article": "",
+                    "group_id": "6rzzcbchpjvjp9t0twmai0zl1j7jbzeh",
+                    "group_title": "Группа 6"
+                },
+                "mass": 15.0,
+                "size": {
+                    "width": 273,
+                    "height": 254,
+                    "length": 341
+                },
+                "sort": 6,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ra8w4vvpdcgs8ul3geoz0ryshsh3uklf",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e2e7ca",
+                    "title": "Пиво KRUSOVICE Svetle cвет 4,2% ст 0.45L",
+                    "article": "",
+                    "group_id": "7gqizkool6lcoephuq7uy2pftrb4fsli",
+                    "group_title": "Группа 7"
+                },
+                "mass": 15.0,
+                "size": {
+                    "width": 346,
+                    "height": 261,
+                    "length": 274
+                },
+                "sort": 7,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zdheemf6dbkt7s10gdsbnku1xuhgimvm",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0dccb6",
+                    "title": "Пиво св ДУБ И ОБРУЧ Бочков 4,9% ПЭТ 1.5L",
+                    "article": "",
+                    "group_id": "81xuzoftuavsf8qhx0xzolqo41arv5ji",
+                    "group_title": "Группа 8"
+                },
+                "mass": 9.33,
+                "size": {
+                    "width": 236,
+                    "height": 218,
+                    "length": 354
+                },
+                "sort": 8,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ueaqwnrh8emuz0qi3ko9hc6mm4ukfdny",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#bfff5f",
+                    "title": "Вода пит СВЯТОЙ ИСТОЧНИК нгаз 5L ПЭТ",
+                    "article": "",
+                    "group_id": "9dwcgo6nvfstsrh6wiwpllzrzxmmnwzy",
+                    "group_title": "Группа 9"
+                },
+                "mass": 10.34,
+                "size": {
+                    "width": 154,
+                    "height": 320,
+                    "length": 306
+                },
+                "sort": 9,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "5rbqpc5qrxtovtffc8jryhpbt6i4gggy",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#9dc278",
+                    "title": "Вода пит. ШИШКИН ЛЕС нгаз. 5L",
+                    "article": "",
+                    "group_id": "10npibwmdvkihfec97uvow94caoq2fgk",
+                    "group_title": "Группа 10"
+                },
+                "mass": 10.162,
+                "size": {
+                    "width": 140,
+                    "height": 315,
+                    "length": 313
+                },
+                "sort": 10,
+                "type": "box",
+                "count": 5,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "i7lro6k7dpnpyoxnbg0ipvku1crl4dfc",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#091fa6",
+                    "title": "Сок ЛЕНТА гранатовый прямой отжим 1L",
+                    "article": "",
+                    "group_id": "11sgnvyq3g8qxigzgn3rjwkwafzj3h6r",
+                    "group_title": "Группа 11"
+                },
+                "mass": 12.0,
+                "size": {
+                    "width": 190,
+                    "height": 240,
+                    "length": 390
+                },
+                "sort": 11,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "klra8i1iwq5ni7migotndom8qbp6a8qf",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8001e3",
+                    "title": "Вода пит. СЕНЕЖСКАЯ прир. газ. 1.5L",
+                    "article": "",
+                    "group_id": "120h2qrso5jbxe88e54kxdamdrnswknl",
+                    "group_title": "Группа 12"
+                },
+                "mass": 9.3,
+                "size": {
+                    "width": 250,
+                    "height": 350,
+                    "length": 160
+                },
+                "sort": 12,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "4pfdanrtvikjjz5rtxp7h0jeesli0rwp",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1704db",
+                    "title": "Вода пит. СЕНЕЖСКАЯ прир. нгаз. 1.5L",
+                    "article": "",
+                    "group_id": "13h5dkiijj9pn1myxhgu6qpslanjroft",
+                    "group_title": "Группа 13"
+                },
+                "mass": 9.36,
+                "size": {
+                    "width": 156,
+                    "height": 235,
+                    "length": 340
+                },
+                "sort": 13,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nlq2nvyspwbrvbmpyre6yugvz6u7b2vp",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d2f902",
+                    "title": "Вода мин.BORJOMI Боржоми пит.леч.ст.0.5L",
+                    "article": "",
+                    "group_id": "14e3gcx5s7cnjp2tgncqbvzp9zeuklll",
+                    "group_title": "Группа 14"
+                },
+                "mass": 9.7,
+                "size": {
+                    "width": 207,
+                    "height": 240,
+                    "length": 275
+                },
+                "sort": 14,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "k1raqlmhef2qy9ptkwurqyuaatdtjfps",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#26d095",
+                    "title": "Вода пит. ШИШКИН ЛЕС нгаз. 1.75L",
+                    "article": "",
+                    "group_id": "155ej6jsphptxr7i0qncqyhcnjrxqjzc",
+                    "group_title": "Группа 15"
+                },
+                "mass": 14.373,
+                "size": {
+                    "width": 186,
+                    "height": 280,
+                    "length": 425
+                },
+                "sort": 15,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "4oshzb7uadl91svn2qoko0xsyebv1lny",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#44032c",
+                    "title": "Нап ба FRESH BAR Альфа Кола ПЭТ 0.48L",
+                    "article": "",
+                    "group_id": "16n6to1remkuj9dfvae0worhwrzbvcdk",
+                    "group_title": "Группа 16"
+                },
+                "mass": 6.24,
+                "size": {
+                    "width": 195,
+                    "height": 210,
+                    "length": 260
+                },
+                "sort": 16,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "n6x1qilunx49nfl752lvnxgbkpzsbvl8",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4f8a82",
+                    "title": "Вода мин. ЕССЕНТУКИ №4 ГОСТ ПЭТ 1.5L",
+                    "article": "",
+                    "group_id": "17ikl5ib3fwwdbtwfeinobey1gi1orse",
+                    "group_title": "Группа 17"
+                },
+                "mass": 9.642,
+                "size": {
+                    "width": 180,
+                    "height": 340,
+                    "length": 265
+                },
+                "sort": 17,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "lawwnedxkhdrngq9jc1rolaqznuc2ouf",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1d95d8",
+                    "title": "Вода мин.BORJOMI Боржоми пит. ПЭТ 0.75L",
+                    "article": "",
+                    "group_id": "18bab1elaqszbg7aa7h2zoxl35vdfn9c",
+                    "group_title": "Группа 18"
+                },
+                "mass": 4.73,
+                "size": {
+                    "width": 146,
+                    "height": 282,
+                    "length": 219
+                },
+                "sort": 18,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "igygeodeaexf79fkwjmdu0wxhddgdurs",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4d897f",
+                    "title": "Дп вода ФРУТОНЯНЯ артезианская 330мл",
+                    "article": "",
+                    "group_id": "19vivffasozpgysrilhjregynm9slxwn",
+                    "group_title": "Группа 19"
+                },
+                "mass": 4.272,
+                "size": {
+                    "width": 174,
+                    "height": 140,
+                    "length": 232
+                },
+                "sort": 19,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "yufphxtetzomm5r9em4vzl68k3diqzle",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#655104",
+                    "title": "Нап сокос ЛЮБИМЫЙ ЯблЧерРябКлубЗем 0.95L",
+                    "article": "",
+                    "group_id": "20m8ynf2so2guxeeku1xd0axuqwqvcwy",
+                    "group_title": "Группа 20"
+                },
+                "mass": 12.391,
+                "size": {
+                    "width": 195,
+                    "height": 214,
+                    "length": 370
+                },
+                "sort": 20,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hvtzrb7mhwkdw6dhgda3blfajjdxso5f",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#39954b",
+                    "title": "Пакет ЛЕНТА 12кг",
+                    "article": "",
+                    "group_id": "21sgnkakkitjyvbav7bflhlgu6mtpvtg",
+                    "group_title": "Группа 21"
+                },
+                "mass": 11.5,
+                "size": {
+                    "width": 300,
+                    "height": 200,
+                    "length": 300
+                },
+                "sort": 21,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "5rvhccsnklnpvbfcutvcnvnpagjuynek",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250,
+                    "height": 140,
+                    "length": 400
+                },
+                "sort": 22,
+                "type": "box",
+                "count": 14,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ae49d2",
+                    "title": "Лапша DOSHIRAK Чан Рамен с остр гов 120г",
+                    "article": "",
+                    "group_id": "230sbqslozgloaijuimsr2zxbu3ohtnv",
+                    "group_title": "Группа 23"
+                },
+                "mass": 2.73,
+                "size": {
+                    "width": 285,
+                    "height": 135,
+                    "length": 385
+                },
+                "sort": 23,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "btdwhjmsqevjqizd0sovcqbjn5moso1j",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#06c150",
+                    "title": "Масло подсолн СЛОБОДА раф 1,0л",
+                    "article": "",
+                    "group_id": "248z1hc5huyoqwgyvqc3i4kjd1uohj9r",
+                    "group_title": "Группа 24"
+                },
+                "mass": 14.6,
+                "size": {
+                    "width": 238,
+                    "height": 284,
+                    "length": 390
+                },
+                "sort": 24,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vje1gxefngjoqgbecm92dav1s2iugbn5",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#60a567",
+                    "title": "Крахмал ЛЕНТА кукурузный 400г",
+                    "article": "",
+                    "group_id": "259e0cevzbvnv4s6v5rkt0u7tt07b1rm",
+                    "group_title": "Группа 25"
+                },
+                "mass": 4.05,
+                "size": {
+                    "width": 115,
+                    "height": 205,
+                    "length": 397
+                },
+                "sort": 25,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "4eewejbraydcxvavfxnibzdmvuyojf1t",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#b4fba3",
+                    "title": "Смесь на 2е MAGGI дкартофеля 29г",
+                    "article": "",
+                    "group_id": "26ekspmrlobmlffici0u8shx92m5gzk7",
+                    "group_title": "Группа 26"
+                },
+                "mass": 0.464,
+                "size": {
+                    "width": 132,
+                    "height": 196,
+                    "length": 120
+                },
+                "sort": 26,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "sypuvojf4qv3w7mesj6ibjc31qpzjakg",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d63902",
+                    "title": "Смесь на бум MAGGI курицычеснтр 30,6г",
+                    "article": "",
+                    "group_id": "272vjebcvvb3ivmiidf2upd2vndizwd2",
+                    "group_title": "Группа 27"
+                },
+                "mass": 0.552,
+                "size": {
+                    "width": 132,
+                    "height": 196,
+                    "length": 120
+                },
+                "sort": 27,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "9blsxm5aazl2xtwpgyv8nfrlixxv2tfv",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#23c67a",
+                    "title": "Смесь на бум MAGGI курица по-итал 30,6г",
+                    "article": "",
+                    "group_id": "288zzt2hxi8rvyxux9tq3zuqqgpokoij",
+                    "group_title": "Группа 28"
+                },
+                "mass": 0.482,
+                "size": {
+                    "width": 132,
+                    "height": 196,
+                    "length": 120
+                },
+                "sort": 28,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "6gv66zmo8ki3ygmdesezgzggdmpal5x5",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#490ada",
+                    "title": "Смесь на 2е MAGGI дгречки 41г",
+                    "article": "",
+                    "group_id": "29np3pa8ehqdgphszrhwqrvkk6nbe9yd",
+                    "group_title": "Группа 29"
+                },
+                "mass": 0.612,
+                "size": {
+                    "width": 130,
+                    "height": 155,
+                    "length": 120
+                },
+                "sort": 29,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "bmyp1vidruuls6b5fd9w7q05ke2novta",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#a3dc77",
+                    "title": "Смесь на 2е MAGGI дмакарон Болон 30г",
+                    "article": "",
+                    "group_id": "30rcizdnoavfwt2bv7ziugg9opkkwior",
+                    "group_title": "Группа 30"
+                },
+                "mass": 0.478,
+                "size": {
+                    "width": 132,
+                    "height": 156,
+                    "length": 120
+                },
+                "sort": 30,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "mijdpp5lggca4vykgvyjxnvdewrjrizr",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#dd7d76",
+                    "title": "Чай GREENFIELD Golden Ceylon черн 25пх2г",
+                    "article": "",
+                    "group_id": "3105exoybwscljkgsj7bhkuhllv0jx8f",
+                    "group_title": "Группа 31"
+                },
+                "mass": 1.09,
+                "size": {
+                    "width": 169,
+                    "height": 363,
+                    "length": 175
+                },
+                "sort": 31,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "80k7ppqmjpmenfvce90j31paew0vh07b",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#abd812",
+                    "title": "Цикорий ЛЕНТА раств гранулир му150г",
+                    "article": "",
+                    "group_id": "32y0cc9f9lnejecqlwina5mt81p65srk",
+                    "group_title": "Группа 32"
+                },
+                "mass": 2.2,
+                "size": {
+                    "width": 243,
+                    "height": 246,
+                    "length": 292
+                },
+                "sort": 32,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ghdud2q5ys1iscil4bma6anwsl1ldsda",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8b1516",
+                    "title": "Какао-напиток 365 ДНЕЙ растворимый 100г",
+                    "article": "",
+                    "group_id": "332s5edgqo38mnsk5bbvek3rylfvwsce",
+                    "group_title": "Группа 33"
+                },
+                "mass": 2.8,
+                "size": {
+                    "width": 256,
+                    "height": 160,
+                    "length": 310
+                },
+                "sort": 33,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "1jhft1hb8jqgwjo46qfwacegebv5vy30",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#89ebcf",
+                    "title": "Кофе JACOBS Монарх классик нат мол 70г",
+                    "article": "",
+                    "group_id": "34itjsumyf89zvml7vllp8yz0ptkwrlq",
+                    "group_title": "Группа 34"
+                },
+                "mass": 1.02,
+                "size": {
+                    "width": 192,
+                    "height": 160,
+                    "length": 262
+                },
+                "sort": 34,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "muueqlcuobwumxshth7jtc0zvav5zrnw",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#3137e9",
+                    "title": "Кофе JARDIN амер.крема мол.жар.прем 250г",
+                    "article": "",
+                    "group_id": "35ydrukqmaprsxnlaueu8d2iea92slmn",
+                    "group_title": "Группа 35"
+                },
+                "mass": 3.32,
+                "size": {
+                    "width": 184,
+                    "height": 266,
+                    "length": 184
+                },
+                "sort": 35,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xlt58cckvcvaldmbjw1yqnxj3tjxuxs1",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#363b40",
+                    "title": "Чай ЛЕНТА зел. с мятоймелиссой 25пак45г",
+                    "article": "",
+                    "group_id": "36ilpn2k9ooqnmxk1ja822ezqng2zhn0",
+                    "group_title": "Группа 36"
+                },
+                "mass": 0.88,
+                "size": {
+                    "width": 170,
+                    "height": 173,
+                    "length": 360
+                },
+                "sort": 36,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "k6ykb7i7ashp1kygddwumrdpvbs6kkbe",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4cf6b0",
+                    "title": "Чай ЛЕНТА зел. с мятоймелиссой 25пак45г",
+                    "article": "",
+                    "group_id": "37ffoobvfurtcbjml9tnanozsnszi9k3",
+                    "group_title": "Группа 37"
+                },
+                "mass": 0.88,
+                "size": {
+                    "width": 170,
+                    "height": 173,
+                    "length": 360
+                },
+                "sort": 37,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "d1gev4wrwtihdyaqgtlhiwq3on4kvczr",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#344154",
+                    "title": "Тарелка 365 ДНЕЙ обед. 25см 16с1886",
+                    "article": "",
+                    "group_id": "38r9jmmyv05xsryeyrxobkqmldsqhruh",
+                    "group_title": "Группа 38"
+                },
+                "mass": 13.98,
+                "size": {
+                    "width": 260,
+                    "height": 260,
+                    "length": 220
+                },
+                "sort": 38,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "i9kpphqjmbvt3a4ow0f6bcvzgqae1y4a",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f4cc21",
+                    "title": "Крышка 365 ДНЕЙ 22см, КСхGTL22110Л",
+                    "article": "",
+                    "group_id": "39ow9ex4qhhv4ancqjdeyowi3ow5utbs",
+                    "group_title": "Группа 39"
+                },
+                "mass": 5.098,
+                "size": {
+                    "width": 360,
+                    "height": 228,
+                    "length": 228
+                },
+                "sort": 39,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "mwxuaf55zdwpbgrxzm70fwpfmtpxpelw",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#43e5fe",
+                    "title": "Крекер 365 ДНЕЙ Волшебный калейдоскоп200",
+                    "article": "",
+                    "group_id": "40gkvniireoounl08yrhag9wwo8nkrkt",
+                    "group_title": "Группа 40"
+                },
+                "mass": 6.335,
+                "size": {
+                    "width": 285,
+                    "height": 228,
+                    "length": 380
+                },
+                "sort": 40,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ojzkobrllhvp7tqzcc5mbwayanuimg6i",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#632792",
+                    "title": "Печенье OREO 228г",
+                    "article": "",
+                    "group_id": "412p8htugvo8tfjirhn2b6ctelmoe93b",
+                    "group_title": "Группа 41"
+                },
+                "mass": 3.445,
+                "size": {
+                    "width": 235,
+                    "height": 165,
+                    "length": 394
+                },
+                "sort": 41,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nii75llgau1ukglz6s5xfihvwizrpf2e",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f8150c",
+                    "title": "Зефир ШАРМЭЛЬ с ароматом ванили 255г",
+                    "article": "",
+                    "group_id": "42zquvha6uurdbrxprqwwadmeqflsroy",
+                    "group_title": "Группа 42"
+                },
+                "mass": 3.842,
+                "size": {
+                    "width": 300,
+                    "height": 193,
+                    "length": 400
+                },
+                "sort": 42,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xtfebrbw6vil1mbxxfsmxrbtwxpljeu5",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#216293",
+                    "title": "Печенье ЛЮБЯТОВО Топленое молоко 267г",
+                    "article": "",
+                    "group_id": "43i5fwgk3c8xbzcwqh8dadtvh7dycz8a",
+                    "group_title": "Группа 43"
+                },
+                "mass": 4.32,
+                "size": {
+                    "width": 210,
+                    "height": 182,
+                    "length": 358
+                },
+                "sort": 43,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "wyesv4ybyijpupuw8u5e9d12zfoocwhh",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#779928",
+                    "title": "Драже M&MS С арахисом 360г",
+                    "article": "",
+                    "group_id": "44bwf79mjmy267rapmmyyswbsx3tgrtm",
+                    "group_title": "Группа 44"
+                },
+                "mass": 5.484,
+                "size": {
+                    "width": 194,
+                    "height": 182,
+                    "length": 384
+                },
+                "sort": 44,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "s1owadvwu5wydohnjhmjc69vgun8zpmn",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8198e3",
+                    "title": "Драже M&MS Шоколад 360г",
+                    "article": "",
+                    "group_id": "4517sjvyybd0pypj1rotoipqjcfp46fl",
+                    "group_title": "Группа 45"
+                },
+                "mass": 5.484,
+                "size": {
+                    "width": 194,
+                    "height": 182,
+                    "length": 384
+                },
+                "sort": 45,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tqqa7o1cmjcjx4y7glw0psefjdll271j",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#018b80",
+                    "title": "Пирожное МЕДВЕЖОНОК БАРНИ бисквМолНач150",
+                    "article": "",
+                    "group_id": "46tmrkv8fltnwf58e9zpxxvdxhxxg2cn",
+                    "group_title": "Группа 46"
+                },
+                "mass": 4.044,
+                "size": {
+                    "width": 288,
+                    "height": 152,
+                    "length": 388
+                },
+                "sort": 46,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "dypu29nphpkfkn27utvkwlaxrlfdo7jc",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#ef9e5b",
+                    "title": "ШАМПУНЬ CLEAR 2В1 АКТИВ СПОРТ М 400МЛ",
+                    "article": "",
+                    "group_id": "470jylsbyvete9ksesmed74nm1nmnwc9",
+                    "group_title": "Группа 47"
+                },
+                "mass": 5.65,
+                "size": {
+                    "width": 183,
+                    "height": 227,
+                    "length": 273
+                },
+                "sort": 47,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gizaizrcvhunk29xixbonzn2dxjwvmiz",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c21bf4",
+                    "title": "Дез-т AXE Дарк темптейшен муж150мл",
+                    "article": "",
+                    "group_id": "48evzgw7pmunkd39uyzupm5olposiufe",
+                    "group_title": "Группа 48"
+                },
+                "mass": 0.932,
+                "size": {
+                    "width": 167,
+                    "height": 148,
+                    "length": 113
+                },
+                "sort": 48,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xv5ayh9xxjfc8f30cns2jikosbuse6ba",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8c6146",
+                    "title": "Дез-т-антип NIVEA Нев Защ Черн Бел Спрей",
+                    "article": "",
+                    "group_id": "492ogepmnepyclrkfidn7ya7x0gls7rv",
+                    "group_title": "Группа 49"
+                },
+                "mass": 1.69,
+                "size": {
+                    "width": 98,
+                    "height": 190,
+                    "length": 278
+                },
+                "sort": 49,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "8lxfogo7ixku6hjyt81mjbdp6pqqppf1",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#56106f",
+                    "title": "Напол-ль дктуал 365 ДНЕЙ древ 6,5л 4кг",
+                    "article": "",
+                    "group_id": "50i3qfbh0bsrcsgxdmrjufixbbd7bwgt",
+                    "group_title": "Группа 50"
+                },
+                "mass": 4.0,
+                "size": {
+                    "width": 220,
+                    "height": 100,
+                    "length": 470
+                },
+                "sort": 50,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "bjihw4hsxvp0gauroysfhadjcyddzxgd",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6f56c1",
+                    "title": "Корнишоны ДЯДЯ ВАНЯ конс по-франц 680г",
+                    "article": "",
+                    "group_id": "51sxlg9rbzbjtus0ye4ut26wvmnomehc",
+                    "group_title": "Группа 51"
+                },
+                "mass": 7.92,
+                "size": {
+                    "width": 200,
+                    "height": 140,
+                    "length": 395
+                },
+                "sort": 51,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "stdsfjyslbjbavjemedadpoyj3q7osnn",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4a417d",
+                    "title": "Напиток йог CAMPINA Нежн клуб 0,1% 285г",
+                    "article": "",
+                    "group_id": "52zrroau3hj0fddh4splzg7lhugffgmx",
+                    "group_title": "Группа 52"
+                },
+                "mass": 1.86,
+                "size": {
+                    "width": 116,
+                    "height": 190,
+                    "length": 160
+                },
+                "sort": 52,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tfchhao133nt0ytn71ohgr7ywqprxfie",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c672d3",
+                    "title": "Молоко 365 ДНЕЙ упаст. 2,5% ТФА 900мл",
+                    "article": "",
+                    "group_id": "533p4r5m3lb6o96qcvwtubjcjrlmgen7",
+                    "group_title": "Группа 53"
+                },
+                "mass": 11.4,
+                "size": {
+                    "width": 240,
+                    "height": 200,
+                    "length": 420
+                },
+                "sort": 53,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "vdhducmwmfq4tp5jzhfciqzp3emsfuu4",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#5d7470",
+                    "title": "Сливки 365 ДНЕЙ упаст 10% 200г",
+                    "article": "",
+                    "group_id": "54fwp7u7e6mpgtzssx8f6aktkmtifcrr",
+                    "group_title": "Группа 54"
+                },
+                "mass": 7.55,
+                "size": {
+                    "width": 200,
+                    "height": 125,
+                    "length": 360
+                },
+                "sort": 54,
+                "type": "box",
+                "count": 2,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "sz3fiupucymhtlb6ehdxnlqxtaoskskx",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#fa7711",
+                    "title": "Попкорн ЛЕНТА готовый соленый 130г",
+                    "article": "",
+                    "group_id": "55unskv8ljhoipgk5eiswnfo0qqjyft8",
+                    "group_title": "Группа 55"
+                },
+                "mass": 1.96,
+                "size": {
+                    "width": 305,
+                    "height": 335,
+                    "length": 565
+                },
+                "sort": 55,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "f3vlvlg6fspztl6orenp8mwd9clztcob",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0f97ba",
+                    "title": "Дп сок ФРУТОНЯНЯ яблочный осветл. 200мл",
+                    "article": "",
+                    "group_id": "56chrn76f8aycbrgbkqbvtmus9p2prlo",
+                    "group_title": "Группа 56"
+                },
+                "mass": 4.0,
+                "size": {
+                    "width": 165,
+                    "height": 110,
+                    "length": 240
+                },
+                "sort": 56,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "yv7i8dqxqottuylgbzltma0epgq86lxa",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c5e0be",
+                    "title": "Дп пюре ФРУТОНЯНЯ яблчернпеченье 90г",
+                    "article": "",
+                    "group_id": "574pnoj94ldudlrucv57zbkod8auevos",
+                    "group_title": "Группа 57"
+                },
+                "mass": 1.25,
+                "size": {
+                    "width": 75,
+                    "height": 185,
+                    "length": 415
+                },
+                "sort": 57,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ae3g1eh2gedrohl0bokc2qznraxlzaoa",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#16bb75",
+                    "title": "Дп пюре ФРУТОНЯНЯ яблземежовс печ90г",
+                    "article": "",
+                    "group_id": "58pfbhraunry2cy29enwoa5nzmaz8mkw",
+                    "group_title": "Группа 58"
+                },
+                "mass": 1.3,
+                "size": {
+                    "width": 75,
+                    "height": 185,
+                    "length": 415
+                },
+                "sort": 58,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "6beljn11khydgldq27qjkkldlw04ccs7",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#aa8e1b",
+                    "title": "Дп пюре ФРУТОНЯНЯ яблокмангойогурт90г",
+                    "article": "",
+                    "group_id": "592lvrw1zqugr2zgc3ujrbcqbb6wgwzf",
+                    "group_title": "Группа 59"
+                },
+                "mass": 1.3,
+                "size": {
+                    "width": 75,
+                    "height": 185,
+                    "length": 415
+                },
+                "sort": 59,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "psf4cqp4sixsm45x8alstv32gm3ly9ex",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1ddd5b",
+                    "title": "Дп сок ФРУТОНЯНЯ яблочгрушевый 200мл",
+                    "article": "",
+                    "group_id": "60ozvz2iiqkx3vtcinepnrmdky55qkpe",
+                    "group_title": "Группа 60"
+                },
+                "mass": 3.978,
+                "size": {
+                    "width": 174,
+                    "height": 114,
+                    "length": 254
+                },
+                "sort": 60,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "whnpizialcyynycrqrgtn7gucm4hxi5d",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d4091c",
+                    "title": "Дп нектар ФРУТОНЯНЯ тыквен с мяк 200мл",
+                    "article": "",
+                    "group_id": "61dedhm7lj0dhng3idxcywuemnqciivz",
+                    "group_title": "Группа 61"
+                },
+                "mass": 3.978,
+                "size": {
+                    "width": 174,
+                    "height": 114,
+                    "length": 254
+                },
+                "sort": 61,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "sd88k4abltvm7zs4ndba8vtdm63i3yo3",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f0dc16",
+                    "title": "Набор ЛЕНТА Однораз.посуды 4пер.праз1шт",
+                    "article": "",
+                    "group_id": "62ptsjdkw6sj4hwmw5jvq79sxbjy8on1",
+                    "group_title": "Группа 62"
+                },
+                "mass": 1.6,
+                "size": {
+                    "width": 250,
+                    "height": 184,
+                    "length": 500
+                },
+                "sort": 62,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "hgz31lgkk5jeca4ao9fkm5k2djff8ggd",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": true,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 1112,
+            "info": {
+                "uid": "1112_0",
+                "sort": 0,
+                "title": "ЛЕНТА",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 15,
+            "size": {
+                "width": 800,
+                "height": 140,
+                "length": 1200
+            },
+            "type": "pallet",
+            "axles": [],
+            "title": "ЛЕНТА",
+            "margin": {
+                "width": 0,
+                "height": 0,
+                "length": 0
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 800,
+                "height": 1800,
+                "length": 1200
+            },
+            "carrying_capacity": 600
+        },
+        "calculation_id": "15455"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 4,
+                "info": {
+                    "color": "#42e5a6",
+                    "title": "Нап пив ESSA АнанасГрейпф св 6,5%ст0.45L",
+                    "article": "",
+                    "group_id": "5t4a0jwtlqwz5utwncwmmw2ueueb9lk5",
+                    "group_title": "Группа 5"
+                },
+                "mass": 14.7,
+                "size": {
+                    "width": 282.0,
+                    "height": 245.0,
+                    "length": 354.0
+                },
+                "sort": 5,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "evhmc5c6envxlsjrebt3ojjjoo4p8pmv",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 446.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 354.0,
+                    "height": 245.0,
+                    "length": 282.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#e2e7ca",
+                    "title": "Пиво KRUSOVICE Svetle cвет 4,2% ст 0.45L",
+                    "article": "",
+                    "group_id": "7gqizkool6lcoephuq7uy2pftrb4fsli",
+                    "group_title": "Группа 7"
+                },
+                "mass": 15.0,
+                "size": {
+                    "width": 346.0,
+                    "height": 261.0,
+                    "length": 274.0
+                },
+                "sort": 7,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zdheemf6dbkt7s10gdsbnku1xuhgimvm",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 346.0,
+                    "height": 261.0,
+                    "length": 274.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#c46190",
+                    "title": "Пиво св KRUSOVICE паст 4,2% жб 0.43L",
+                    "article": "",
+                    "group_id": "4sjfr64tlpwcjr2owv6kdk1sdiwkklmy",
+                    "group_title": "Группа 4"
+                },
+                "mass": 10.8,
+                "size": {
+                    "width": 387.0,
+                    "height": 171.0,
+                    "length": 255.0
+                },
+                "sort": 4,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bo9jvnv6yp23f7khw6kcahs0n2gqtdiw",
+                "position": {
+                    "x": 282.0,
+                    "y": 0.0,
+                    "z": 413.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 387.0,
+                    "height": 171.0,
+                    "length": 255.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#32ad5b",
+                    "title": "Нап пив VELKOP KOZEL темн 3,7% жб 0.45L",
+                    "article": "",
+                    "group_id": "3pelgrfanfmxzwcewba6jzlu1dzjyhmc",
+                    "group_title": "Группа 3"
+                },
+                "mass": 11.561,
+                "size": {
+                    "width": 277.0,
+                    "height": 172.0,
+                    "length": 407.0
+                },
+                "sort": 3,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "qgrhfss2uouqnswu1nnlz7adg84oaixs",
+                "position": {
+                    "x": 274.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 407.0,
+                    "height": 172.0,
+                    "length": 277.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#b4fba3",
+                    "title": "Смесь на 2е MAGGI дкартофеля 29г",
+                    "article": "",
+                    "group_id": "26ekspmrlobmlffici0u8shx92m5gzk7",
+                    "group_title": "Группа 26"
+                },
+                "mass": 0.464,
+                "size": {
+                    "width": 132.0,
+                    "height": 196.0,
+                    "length": 120.0
+                },
+                "sort": 26,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "sypuvojf4qv3w7mesj6ibjc31qpzjakg",
+                "position": {
+                    "x": 537.0,
+                    "y": 0.0,
+                    "z": 604.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 196.0,
+                    "height": 132.0,
+                    "length": 120.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#d63902",
+                    "title": "Смесь на бум MAGGI курицычеснтр 30,6г",
+                    "article": "",
+                    "group_id": "272vjebcvvb3ivmiidf2upd2vndizwd2",
+                    "group_title": "Группа 27"
+                },
+                "mass": 0.552,
+                "size": {
+                    "width": 132.0,
+                    "height": 196.0,
+                    "length": 120.0
+                },
+                "sort": 27,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "9blsxm5aazl2xtwpgyv8nfrlixxv2tfv",
+                "position": {
+                    "x": 537.0,
+                    "y": 0.0,
+                    "z": 408.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 196.0,
+                    "height": 132.0,
+                    "length": 120.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#978113",
+                    "title": "Пиво OTTO VON SCHR Hef св 5% жб 0.5L",
+                    "article": "",
+                    "group_id": "1lulntgya772m9sve8v4hr4duangbvym",
+                    "group_title": "Группа 1"
+                },
+                "mass": 12.48,
+                "size": {
+                    "width": 265.0,
+                    "height": 170.0,
+                    "length": 400.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3qwjwmk4tfssvwharru3pahnpcqp0cwi",
+                "position": {
+                    "x": 658.0,
+                    "y": 0.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 170.0,
+                    "length": 265.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#a3bc96",
+                    "title": "Пиво св VELKOP KOZEL паст. 4% жб 0.45L",
+                    "article": "",
+                    "group_id": "2fmz08sffvhbni9zpcdcz5fdekegchs2",
+                    "group_title": "Группа 2"
+                },
+                "mass": 11.562,
+                "size": {
+                    "width": 277.0,
+                    "height": 172.0,
+                    "length": 407.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tzc4hxfrymt9omujksfgjlpseu3tnd0v",
+                "position": {
+                    "x": 923.0,
+                    "y": 0.0,
+                    "z": 393.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 407.0,
+                    "height": 172.0,
+                    "length": 277.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#bfff5f",
+                    "title": "Вода пит СВЯТОЙ ИСТОЧНИК нгаз 5L ПЭТ",
+                    "article": "",
+                    "group_id": "9dwcgo6nvfstsrh6wiwpllzrzxmmnwzy",
+                    "group_title": "Группа 9"
+                },
+                "mass": 10.34,
+                "size": {
+                    "width": 154.0,
+                    "height": 320.0,
+                    "length": 306.0
+                },
+                "sort": 9,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "5rbqpc5qrxtovtffc8jryhpbt6i4gggy",
+                "position": {
+                    "x": 0.0,
+                    "y": 245.0,
+                    "z": 480.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 320.0,
+                    "height": 154.0,
+                    "length": 306.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#9dc278",
+                    "title": "Вода пит. ШИШКИН ЛЕС нгаз. 5L",
+                    "article": "",
+                    "group_id": "10npibwmdvkihfec97uvow94caoq2fgk",
+                    "group_title": "Группа 10"
+                },
+                "mass": 10.162,
+                "size": {
+                    "width": 140.0,
+                    "height": 315.0,
+                    "length": 313.0
+                },
+                "sort": 10,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "i7lro6k7dpnpyoxnbg0ipvku1crl4dfc",
+                "position": {
+                    "x": 384.0,
+                    "y": 171.0,
+                    "z": 485.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 315.0,
+                    "height": 140.0,
+                    "length": 313.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#9dc278",
+                    "title": "Вода пит. ШИШКИН ЛЕС нгаз. 5L",
+                    "article": "",
+                    "group_id": "10npibwmdvkihfec97uvow94caoq2fgk",
+                    "group_title": "Группа 10"
+                },
+                "mass": 10.162,
+                "size": {
+                    "width": 140.0,
+                    "height": 315.0,
+                    "length": 313.0
+                },
+                "sort": 10,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "i7lro6k7dpnpyoxnbg0ipvku1crl4dfc",
+                "position": {
+                    "x": 697.0,
+                    "y": 172.0,
+                    "z": 485.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 315.0,
+                    "height": 140.0,
+                    "length": 313.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#23c67a",
+                    "title": "Смесь на бум MAGGI курица по-итал 30,6г",
+                    "article": "",
+                    "group_id": "288zzt2hxi8rvyxux9tq3zuqqgpokoij",
+                    "group_title": "Группа 28"
+                },
+                "mass": 0.482,
+                "size": {
+                    "width": 132.0,
+                    "height": 196.0,
+                    "length": 120.0
+                },
+                "sort": 28,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6gv66zmo8ki3ygmdesezgzggdmpal5x5",
+                "position": {
+                    "x": 0.0,
+                    "y": 245.0,
+                    "z": 360.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 132.0,
+                    "length": 196.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 67,
+                "info": {
+                    "color": "#8c6146",
+                    "title": "Дез-т-антип NIVEA Нев Защ Черн Бел Спрей",
+                    "article": "",
+                    "group_id": "492ogepmnepyclrkfidn7ya7x0gls7rv",
+                    "group_title": "Группа 49"
+                },
+                "mass": 1.69,
+                "size": {
+                    "width": 98.0,
+                    "height": 190.0,
+                    "length": 278.0
+                },
+                "sort": 49,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8lxfogo7ixku6hjyt81mjbdp6pqqppf1",
+                "position": {
+                    "x": 337.0,
+                    "y": 172.0,
+                    "z": 370.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 98.0,
+                    "height": 190.0,
+                    "length": 278.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#9dc278",
+                    "title": "Вода пит. ШИШКИН ЛЕС нгаз. 5L",
+                    "article": "",
+                    "group_id": "10npibwmdvkihfec97uvow94caoq2fgk",
+                    "group_title": "Группа 10"
+                },
+                "mass": 10.162,
+                "size": {
+                    "width": 140.0,
+                    "height": 315.0,
+                    "length": 313.0
+                },
+                "sort": 10,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "i7lro6k7dpnpyoxnbg0ipvku1crl4dfc",
+                "position": {
+                    "x": 0.0,
+                    "y": 261.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 315.0,
+                    "height": 140.0,
+                    "length": 313.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#655104",
+                    "title": "Нап сокос ЛЮБИМЫЙ ЯблЧерРябКлубЗем 0.95L",
+                    "article": "",
+                    "group_id": "20m8ynf2so2guxeeku1xd0axuqwqvcwy",
+                    "group_title": "Группа 20"
+                },
+                "mass": 12.391,
+                "size": {
+                    "width": 195.0,
+                    "height": 214.0,
+                    "length": 370.0
+                },
+                "sort": 20,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hvtzrb7mhwkdw6dhgda3blfajjdxso5f",
+                "position": {
+                    "x": 337.0,
+                    "y": 172.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 370.0,
+                    "height": 195.0,
+                    "length": 214.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#9dc278",
+                    "title": "Вода пит. ШИШКИН ЛЕС нгаз. 5L",
+                    "article": "",
+                    "group_id": "10npibwmdvkihfec97uvow94caoq2fgk",
+                    "group_title": "Группа 10"
+                },
+                "mass": 10.162,
+                "size": {
+                    "width": 140.0,
+                    "height": 315.0,
+                    "length": 313.0
+                },
+                "sort": 10,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "i7lro6k7dpnpyoxnbg0ipvku1crl4dfc",
+                "position": {
+                    "x": 551.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 313.0,
+                    "height": 315.0,
+                    "length": 140.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#0dccb6",
+                    "title": "Пиво св ДУБ И ОБРУЧ Бочков 4,9% ПЭТ 1.5L",
+                    "article": "",
+                    "group_id": "81xuzoftuavsf8qhx0xzolqo41arv5ji",
+                    "group_title": "Группа 8"
+                },
+                "mass": 9.33,
+                "size": {
+                    "width": 236.0,
+                    "height": 218.0,
+                    "length": 354.0
+                },
+                "sort": 8,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ueaqwnrh8emuz0qi3ko9hc6mm4ukfdny",
+                "position": {
+                    "x": 691.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 354.0,
+                    "height": 218.0,
+                    "length": 236.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#4d897f",
+                    "title": "Дп вода ФРУТОНЯНЯ артезианская 330мл",
+                    "article": "",
+                    "group_id": "19vivffasozpgysrilhjregynm9slxwn",
+                    "group_title": "Группа 19"
+                },
+                "mass": 4.272,
+                "size": {
+                    "width": 174.0,
+                    "height": 140.0,
+                    "length": 232.0
+                },
+                "sort": 19,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yufphxtetzomm5r9em4vzl68k3diqzle",
+                "position": {
+                    "x": 691.0,
+                    "y": 218.0,
+                    "z": 250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 232.0,
+                    "height": 140.0,
+                    "length": 174.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#a3dc77",
+                    "title": "Смесь на 2е MAGGI дмакарон Болон 30г",
+                    "article": "",
+                    "group_id": "30rcizdnoavfwt2bv7ziugg9opkkwior",
+                    "group_title": "Группа 30"
+                },
+                "mass": 0.478,
+                "size": {
+                    "width": 132.0,
+                    "height": 156.0,
+                    "length": 120.0
+                },
+                "sort": 30,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "mijdpp5lggca4vykgvyjxnvdewrjrizr",
+                "position": {
+                    "x": 878.0,
+                    "y": 172.0,
+                    "z": 365.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 120.0,
+                    "height": 156.0,
+                    "length": 132.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#26d095",
+                    "title": "Вода пит. ШИШКИН ЛЕС нгаз. 1.75L",
+                    "article": "",
+                    "group_id": "155ej6jsphptxr7i0qncqyhcnjrxqjzc",
+                    "group_title": "Группа 15"
+                },
+                "mass": 14.373,
+                "size": {
+                    "width": 186.0,
+                    "height": 280.0,
+                    "length": 425.0
+                },
+                "sort": 15,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "4oshzb7uadl91svn2qoko0xsyebv1lny",
+                "position": {
+                    "x": 0.0,
+                    "y": 399.0,
+                    "z": 375.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 425.0,
+                    "height": 280.0,
+                    "length": 186.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#d2f902",
+                    "title": "Вода мин.BORJOMI Боржоми пит.леч.ст.0.5L",
+                    "article": "",
+                    "group_id": "14e3gcx5s7cnjp2tgncqbvzp9zeuklll",
+                    "group_title": "Группа 14"
+                },
+                "mass": 9.7,
+                "size": {
+                    "width": 207.0,
+                    "height": 240.0,
+                    "length": 275.0
+                },
+                "sort": 14,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "k1raqlmhef2qy9ptkwurqyuaatdtjfps",
+                "position": {
+                    "x": 186.0,
+                    "y": 399.0,
+                    "z": 525.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 275.0,
+                    "height": 240.0,
+                    "length": 207.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 417.0,
+                    "y": 311.0,
+                    "z": 550.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 400.0,
+                    "length": 140.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 557.0,
+                    "y": 311.0,
+                    "z": 550.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 400.0,
+                    "length": 140.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#9dc278",
+                    "title": "Вода пит. ШИШКИН ЛЕС нгаз. 5L",
+                    "article": "",
+                    "group_id": "10npibwmdvkihfec97uvow94caoq2fgk",
+                    "group_title": "Группа 10"
+                },
+                "mass": 10.162,
+                "size": {
+                    "width": 140.0,
+                    "height": 315.0,
+                    "length": 313.0
+                },
+                "sort": 10,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "i7lro6k7dpnpyoxnbg0ipvku1crl4dfc",
+                "position": {
+                    "x": 697.0,
+                    "y": 312.0,
+                    "z": 485.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 315.0,
+                    "height": 140.0,
+                    "length": 313.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#091fa6",
+                    "title": "Сок ЛЕНТА гранатовый прямой отжим 1L",
+                    "article": "",
+                    "group_id": "11sgnvyq3g8qxigzgn3rjwkwafzj3h6r",
+                    "group_title": "Группа 11"
+                },
+                "mass": 12.0,
+                "size": {
+                    "width": 190.0,
+                    "height": 240.0,
+                    "length": 390.0
+                },
+                "sort": 11,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "klra8i1iwq5ni7migotndom8qbp6a8qf",
+                "position": {
+                    "x": 1010.0,
+                    "y": 172.0,
+                    "z": 410.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 390.0,
+                    "height": 240.0,
+                    "length": 190.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#c690c2",
+                    "title": "Пиво св AMSTEL Premium pilse 4,8%ст0.45L",
+                    "article": "",
+                    "group_id": "6rzzcbchpjvjp9t0twmai0zl1j7jbzeh",
+                    "group_title": "Группа 6"
+                },
+                "mass": 15.0,
+                "size": {
+                    "width": 273.0,
+                    "height": 254.0,
+                    "length": 341.0
+                },
+                "sort": 6,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ra8w4vvpdcgs8ul3geoz0ryshsh3uklf",
+                "position": {
+                    "x": 927.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 341.0,
+                    "height": 254.0,
+                    "length": 273.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#490ada",
+                    "title": "Смесь на 2е MAGGI дгречки 41г",
+                    "article": "",
+                    "group_id": "29np3pa8ehqdgphszrhwqrvkk6nbe9yd",
+                    "group_title": "Группа 29"
+                },
+                "mass": 0.612,
+                "size": {
+                    "width": 130.0,
+                    "height": 155.0,
+                    "length": 120.0
+                },
+                "sort": 29,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bmyp1vidruuls6b5fd9w7q05ke2novta",
+                "position": {
+                    "x": 186.0,
+                    "y": 399.0,
+                    "z": 395.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 130.0,
+                    "height": 155.0,
+                    "length": 120.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#06c150",
+                    "title": "Масло подсолн СЛОБОДА раф 1,0л",
+                    "article": "",
+                    "group_id": "248z1hc5huyoqwgyvqc3i4kjd1uohj9r",
+                    "group_title": "Группа 24"
+                },
+                "mass": 14.6,
+                "size": {
+                    "width": 238.0,
+                    "height": 284.0,
+                    "length": 390.0
+                },
+                "sort": 24,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vje1gxefngjoqgbecm92dav1s2iugbn5",
+                "position": {
+                    "x": 332.0,
+                    "y": 367.0,
+                    "z": 282.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 238.0,
+                    "height": 390.0,
+                    "length": 284.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 76,
+                "info": {
+                    "color": "#c5e0be",
+                    "title": "Дп пюре ФРУТОНЯНЯ яблчернпеченье 90г",
+                    "article": "",
+                    "group_id": "574pnoj94ldudlrucv57zbkod8auevos",
+                    "group_title": "Группа 57"
+                },
+                "mass": 1.25,
+                "size": {
+                    "width": 75.0,
+                    "height": 185.0,
+                    "length": 415.0
+                },
+                "sort": 57,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ae3g1eh2gedrohl0bokc2qznraxlzaoa",
+                "position": {
+                    "x": 616.0,
+                    "y": 315.0,
+                    "z": 250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 185.0,
+                    "height": 415.0,
+                    "length": 75.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#39954b",
+                    "title": "Пакет ЛЕНТА 12кг",
+                    "article": "",
+                    "group_id": "21sgnkakkitjyvbav7bflhlgu6mtpvtg",
+                    "group_title": "Группа 21"
+                },
+                "mass": 11.5,
+                "size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 300.0
+                },
+                "sort": 21,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "5rvhccsnklnpvbfcutvcnvnpagjuynek",
+                "position": {
+                    "x": 0.0,
+                    "y": 401.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 200.0,
+                    "length": 300.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#1d95d8",
+                    "title": "Вода мин.BORJOMI Боржоми пит. ПЭТ 0.75L",
+                    "article": "",
+                    "group_id": "18bab1elaqszbg7aa7h2zoxl35vdfn9c",
+                    "group_title": "Группа 18"
+                },
+                "mass": 4.73,
+                "size": {
+                    "width": 146.0,
+                    "height": 282.0,
+                    "length": 219.0
+                },
+                "sort": 18,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "igygeodeaexf79fkwjmdu0wxhddgdurs",
+                "position": {
+                    "x": 332.0,
+                    "y": 367.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 282.0,
+                    "height": 146.0,
+                    "length": 219.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 0.0,
+                    "y": 679.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 140.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 0.0,
+                    "y": 819.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 140.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 55,
+                "info": {
+                    "color": "#344154",
+                    "title": "Тарелка 365 ДНЕЙ обед. 25см 16с1886",
+                    "article": "",
+                    "group_id": "38r9jmmyv05xsryeyrxobkqmldsqhruh",
+                    "group_title": "Группа 38"
+                },
+                "mass": 13.98,
+                "size": {
+                    "width": 260.0,
+                    "height": 260.0,
+                    "length": 220.0
+                },
+                "sort": 38,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "i9kpphqjmbvt3a4ow0f6bcvzgqae1y4a",
+                "position": {
+                    "x": 0.0,
+                    "y": 959.0,
+                    "z": 540.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 260.0,
+                    "height": 260.0,
+                    "length": 220.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 253.0,
+                    "y": 639.0,
+                    "z": 550.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 400.0,
+                    "length": 140.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#dd7d76",
+                    "title": "Чай GREENFIELD Golden Ceylon черн 25пх2г",
+                    "article": "",
+                    "group_id": "3105exoybwscljkgsj7bhkuhllv0jx8f",
+                    "group_title": "Группа 31"
+                },
+                "mass": 1.09,
+                "size": {
+                    "width": 169.0,
+                    "height": 363.0,
+                    "length": 175.0
+                },
+                "sort": 31,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "80k7ppqmjpmenfvce90j31paew0vh07b",
+                "position": {
+                    "x": 417.0,
+                    "y": 711.0,
+                    "z": 625.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 175.0,
+                    "height": 363.0,
+                    "length": 169.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 0.0,
+                    "y": 601.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 0.0,
+                    "y": 741.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 140.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 62,
+                "info": {
+                    "color": "#8198e3",
+                    "title": "Драже M&MS Шоколад 360г",
+                    "article": "",
+                    "group_id": "4517sjvyybd0pypj1rotoipqjcfp46fl",
+                    "group_title": "Группа 45"
+                },
+                "mass": 5.484,
+                "size": {
+                    "width": 194.0,
+                    "height": 182.0,
+                    "length": 384.0
+                },
+                "sort": 45,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tqqa7o1cmjcjx4y7glw0psefjdll271j",
+                "position": {
+                    "x": 0.0,
+                    "y": 1219.0,
+                    "z": 606.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 194.0,
+                    "height": 384.0,
+                    "length": 182.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 73,
+                "info": {
+                    "color": "#5d7470",
+                    "title": "Сливки 365 ДНЕЙ упаст 10% 200г",
+                    "article": "",
+                    "group_id": "54fwp7u7e6mpgtzssx8f6aktkmtifcrr",
+                    "group_title": "Группа 54"
+                },
+                "mass": 7.55,
+                "size": {
+                    "width": 200.0,
+                    "height": 125.0,
+                    "length": 360.0
+                },
+                "sort": 54,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "sz3fiupucymhtlb6ehdxnlqxtaoskskx",
+                "position": {
+                    "x": 253.0,
+                    "y": 1039.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 360.0,
+                    "length": 125.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 80,
+                "info": {
+                    "color": "#d4091c",
+                    "title": "Дп нектар ФРУТОНЯНЯ тыквен с мяк 200мл",
+                    "article": "",
+                    "group_id": "61dedhm7lj0dhng3idxcywuemnqciivz",
+                    "group_title": "Группа 61"
+                },
+                "mass": 3.978,
+                "size": {
+                    "width": 174.0,
+                    "height": 114.0,
+                    "length": 254.0
+                },
+                "sort": 61,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "sd88k4abltvm7zs4ndba8vtdm63i3yo3",
+                "position": {
+                    "x": 417.0,
+                    "y": 1074.0,
+                    "z": 626.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 174.0,
+                    "height": 254.0,
+                    "length": 114.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 77,
+                "info": {
+                    "color": "#16bb75",
+                    "title": "Дп пюре ФРУТОНЯНЯ яблземежовс печ90г",
+                    "article": "",
+                    "group_id": "58pfbhraunry2cy29enwoa5nzmaz8mkw",
+                    "group_title": "Группа 58"
+                },
+                "mass": 1.3,
+                "size": {
+                    "width": 75.0,
+                    "height": 185.0,
+                    "length": 415.0
+                },
+                "sort": 58,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "6beljn11khydgldq27qjkkldlw04ccs7",
+                "position": {
+                    "x": 401.0,
+                    "y": 711.0,
+                    "z": 550.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 75.0,
+                    "height": 415.0,
+                    "length": 185.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 68,
+                "info": {
+                    "color": "#56106f",
+                    "title": "Напол-ль дктуал 365 ДНЕЙ древ 6,5л 4кг",
+                    "article": "",
+                    "group_id": "50i3qfbh0bsrcsgxdmrjufixbbd7bwgt",
+                    "group_title": "Группа 50"
+                },
+                "mass": 4.0,
+                "size": {
+                    "width": 220.0,
+                    "height": 100.0,
+                    "length": 470.0
+                },
+                "sort": 50,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "bjihw4hsxvp0gauroysfhadjcyddzxgd",
+                "position": {
+                    "x": 597.0,
+                    "y": 711.0,
+                    "z": 580.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 220.0,
+                    "height": 470.0,
+                    "length": 100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#60a567",
+                    "title": "Крахмал ЛЕНТА кукурузный 400г",
+                    "article": "",
+                    "group_id": "259e0cevzbvnv4s6v5rkt0u7tt07b1rm",
+                    "group_title": "Группа 25"
+                },
+                "mass": 4.05,
+                "size": {
+                    "width": 115.0,
+                    "height": 205.0,
+                    "length": 397.0
+                },
+                "sort": 25,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "4eewejbraydcxvavfxnibzdmvuyojf1t",
+                "position": {
+                    "x": 700.0,
+                    "y": 452.0,
+                    "z": 595.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 205.0,
+                    "height": 397.0,
+                    "length": 115.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#44032c",
+                    "title": "Нап ба FRESH BAR Альфа Кола ПЭТ 0.48L",
+                    "article": "",
+                    "group_id": "16n6to1remkuj9dfvae0worhwrzbvcdk",
+                    "group_title": "Группа 16"
+                },
+                "mass": 6.24,
+                "size": {
+                    "width": 195.0,
+                    "height": 210.0,
+                    "length": 260.0
+                },
+                "sort": 16,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "n6x1qilunx49nfl752lvnxgbkpzsbvl8",
+                "position": {
+                    "x": 815.0,
+                    "y": 452.0,
+                    "z": 540.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 260.0,
+                    "height": 210.0,
+                    "length": 195.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 691.0,
+                    "y": 358.0,
+                    "z": 342.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 140.0,
+                    "height": 400.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#8001e3",
+                    "title": "Вода пит. СЕНЕЖСКАЯ прир. газ. 1.5L",
+                    "article": "",
+                    "group_id": "120h2qrso5jbxe88e54kxdamdrnswknl",
+                    "group_title": "Группа 12"
+                },
+                "mass": 9.3,
+                "size": {
+                    "width": 250.0,
+                    "height": 350.0,
+                    "length": 160.0
+                },
+                "sort": 12,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "4pfdanrtvikjjz5rtxp7h0jeesli0rwp",
+                "position": {
+                    "x": 1040.0,
+                    "y": 412.0,
+                    "z": 450.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 350.0,
+                    "height": 250.0,
+                    "length": 160.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 75,
+                "info": {
+                    "color": "#0f97ba",
+                    "title": "Дп сок ФРУТОНЯНЯ яблочный осветл. 200мл",
+                    "article": "",
+                    "group_id": "56chrn76f8aycbrgbkqbvtmus9p2prlo",
+                    "group_title": "Группа 56"
+                },
+                "mass": 4.0,
+                "size": {
+                    "width": 165.0,
+                    "height": 110.0,
+                    "length": 240.0
+                },
+                "sort": 56,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yv7i8dqxqottuylgbzltma0epgq86lxa",
+                "position": {
+                    "x": 1035.0,
+                    "y": 412.0,
+                    "z": 340.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 110.0,
+                    "height": 240.0,
+                    "length": 165.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 950.0,
+                    "y": 662.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 140.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#3137e9",
+                    "title": "Кофе JARDIN амер.крема мол.жар.прем 250г",
+                    "article": "",
+                    "group_id": "35ydrukqmaprsxnlaueu8d2iea92slmn",
+                    "group_title": "Группа 35"
+                },
+                "mass": 3.32,
+                "size": {
+                    "width": 184.0,
+                    "height": 266.0,
+                    "length": 184.0
+                },
+                "sort": 35,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xlt58cckvcvaldmbjw1yqnxj3tjxuxs1",
+                "position": {
+                    "x": 700.0,
+                    "y": 849.0,
+                    "z": 616.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 184.0,
+                    "height": 266.0,
+                    "length": 184.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 51,
+                "info": {
+                    "color": "#89ebcf",
+                    "title": "Кофе JACOBS Монарх классик нат мол 70г",
+                    "article": "",
+                    "group_id": "34itjsumyf89zvml7vllp8yz0ptkwrlq",
+                    "group_title": "Группа 34"
+                },
+                "mass": 1.02,
+                "size": {
+                    "width": 192.0,
+                    "height": 160.0,
+                    "length": 262.0
+                },
+                "sort": 34,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "muueqlcuobwumxshth7jtc0zvav5zrnw",
+                "position": {
+                    "x": 332.0,
+                    "y": 757.0,
+                    "z": 282.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 262.0,
+                    "height": 160.0,
+                    "length": 192.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 65,
+                "info": {
+                    "color": "#c21bf4",
+                    "title": "Дез-т AXE Дарк темптейшен муж150мл",
+                    "article": "",
+                    "group_id": "48evzgw7pmunkd39uyzupm5olposiufe",
+                    "group_title": "Группа 48"
+                },
+                "mass": 0.932,
+                "size": {
+                    "width": 167.0,
+                    "height": 148.0,
+                    "length": 113.0
+                },
+                "sort": 48,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xv5ayh9xxjfc8f30cns2jikosbuse6ba",
+                "position": {
+                    "x": 250.0,
+                    "y": 741.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 167.0,
+                    "height": 113.0,
+                    "length": 148.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 411.0,
+                    "y": 513.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 400.0,
+                    "length": 140.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 551.0,
+                    "y": 315.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 400.0,
+                    "length": 140.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 691.0,
+                    "y": 218.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 250.0,
+                    "height": 400.0,
+                    "length": 140.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#bfff5f",
+                    "title": "Вода пит СВЯТОЙ ИСТОЧНИК нгаз 5L ПЭТ",
+                    "article": "",
+                    "group_id": "9dwcgo6nvfstsrh6wiwpllzrzxmmnwzy",
+                    "group_title": "Группа 9"
+                },
+                "mass": 10.34,
+                "size": {
+                    "width": 154.0,
+                    "height": 320.0,
+                    "length": 306.0
+                },
+                "sort": 9,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "5rbqpc5qrxtovtffc8jryhpbt6i4gggy",
+                "position": {
+                    "x": 894.0,
+                    "y": 254.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 320.0,
+                    "height": 154.0,
+                    "length": 306.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#1704db",
+                    "title": "Вода пит. СЕНЕЖСКАЯ прир. нгаз. 1.5L",
+                    "article": "",
+                    "group_id": "13h5dkiijj9pn1myxhgu6qpslanjroft",
+                    "group_title": "Группа 13"
+                },
+                "mass": 9.36,
+                "size": {
+                    "width": 156.0,
+                    "height": 235.0,
+                    "length": 340.0
+                },
+                "sort": 13,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nlq2nvyspwbrvbmpyre6yugvz6u7b2vp",
+                "position": {
+                    "x": 864.0,
+                    "y": 408.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 340.0,
+                    "height": 235.0,
+                    "length": 156.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#4f8a82",
+                    "title": "Вода мин. ЕССЕНТУКИ №4 ГОСТ ПЭТ 1.5L",
+                    "article": "",
+                    "group_id": "17ikl5ib3fwwdbtwfeinobey1gi1orse",
+                    "group_title": "Группа 17"
+                },
+                "mass": 9.642,
+                "size": {
+                    "width": 180.0,
+                    "height": 340.0,
+                    "length": 265.0
+                },
+                "sort": 17,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lawwnedxkhdrngq9jc1rolaqznuc2ouf",
+                "position": {
+                    "x": 1020.0,
+                    "y": 408.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 340.0,
+                    "height": 265.0,
+                    "length": 180.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 66,
+                "info": {
+                    "color": "#c21bf4",
+                    "title": "Дез-т AXE Дарк темптейшен муж150мл",
+                    "article": "",
+                    "group_id": "48evzgw7pmunkd39uyzupm5olposiufe",
+                    "group_title": "Группа 48"
+                },
+                "mass": 0.932,
+                "size": {
+                    "width": 167.0,
+                    "height": 148.0,
+                    "length": 113.0
+                },
+                "sort": 48,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xv5ayh9xxjfc8f30cns2jikosbuse6ba",
+                "position": {
+                    "x": 578.0,
+                    "y": 715.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 167.0,
+                    "height": 148.0,
+                    "length": 113.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 63,
+                "info": {
+                    "color": "#018b80",
+                    "title": "Пирожное МЕДВЕЖОНОК БАРНИ бисквМолНач150",
+                    "article": "",
+                    "group_id": "46tmrkv8fltnwf58e9zpxxvdxhxxg2cn",
+                    "group_title": "Группа 46"
+                },
+                "mass": 4.044,
+                "size": {
+                    "width": 288.0,
+                    "height": 152.0,
+                    "length": 388.0
+                },
+                "sort": 46,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dypu29nphpkfkn27utvkwlaxrlfdo7jc",
+                "position": {
+                    "x": 0.0,
+                    "y": 959.0,
+                    "z": 388.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 152.0,
+                    "height": 388.0,
+                    "length": 288.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 57,
+                "info": {
+                    "color": "#43e5fe",
+                    "title": "Крекер 365 ДНЕЙ Волшебный калейдоскоп200",
+                    "article": "",
+                    "group_id": "40gkvniireoounl08yrhag9wwo8nkrkt",
+                    "group_title": "Группа 40"
+                },
+                "mass": 6.335,
+                "size": {
+                    "width": 285.0,
+                    "height": 228.0,
+                    "length": 380.0
+                },
+                "sort": 40,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ojzkobrllhvp7tqzcc5mbwayanuimg6i",
+                "position": {
+                    "x": 0.0,
+                    "y": 881.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 380.0,
+                    "height": 228.0,
+                    "length": 285.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 53,
+                "info": {
+                    "color": "#363b40",
+                    "title": "Чай ЛЕНТА зел. с мятоймелиссой 25пак45г",
+                    "article": "",
+                    "group_id": "36ilpn2k9ooqnmxk1ja822ezqng2zhn0",
+                    "group_title": "Группа 36"
+                },
+                "mass": 0.88,
+                "size": {
+                    "width": 170.0,
+                    "height": 173.0,
+                    "length": 360.0
+                },
+                "sort": 36,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "k6ykb7i7ashp1kygddwumrdpvbs6kkbe",
+                "position": {
+                    "x": 0.0,
+                    "y": 1109.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 173.0,
+                    "length": 170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 64,
+                "info": {
+                    "color": "#ef9e5b",
+                    "title": "ШАМПУНЬ CLEAR 2В1 АКТИВ СПОРТ М 400МЛ",
+                    "article": "",
+                    "group_id": "470jylsbyvete9ksesmed74nm1nmnwc9",
+                    "group_title": "Группа 47"
+                },
+                "mass": 5.65,
+                "size": {
+                    "width": 183.0,
+                    "height": 227.0,
+                    "length": 273.0
+                },
+                "sort": 47,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gizaizrcvhunk29xixbonzn2dxjwvmiz",
+                "position": {
+                    "x": 297.0,
+                    "y": 917.0,
+                    "z": 271.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 273.0,
+                    "height": 183.0,
+                    "length": 227.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 72,
+                "info": {
+                    "color": "#5d7470",
+                    "title": "Сливки 365 ДНЕЙ упаст 10% 200г",
+                    "article": "",
+                    "group_id": "54fwp7u7e6mpgtzssx8f6aktkmtifcrr",
+                    "group_title": "Группа 54"
+                },
+                "mass": 7.55,
+                "size": {
+                    "width": 200.0,
+                    "height": 125.0,
+                    "length": 360.0
+                },
+                "sort": 54,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "sz3fiupucymhtlb6ehdxnlqxtaoskskx",
+                "position": {
+                    "x": 524.0,
+                    "y": 757.0,
+                    "z": 282.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 360.0,
+                    "length": 125.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 60,
+                "info": {
+                    "color": "#216293",
+                    "title": "Печенье ЛЮБЯТОВО Топленое молоко 267г",
+                    "article": "",
+                    "group_id": "43i5fwgk3c8xbzcwqh8dadtvh7dycz8a",
+                    "group_title": "Группа 43"
+                },
+                "mass": 4.32,
+                "size": {
+                    "width": 210.0,
+                    "height": 182.0,
+                    "length": 358.0
+                },
+                "sort": 43,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "wyesv4ybyijpupuw8u5e9d12zfoocwhh",
+                "position": {
+                    "x": 691.0,
+                    "y": 758.0,
+                    "z": 342.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 210.0,
+                    "height": 358.0,
+                    "length": 182.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 50,
+                "info": {
+                    "color": "#8b1516",
+                    "title": "Какао-напиток 365 ДНЕЙ растворимый 100г",
+                    "article": "",
+                    "group_id": "332s5edgqo38mnsk5bbvek3rylfvwsce",
+                    "group_title": "Группа 33"
+                },
+                "mass": 2.8,
+                "size": {
+                    "width": 256.0,
+                    "height": 160.0,
+                    "length": 310.0
+                },
+                "sort": 33,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1jhft1hb8jqgwjo46qfwacegebv5vy30",
+                "position": {
+                    "x": 691.0,
+                    "y": 618.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 256.0,
+                    "height": 310.0,
+                    "length": 160.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 950.0,
+                    "y": 673.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 140.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#ae49d2",
+                    "title": "Лапша DOSHIRAK Чан Рамен с остр гов 120г",
+                    "article": "",
+                    "group_id": "230sbqslozgloaijuimsr2zxbu3ohtnv",
+                    "group_title": "Группа 23"
+                },
+                "mass": 2.73,
+                "size": {
+                    "width": 285.0,
+                    "height": 135.0,
+                    "length": 385.0
+                },
+                "sort": 23,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "btdwhjmsqevjqizd0sovcqbjn5moso1j",
+                "position": {
+                    "x": 915.0,
+                    "y": 802.0,
+                    "z": 415.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 385.0,
+                    "height": 135.0,
+                    "length": 285.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 78,
+                "info": {
+                    "color": "#aa8e1b",
+                    "title": "Дп пюре ФРУТОНЯНЯ яблокмангойогурт90г",
+                    "article": "",
+                    "group_id": "592lvrw1zqugr2zgc3ujrbcqbb6wgwzf",
+                    "group_title": "Группа 59"
+                },
+                "mass": 1.3,
+                "size": {
+                    "width": 75.0,
+                    "height": 185.0,
+                    "length": 415.0
+                },
+                "sort": 59,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "psf4cqp4sixsm45x8alstv32gm3ly9ex",
+                "position": {
+                    "x": 897.0,
+                    "y": 937.0,
+                    "z": 615.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 185.0,
+                    "height": 415.0,
+                    "length": 75.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 56,
+                "info": {
+                    "color": "#f4cc21",
+                    "title": "Крышка 365 ДНЕЙ 22см, КСхGTL22110Л",
+                    "article": "",
+                    "group_id": "39ow9ex4qhhv4ancqjdeyowi3ow5utbs",
+                    "group_title": "Группа 39"
+                },
+                "mass": 5.098,
+                "size": {
+                    "width": 360.0,
+                    "height": 228.0,
+                    "length": 228.0
+                },
+                "sort": 39,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "mwxuaf55zdwpbgrxzm70fwpfmtpxpelw",
+                "position": {
+                    "x": 972.0,
+                    "y": 937.0,
+                    "z": 440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 228.0,
+                    "length": 228.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 54,
+                "info": {
+                    "color": "#4cf6b0",
+                    "title": "Чай ЛЕНТА зел. с мятоймелиссой 25пак45г",
+                    "article": "",
+                    "group_id": "37ffoobvfurtcbjml9tnanozsnszi9k3",
+                    "group_title": "Группа 37"
+                },
+                "mass": 0.88,
+                "size": {
+                    "width": 170.0,
+                    "height": 173.0,
+                    "length": 360.0
+                },
+                "sort": 37,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "d1gev4wrwtihdyaqgtlhiwq3on4kvczr",
+                "position": {
+                    "x": 1030.0,
+                    "y": 1165.0,
+                    "z": 440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 173.0,
+                    "length": 170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 79,
+                "info": {
+                    "color": "#1ddd5b",
+                    "title": "Дп сок ФРУТОНЯНЯ яблочгрушевый 200мл",
+                    "article": "",
+                    "group_id": "60ozvz2iiqkx3vtcinepnrmdky55qkpe",
+                    "group_title": "Группа 60"
+                },
+                "mass": 3.978,
+                "size": {
+                    "width": 174.0,
+                    "height": 114.0,
+                    "length": 254.0
+                },
+                "sort": 60,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "whnpizialcyynycrqrgtn7gucm4hxi5d",
+                "position": {
+                    "x": 0.0,
+                    "y": 1282.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 174.0,
+                    "height": 254.0,
+                    "length": 114.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 71,
+                "info": {
+                    "color": "#c672d3",
+                    "title": "Молоко 365 ДНЕЙ упаст. 2,5% ТФА 900мл",
+                    "article": "",
+                    "group_id": "533p4r5m3lb6o96qcvwtubjcjrlmgen7",
+                    "group_title": "Группа 53"
+                },
+                "mass": 11.4,
+                "size": {
+                    "width": 240.0,
+                    "height": 200.0,
+                    "length": 420.0
+                },
+                "sort": 53,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "vdhducmwmfq4tp5jzhfciqzp3emsfuu4",
+                "position": {
+                    "x": 170.0,
+                    "y": 1109.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 240.0,
+                    "height": 420.0,
+                    "length": 200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 58,
+                "info": {
+                    "color": "#632792",
+                    "title": "Печенье OREO 228г",
+                    "article": "",
+                    "group_id": "412p8htugvo8tfjirhn2b6ctelmoe93b",
+                    "group_title": "Группа 41"
+                },
+                "mass": 3.445,
+                "size": {
+                    "width": 235.0,
+                    "height": 165.0,
+                    "length": 394.0
+                },
+                "sort": 41,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nii75llgau1ukglz6s5xfihvwizrpf2e",
+                "position": {
+                    "x": 386.0,
+                    "y": 913.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 235.0,
+                    "height": 394.0,
+                    "length": 165.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 69,
+                "info": {
+                    "color": "#6f56c1",
+                    "title": "Корнишоны ДЯДЯ ВАНЯ конс по-франц 680г",
+                    "article": "",
+                    "group_id": "51sxlg9rbzbjtus0ye4ut26wvmnomehc",
+                    "group_title": "Группа 51"
+                },
+                "mass": 7.92,
+                "size": {
+                    "width": 200.0,
+                    "height": 140.0,
+                    "length": 395.0
+                },
+                "sort": 51,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "stdsfjyslbjbavjemedadpoyj3q7osnn",
+                "position": {
+                    "x": 551.0,
+                    "y": 863.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 395.0,
+                    "length": 140.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#418b56",
+                    "title": "Сахар 1кг",
+                    "article": "",
+                    "group_id": "228ardlnexuftq0bnqqyhqytvf1zjpnk",
+                    "group_title": "Группа 22"
+                },
+                "mass": 10.03,
+                "size": {
+                    "width": 250.0,
+                    "height": 140.0,
+                    "length": 400.0
+                },
+                "sort": 22,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zkpg9e3or4jemzkxcmkgoezgb1fnyrdw",
+                "position": {
+                    "x": 950.0,
+                    "y": 813.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 140.0,
+                    "length": 250.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 70,
+                "info": {
+                    "color": "#4a417d",
+                    "title": "Напиток йог CAMPINA Нежн клуб 0,1% 285г",
+                    "article": "",
+                    "group_id": "52zrroau3hj0fddh4splzg7lhugffgmx",
+                    "group_title": "Группа 52"
+                },
+                "mass": 1.86,
+                "size": {
+                    "width": 116.0,
+                    "height": 190.0,
+                    "length": 160.0
+                },
+                "sort": 52,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tfchhao133nt0ytn71ohgr7ywqprxfie",
+                "position": {
+                    "x": 1040.0,
+                    "y": 953.0,
+                    "z": 292.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 116.0,
+                    "height": 190.0,
+                    "length": 160.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 59,
+                "info": {
+                    "color": "#f8150c",
+                    "title": "Зефир ШАРМЭЛЬ с ароматом ванили 255г",
+                    "article": "",
+                    "group_id": "42zquvha6uurdbrxprqwwadmeqflsroy",
+                    "group_title": "Группа 42"
+                },
+                "mass": 3.842,
+                "size": {
+                    "width": 300.0,
+                    "height": 193.0,
+                    "length": 400.0
+                },
+                "sort": 42,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xtfebrbw6vil1mbxxfsmxrbtwxpljeu5",
+                "position": {
+                    "x": 691.0,
+                    "y": 928.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 400.0,
+                    "length": 193.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 49,
+                "info": {
+                    "color": "#abd812",
+                    "title": "Цикорий ЛЕНТА раств гранулир му150г",
+                    "article": "",
+                    "group_id": "32y0cc9f9lnejecqlwina5mt81p65srk",
+                    "group_title": "Группа 32"
+                },
+                "mass": 2.2,
+                "size": {
+                    "width": 243.0,
+                    "height": 246.0,
+                    "length": 292.0
+                },
+                "sort": 32,
+                "step": 51,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ghdud2q5ys1iscil4bma6anwsl1ldsda",
+                "position": {
+                    "x": 957.0,
+                    "y": 953.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 292.0,
+                    "height": 246.0,
+                    "length": 243.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 61,
+                "info": {
+                    "color": "#779928",
+                    "title": "Драже M&MS С арахисом 360г",
+                    "article": "",
+                    "group_id": "44bwf79mjmy267rapmmyyswbsx3tgrtm",
+                    "group_title": "Группа 44"
+                },
+                "mass": 5.484,
+                "size": {
+                    "width": 194.0,
+                    "height": 182.0,
+                    "length": 384.0
+                },
+                "sort": 44,
+                "step": 52,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "s1owadvwu5wydohnjhmjc69vgun8zpmn",
+                "position": {
+                    "x": 1006.0,
+                    "y": 1199.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 384.0,
+                    "height": 182.0,
+                    "length": 194.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 74,
+                "info": {
+                    "color": "#fa7711",
+                    "title": "Попкорн ЛЕНТА готовый соленый 130г",
+                    "article": "",
+                    "group_id": "55unskv8ljhoipgk5eiswnfo0qqjyft8",
+                    "group_title": "Группа 55"
+                },
+                "mass": 1.96,
+                "size": {
+                    "width": 305.0,
+                    "height": 335.0,
+                    "length": 565.0
+                },
+                "sort": 55,
+                "step": 53,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "f3vlvlg6fspztl6orenp8mwd9clztcob",
+                "position": {
+                    "x": 691.0,
+                    "y": 1328.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 565.0,
+                    "height": 335.0,
+                    "length": 305.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 81,
+                "info": {
+                    "color": "#f0dc16",
+                    "title": "Набор ЛЕНТА Однораз.посуды 4пер.праз1шт",
+                    "article": "",
+                    "group_id": "62ptsjdkw6sj4hwmw5jvq79sxbjy8on1",
+                    "group_title": "Группа 62"
+                },
+                "mass": 1.6,
+                "size": {
+                    "width": 250.0,
+                    "height": 184.0,
+                    "length": 500.0
+                },
+                "sort": 62,
+                "step": 54,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "hgz31lgkk5jeca4ao9fkm5k2djff8ggd",
+                "position": {
+                    "x": 1016.0,
+                    "y": 1381.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 500.0,
+                    "height": 250.0,
+                    "length": 184.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1112,
+            "info": {
+                "uid": "1112_0",
+                "sort": 0,
+                "title": "ЛЕНТА",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 15.0,
+            "size": {
+                "width": 800.0,
+                "height": 140.0,
+                "length": 1200.0
+            },
+            "type": "pallet",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": -1660.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 800.0,
+                "height": 1800.0,
+                "length": 1200.0
+            },
+            "calculation_info": {
+                "step_count": 54,
+                "cargos_mass": 0.5728909999999999,
+                "load_volume": 1.728,
+                "cargos_volume": 1.11091,
+                "count_cargoes": 82,
+                "load_capacity": 0.6,
+                "loading_height": 1.663,
+                "density_percent": 69.58499,
+                "remaining_volume": 0.61709,
+                "void_space_percent": 35.7112,
+                "filling_space_percent": 64.2888
+            },
+            "carrying_capacity": 600.0,
+            "real_center_of_gravity": [
+                575.6926212839794,
+                580.5883099926516,
+                401.74399056714145
+            ],
+            "ideal_center_of_gravity": [
+                600.0,
+                0.0,
+                400.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingLayers",
+        "calculation_id": 15455,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [
+            "ERROR_INDENTATION"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

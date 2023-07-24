@@ -1,0 +1,497 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#d13cbd",
+                    "title": "с ноутом",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 600,
+                    "height": 670,
+                    "length": 450
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "aqqkbdlijtg17uvj5uqhnovajbohqr7f",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#189616",
+                    "title": "система для напольного",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 540,
+                    "height": 1205,
+                    "length": 780
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "c7ideiimxerl6nw0ercduervxulktgdi",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#48c96d",
+                    "title": "станция насосная",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 560,
+                    "height": 1550,
+                    "length": 950
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "rywxb8qxspm1w1bsu9hqh6kssbqvjhj6",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6835ba",
+                    "title": "на несущем рычаге",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 40.0,
+                "size": {
+                    "width": 650,
+                    "height": 200,
+                    "length": 1040
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "aiinzedblrs5pb8oc33wtfowgmfsjus8",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0d077a",
+                    "title": "Стенд",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 150.0,
+                "size": {
+                    "width": 1100,
+                    "height": 2150,
+                    "length": 1000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xxehbgyyy045xmei701whdwkkld8jg5w",
+                "stacking": false,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 268,
+            "info": {
+                "uid": "268_0",
+                "sort": 0,
+                "title": "Фургон №1"
+            },
+            "mass": 2066,
+            "size": {
+                "width": 2400,
+                "height": 2215,
+                "length": 3700
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1100,
+                    "max_load": 4750,
+                    "default_load": 1033
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 3815,
+                    "max_load": 4750,
+                    "default_load": 1033
+                }
+            ],
+            "title": "Фургон №1",
+            "full_length": 6000,
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 600,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2400,
+                "height": 1615,
+                "length": 3700
+            },
+            "carrying_capacity": 6400
+        },
+        "calculation_id": "16249"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#d13cbd",
+                    "title": "с ноутом",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 670.0,
+                    "length": 450.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "aqqkbdlijtg17uvj5uqhnovajbohqr7f",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1730.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 670.0,
+                    "length": 450.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#189616",
+                    "title": "система для напольного",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 540.0,
+                    "height": 1205.0,
+                    "length": 780.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "c7ideiimxerl6nw0ercduervxulktgdi",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 950.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 780.0,
+                    "height": 1205.0,
+                    "length": 540.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#48c96d",
+                    "title": "станция насосная",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 560.0,
+                    "height": 1550.0,
+                    "length": 950.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "rywxb8qxspm1w1bsu9hqh6kssbqvjhj6",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 950.0,
+                    "height": 1550.0,
+                    "length": 560.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#6835ba",
+                    "title": "на несущем рычаге",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 40.0,
+                "size": {
+                    "width": 650.0,
+                    "height": 200.0,
+                    "length": 1040.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "aiinzedblrs5pb8oc33wtfowgmfsjus8",
+                "position": {
+                    "x": 2660.0,
+                    "y": 0.0,
+                    "z": 1750.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 650.0,
+                    "height": 200.0,
+                    "length": 1040.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 268,
+            "info": {
+                "uid": "268_0",
+                "sort": 0,
+                "title": "Фургон №1"
+            },
+            "mass": 2066.0,
+            "size": {
+                "width": 2400.0,
+                "height": 2215.0,
+                "length": 3700.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1100.0,
+                    "max_load": 4750.0,
+                    "default_load": 1033.0,
+                    "calculated_load": 1242.04325
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 3815.0,
+                    "max_load": 4750.0,
+                    "default_load": 1033.0,
+                    "calculated_load": 1213.95675
+                }
+            ],
+            "full_length": 3700.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 600.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2400.0,
+                "height": 1615.0,
+                "length": 3700.0
+            },
+            "calculation_info": {
+                "step_count": 4,
+                "cargos_mass": 0.39,
+                "load_volume": 14.3412,
+                "cargos_volume": 1.64825,
+                "count_cargoes": 4,
+                "load_capacity": 6.4,
+                "loading_height": 1.55,
+                "density_percent": 11.97505,
+                "remaining_volume": 12.69295,
+                "void_space_percent": 88.50692,
+                "filling_space_percent": 11.49308
+            },
+            "carrying_capacity": 6400.0,
+            "real_center_of_gravity": [
+                570.1282051282051,
+                618.8461538461538,
+                1024.871794871795
+            ],
+            "ideal_center_of_gravity": [
+                1850.0,
+                0.0,
+                1200.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#0d077a",
+                    "title": "Стенд",
+                    "article": "",
+                    "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                    "group_title": "Группа 1"
+                },
+                "mass": 150.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 2150.0,
+                    "length": 1100.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xxehbgyyy045xmei701whdwkkld8jg5w",
+                "stacking": false,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "ERROR_CARGO_SIZE_WITHOUT_TURNOVER"
+            }
+        ],
+        "packing_type": "PackingLayers",
+        "calculation_id": 16249,
+        "invalid_errors": [
+            {
+                "key": 4,
+                "name": "ERROR_CARGO_SIZE_WITHOUT_TURNOVER",
+                "boxes": [
+                    {
+                        "id": "xxehbgyyy045xmei701whdwkkld8jg5w",
+                        "info": {
+                            "color": "#0d077a",
+                            "title": "Стенд",
+                            "article": "",
+                            "group_id": "1qsbdkohcq33crxoxyrdshhz8dmtha7i",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "unpacked_errors": [],
+        "validate_errors": [
+            "ERROR_AXLES_DISTANCE_CAR"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

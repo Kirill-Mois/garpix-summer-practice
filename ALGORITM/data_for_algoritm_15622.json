@@ -1,0 +1,368 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#87a18b",
+                    "title": "RM800F",
+                    "article": "12",
+                    "group_id": "1tirqwizaruooqxx3ku381ecqtnixlbb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 720.0,
+                    "height": 600.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 4.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "r4mulxkzpu6odrnx2q3iayhzbajxichz",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            },
+            {
+                "info": {
+                    "color": "#94f88b",
+                    "title": "DIVA 8.3",
+                    "article": "13",
+                    "group_id": "1tirqwizaruooqxx3ku381ecqtnixlbb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 38.0,
+                "size": {
+                    "width": 480.0,
+                    "height": 530.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "30cqdlslcyiseoeprdkuqiypslb9xnnf",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1798.834774,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 192,
+        "cargo_space": {
+            "id": 1057,
+            "info": {
+                "uid": "1057_7",
+                "sort": 7,
+                "title": "Аудио USA (copy)",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 20,
+            "size": {
+                "width": 1000,
+                "height": 135,
+                "length": 1300
+            },
+            "type": "pallet",
+            "axles": [],
+            "title": "Аудио USA (copy)",
+            "margin": {
+                "width": 0,
+                "height": 0,
+                "length": 0
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 1000,
+                "height": 2330,
+                "length": 1300
+            },
+            "carrying_capacity": 1000
+        },
+        "calculation_id": "15373"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 192,
+                "info": {
+                    "color": "#87a18b",
+                    "title": "RM800F",
+                    "article": "12",
+                    "group_id": "1tirqwizaruooqxx3ku381ecqtnixlbb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 720.0,
+                    "height": 600.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "r4mulxkzpu6odrnx2q3iayhzbajxichz",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 720.0,
+                    "height": 1420.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 193,
+                "info": {
+                    "color": "#87a18b",
+                    "title": "RM800F",
+                    "article": "12",
+                    "group_id": "1tirqwizaruooqxx3ku381ecqtnixlbb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 720.0,
+                    "height": 600.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "r4mulxkzpu6odrnx2q3iayhzbajxichz",
+                "position": {
+                    "x": 600.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 720.0,
+                    "height": 1420.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 196,
+                "info": {
+                    "color": "#94f88b",
+                    "title": "DIVA 8.3",
+                    "article": "13",
+                    "group_id": "1tirqwizaruooqxx3ku381ecqtnixlbb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 38.0,
+                "size": {
+                    "width": 480.0,
+                    "height": 530.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "30cqdlslcyiseoeprdkuqiypslb9xnnf",
+                "position": {
+                    "x": 0.0,
+                    "y": 1420.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 530.0,
+                    "height": 480.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1057,
+            "info": {
+                "uid": "1057_7",
+                "sort": 7,
+                "title": "Аудио USA (copy)",
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                }
+            },
+            "mass": 20.0,
+            "size": {
+                "width": 1000.0,
+                "height": 135.0,
+                "length": 1300.0
+            },
+            "type": "pallet",
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": -2195.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 1000.0,
+                "height": 2330.0,
+                "length": 1300.0
+            },
+            "calculation_info": {
+                "step_count": 3,
+                "cargos_mass": 0.134,
+                "load_volume": 3.029,
+                "cargos_volume": 1.53216,
+                "count_cargoes": 3,
+                "load_capacity": 1.0,
+                "loading_height": 1.9,
+                "density_percent": 93.33333,
+                "remaining_volume": 1.49684,
+                "void_space_percent": 49.41697,
+                "filling_space_percent": 50.58303
+            },
+            "carrying_capacity": 1000.0,
+            "real_center_of_gravity": [
+                600.0,
+                979.4029850746268,
+                333.05970149253733
+            ],
+            "ideal_center_of_gravity": [
+                650.0,
+                0.0,
+                500.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#87a18b",
+                    "title": "RM800F",
+                    "article": "12",
+                    "group_id": "1tirqwizaruooqxx3ku381ecqtnixlbb",
+                    "group_title": "Группа 1"
+                },
+                "mass": 48.0,
+                "size": {
+                    "width": 720.0,
+                    "height": 600.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 2.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "r4mulxkzpu6odrnx2q3iayhzbajxichz",
+                "stacking": true,
+                "turnover": true,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "errorIntersectionContainer"
+            }
+        ],
+        "packing_type": "PackingLayers",
+        "calculation_id": 15373,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "r4mulxkzpu6odrnx2q3iayhzbajxichz",
+                        "info": {
+                            "color": "#87a18b",
+                            "title": "RM800F",
+                            "article": "12",
+                            "group_id": "1tirqwizaruooqxx3ku381ecqtnixlbb",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            },
+            {
+                "key": 11,
+                "name": "errorIntersectionContainer",
+                "boxes": [
+                    {
+                        "id": "r4mulxkzpu6odrnx2q3iayhzbajxichz",
+                        "info": {
+                            "color": "#87a18b",
+                            "title": "RM800F",
+                            "article": "12",
+                            "group_id": "1tirqwizaruooqxx3ku381ecqtnixlbb",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [
+            "ERROR_INDENTATION"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

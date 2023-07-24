@@ -1,0 +1,4468 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#24a318",
+                    "title": "УПАКОВКА ЛЕСТНИЦЫ В ПРИЯМОК",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 285,
+                    "height": 30,
+                    "length": 2700
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "rlzbd3yl6marmyowctryo01qvgmyzubn",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#93071a",
+                    "title": "УПАКОВКА ГРАНИТНОГО ПОЛА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1010,
+                    "height": 265,
+                    "length": 1170
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "pki3rkbkqchbrbc7cmmtaixi0xk1lomv",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1fc605",
+                    "title": "УПАКОВКА ОГРАЖДЕНИЙ НА КРЫШЕ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 9.0,
+                "size": {
+                    "width": 60,
+                    "height": 745,
+                    "length": 870
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "dbe5q26f7fm4cevqrdvhzkmlnhg53qom",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1baa29",
+                    "title": "УПАКОВКА КОМПЕНСИРУЮЩИХ ЦЕПЕЙ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 600,
+                    "height": 430,
+                    "length": 740
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gk39rzg8o9mtvnncymmag95dxvutx82j",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#2b4ba5",
+                    "title": "УПАКОВКА ПОДВЕСНОГО ПОТОЛКА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 380,
+                    "height": 455,
+                    "length": 2200
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ophljg6ikj4nagnuju71xexuskom8chm",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e23b1d",
+                    "title": "УПАКОВКА ПОДВЕСНОГО ПОТОЛКА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 1010,
+                    "height": 265,
+                    "length": 1170
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "lzgkhgrjsqaglzrft9x5nx5xhj5xuitp",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#8ed10a",
+                    "title": "УПАКОВКА ЗЕРКАЛ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 1390,
+                    "height": 70,
+                    "length": 1200
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tgxwnbeb2klv4jldmznwhjbzchkor9s2",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#140d70",
+                    "title": "УПАКОВКА СТОЯКОВ КАБИНЫ ОГРАЖДЕНИЯ ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 100,
+                    "height": 100,
+                    "length": 3000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "7cswu64gp6amtu5roqhzvcienetprpim",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#798e02",
+                    "title": "УПАКОВКА НАПРАВЛЯЮЩИХ ПРОТИВОВЕСА И КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 4000.0,
+                "size": {
+                    "width": 300,
+                    "height": 250,
+                    "length": 5000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nmz6mso1mz2xhcwehpxicj45ek2eotzb",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#4c16ba",
+                    "title": "УПАКОВКА КРОНШТЕЙНОВ НАПРАВЛЯЮЩИХ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 530,
+                    "height": 460,
+                    "length": 1290
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gww0ngru8ehn9larui2ijr0kbyrrmhwq",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#2754c6",
+                    "title": "УПАКОВКА ГРУЗОВ ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000,
+                    "height": 140,
+                    "length": 800
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "kqllbvczpj8tfvlm5rk1nd92r4jcsqs8",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c15d36",
+                    "title": "УПАКОВКА КОНТРОЛЛЕРА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360,
+                    "height": 430,
+                    "length": 2080
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "7vorgpb7ksyx8xelq9fwlvj0v6i7uge4",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#dd5a65",
+                    "title": "УПАКОВКА ЛЕБЕДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 490.0,
+                "size": {
+                    "width": 1050,
+                    "height": 1200,
+                    "length": 870
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "gfmcvtnneixa8oqih1jkuxkxcw3mwscg",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c004e5",
+                    "title": "УПАКОВКА ДВЕРЕЙ ШАХТЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 1150,
+                    "height": 1000,
+                    "length": 2100
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ohxvwyfo3esjw27yqlqm1e4bb8u0zjnr",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d19649",
+                    "title": "УПАКОВКА ПОДСТАВОК ПОД КАБИНУ И ПРОТИВОВЕС",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 460,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "kmesuqysuobumh2ldmgpbulwo8j2z2nc",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#1f9ee2",
+                    "title": "УПАКОВКА ПОДСТАВОК ПОД КАБИНУ И ПРОТИВОВЕС",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 530,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "k02hcwk2hsbseart1zbfsovgv3eh9qif",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#13bbc4",
+                    "title": "УПАКОВКА КАНАТОВ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 600,
+                    "height": 500,
+                    "length": 600
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "jql4uzqxdulnh3kglakm8xok2tlmw4ag",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#2fd32a",
+                    "title": "УПАКОВКА ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 250,
+                    "height": 260,
+                    "length": 3200
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "xy92ek15veicenod7ptccufs5pestyuf",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#b55405",
+                    "title": "УПАКОВКА ОСВЕЩЕНИЯ ШАХТЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 660,
+                    "height": 460,
+                    "length": 1420
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "dsh5m0zfw2opapyh3uvfg6sywgiuu72b",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cc7a1c",
+                    "title": "УПАКОВКА КОРОБОВ ШАХТНОЙ РАЗВОДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 160.0,
+                "size": {
+                    "width": 530,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "tlgo5t2utlpqtyb51irmotmgebyoqbfx",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#6cfcd6",
+                    "title": "УПАКОВКА КОРОБОВ ШАХТНОЙ РАЗВОДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 400,
+                    "height": 400,
+                    "length": 2000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "yqswvivoktoltehlthchhp74ng8x5vwx",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#7738ed",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №3",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 60.0,
+                "size": {
+                    "width": 530,
+                    "height": 660,
+                    "length": 1290
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "dw6fgd0dr6ugxzewm2ulqujnxgrdzftq",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#cfef2d",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №2",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 70.0,
+                "size": {
+                    "width": 1000,
+                    "height": 400,
+                    "length": 1000
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "1kgcggtw0sjcpumdwq72u09fp87rctzd",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f26a30",
+                    "title": "УПАКОВКА КЛЕММНОЙ КОРОБКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 362,
+                    "height": 320,
+                    "length": 616
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ytsxpe4a1luw1y4uugheajoy2vqunamb",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#e8b358",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №1",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 25.0,
+                "size": {
+                    "width": 400,
+                    "height": 400,
+                    "length": 450
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "2ivbkjcvgcnsh1rpbsq8kkbdlweklaak",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#f91b7f",
+                    "title": "УПАКОВКА ПАНЕЛИ COP",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 660,
+                    "height": 545,
+                    "length": 2380
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zsftj52hiuiieu0irhagpfch4dz8fzyd",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d51eff",
+                    "title": "УПАКОВКА КУПЕ КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 280.0,
+                "size": {
+                    "width": 660,
+                    "height": 545,
+                    "length": 2380
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nedeylk3de3ucoubc8yv9e08v7q1esfr",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#c9a60a",
+                    "title": "УПАКОВКА БЫЛКИ ДВЕРЕЙ КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 490,
+                    "height": 210,
+                    "length": 2170
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 3,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "8g2pjryxgkqtgxzb4g19b2ciut7coizi",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#0eb567",
+                    "title": "УПАКОВКА КАРКАСА КАБИНЫ",
+                    "article": "",
+                    "group_id": "27jopdtfmdhvujqpllzlc4828hex0ytx",
+                    "group_title": "Группа 1"
+                },
+                "mass": 300.0,
+                "size": {
+                    "width": 1380,
+                    "height": 775,
+                    "length": 1480
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "v0bbw0yohgiz9x6bnszs0cu8qigqfy6s",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 274,
+            "info": {
+                "uid": "274_0",
+                "sort": 0,
+                "title": "Полуприцеп 3"
+            },
+            "mass": 8793,
+            "size": {
+                "width": 2040,
+                "height": 2679,
+                "length": 9560
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1660,
+                    "max_load": 9375,
+                    "default_load": 2325
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360,
+                    "max_load": 9375,
+                    "default_load": 2325
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360,
+                    "max_load": 9375,
+                    "default_load": 2325
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 4500,
+                "max_load": 9375,
+                "default_load": 2325
+            },
+            "title": "Полуприцеп 3",
+            "tractor": {
+                "mass": 4932,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1000,
+                        "max_load": 7300,
+                        "default_load": 2250
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2200,
+                        "max_load": 7300,
+                        "default_load": 2250
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1380,
+                        "max_load": 7300,
+                        "default_load": 2250
+                    }
+                ],
+                "title": "Тягач №3 (3 оси)",
+                "length": 7110,
+                "hitch_distance": 1060
+            },
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 340,
+                "height_top": 5,
+                "length_end": 340,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2040,
+                "height": 2674,
+                "length": 8880
+            },
+            "carrying_capacity": 28200,
+            "last_changed_user_id": null
+        },
+        "calculation_id": "17170"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 81,
+                "info": {
+                    "color": "#c9a60a",
+                    "title": "УПАКОВКА БЫЛКИ ДВЕРЕЙ КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 490.0,
+                    "height": 210.0,
+                    "length": 2170.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8g2pjryxgkqtgxzb4g19b2ciut7coizi",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1810.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 210.0,
+                    "height": 490.0,
+                    "length": 2170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 75,
+                "info": {
+                    "color": "#f91b7f",
+                    "title": "УПАКОВКА ПАНЕЛИ COP",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zsftj52hiuiieu0irhagpfch4dz8fzyd",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1150.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 83,
+                "info": {
+                    "color": "#c9a60a",
+                    "title": "УПАКОВКА БЫЛКИ ДВЕРЕЙ КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 490.0,
+                    "height": 210.0,
+                    "length": 2170.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8g2pjryxgkqtgxzb4g19b2ciut7coizi",
+                "position": {
+                    "x": 0.0,
+                    "y": 490.0,
+                    "z": 1810.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 210.0,
+                    "height": 490.0,
+                    "length": 2170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#140d70",
+                    "title": "УПАКОВКА СТОЯКОВ КАБИНЫ ОГРАЖДЕНИЯ ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7cswu64gp6amtu5roqhzvcienetprpim",
+                "position": {
+                    "x": 0.0,
+                    "y": 980.0,
+                    "z": 1910.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 100.0,
+                    "height": 100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#140d70",
+                    "title": "УПАКОВКА СТОЯКОВ КАБИНЫ ОГРАЖДЕНИЯ ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7cswu64gp6amtu5roqhzvcienetprpim",
+                "position": {
+                    "x": 0.0,
+                    "y": 980.0,
+                    "z": 1810.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 100.0,
+                    "height": 100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 78,
+                "info": {
+                    "color": "#d51eff",
+                    "title": "УПАКОВКА КУПЕ КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 280.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nedeylk3de3ucoubc8yv9e08v7q1esfr",
+                "position": {
+                    "x": 0.0,
+                    "y": 545.0,
+                    "z": 1150.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#1f9ee2",
+                    "title": "УПАКОВКА ПОДСТАВОК ПОД КАБИНУ И ПРОТИВОВЕС",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "k02hcwk2hsbseart1zbfsovgv3eh9qif",
+                "position": {
+                    "x": 0.0,
+                    "y": 1090.0,
+                    "z": 1380.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 1290.0,
+                    "length": 530.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#2754c6",
+                    "title": "УПАКОВКА ГРУЗОВ ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kqllbvczpj8tfvlm5rk1nd92r4jcsqs8",
+                "position": {
+                    "x": 2200.0,
+                    "y": 0.0,
+                    "z": 1900.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 140.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#1fc605",
+                    "title": "УПАКОВКА ОГРАЖДЕНИЙ НА КРЫШЕ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 9.0,
+                "size": {
+                    "width": 60.0,
+                    "height": 745.0,
+                    "length": 870.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dbe5q26f7fm4cevqrdvhzkmlnhg53qom",
+                "position": {
+                    "x": 2330.0,
+                    "y": 0.0,
+                    "z": 1840.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 60.0,
+                    "height": 745.0,
+                    "length": 870.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#1baa29",
+                    "title": "УПАКОВКА КОМПЕНСИРУЮЩИХ ЦЕПЕЙ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 430.0,
+                    "length": 740.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gk39rzg8o9mtvnncymmag95dxvutx82j",
+                "position": {
+                    "x": 2380.0,
+                    "y": 0.0,
+                    "z": 1350.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 600.0,
+                    "length": 740.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 70,
+                "info": {
+                    "color": "#f26a30",
+                    "title": "УПАКОВКА КЛЕММНОЙ КОРОБКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 362.0,
+                    "height": 320.0,
+                    "length": 616.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ytsxpe4a1luw1y4uugheajoy2vqunamb",
+                "position": {
+                    "x": 2380.0,
+                    "y": 600.0,
+                    "z": 1350.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 362.0,
+                    "height": 320.0,
+                    "length": 616.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#1fc605",
+                    "title": "УПАКОВКА ОГРАЖДЕНИЙ НА КРЫШЕ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 9.0,
+                "size": {
+                    "width": 60.0,
+                    "height": 745.0,
+                    "length": 870.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dbe5q26f7fm4cevqrdvhzkmlnhg53qom",
+                "position": {
+                    "x": 2380.0,
+                    "y": 0.0,
+                    "z": 1290.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 60.0,
+                    "height": 745.0,
+                    "length": 870.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#2754c6",
+                    "title": "УПАКОВКА ГРУЗОВ ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kqllbvczpj8tfvlm5rk1nd92r4jcsqs8",
+                "position": {
+                    "x": 2380.0,
+                    "y": 0.0,
+                    "z": 1150.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 140.0,
+                    "height": 800.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 76,
+                "info": {
+                    "color": "#f91b7f",
+                    "title": "УПАКОВКА ПАНЕЛИ COP",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zsftj52hiuiieu0irhagpfch4dz8fzyd",
+                "position": {
+                    "x": 3200.0,
+                    "y": 0.0,
+                    "z": 1380.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 79,
+                "info": {
+                    "color": "#d51eff",
+                    "title": "УПАКОВКА КУПЕ КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 280.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nedeylk3de3ucoubc8yv9e08v7q1esfr",
+                "position": {
+                    "x": 3200.0,
+                    "y": 545.0,
+                    "z": 1380.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#798e02",
+                    "title": "УПАКОВКА НАПРАВЛЯЮЩИХ ПРОТИВОВЕСА И КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 4000.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 5000.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nmz6mso1mz2xhcwehpxicj45ek2eotzb",
+                "position": {
+                    "x": 580.0,
+                    "y": 1090.0,
+                    "z": 1740.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 5000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#798e02",
+                    "title": "УПАКОВКА НАПРАВЛЯЮЩИХ ПРОТИВОВЕСА И КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 4000.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 5000.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nmz6mso1mz2xhcwehpxicj45ek2eotzb",
+                "position": {
+                    "x": 580.0,
+                    "y": 1090.0,
+                    "z": 1440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 5000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#2b4ba5",
+                    "title": "УПАКОВКА ПОДВЕСНОГО ПОТОЛКА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 380.0,
+                    "height": 455.0,
+                    "length": 2200.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ophljg6ikj4nagnuju71xexuskom8chm",
+                "position": {
+                    "x": 580.0,
+                    "y": 1340.0,
+                    "z": 1585.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 455.0,
+                    "height": 380.0,
+                    "length": 2200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#2b4ba5",
+                    "title": "УПАКОВКА ПОДВЕСНОГО ПОТОЛКА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 380.0,
+                    "height": 455.0,
+                    "length": 2200.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ophljg6ikj4nagnuju71xexuskom8chm",
+                "position": {
+                    "x": 2780.0,
+                    "y": 1340.0,
+                    "z": 1585.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 455.0,
+                    "height": 380.0,
+                    "length": 2200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#2b4ba5",
+                    "title": "УПАКОВКА ПОДВЕСНОГО ПОТОЛКА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 380.0,
+                    "height": 455.0,
+                    "length": 2200.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ophljg6ikj4nagnuju71xexuskom8chm",
+                "position": {
+                    "x": 580.0,
+                    "y": 1720.0,
+                    "z": 1585.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 455.0,
+                    "height": 380.0,
+                    "length": 2200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#c15d36",
+                    "title": "УПАКОВКА КОНТРОЛЛЕРА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7vorgpb7ksyx8xelq9fwlvj0v6i7uge4",
+                "position": {
+                    "x": 2780.0,
+                    "y": 1720.0,
+                    "z": 1610.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 430.0,
+                    "height": 360.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 65,
+                "info": {
+                    "color": "#7738ed",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №3",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 60.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dw6fgd0dr6ugxzewm2ulqujnxgrdzftq",
+                "position": {
+                    "x": 580.0,
+                    "y": 2100.0,
+                    "z": 1380.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 530.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 50,
+                "info": {
+                    "color": "#13bbc4",
+                    "title": "УПАКОВКА КАНАТОВ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jql4uzqxdulnh3kglakm8xok2tlmw4ag",
+                "position": {
+                    "x": 1870.0,
+                    "y": 2100.0,
+                    "z": 1440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 61,
+                "info": {
+                    "color": "#6cfcd6",
+                    "title": "УПАКОВКА КОРОБОВ ШАХТНОЙ РАЗВОДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yqswvivoktoltehlthchhp74ng8x5vwx",
+                "position": {
+                    "x": 2780.0,
+                    "y": 2080.0,
+                    "z": 1640.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#c15d36",
+                    "title": "УПАКОВКА КОНТРОЛЛЕРА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7vorgpb7ksyx8xelq9fwlvj0v6i7uge4",
+                "position": {
+                    "x": 580.0,
+                    "y": 1340.0,
+                    "z": 1225.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#c004e5",
+                    "title": "УПАКОВКА ДВЕРЕЙ ШАХТЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 1150.0,
+                    "height": 1000.0,
+                    "length": 2100.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ohxvwyfo3esjw27yqlqm1e4bb8u0zjnr",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 2100.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#c004e5",
+                    "title": "УПАКОВКА ДВЕРЕЙ ШАХТЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 1150.0,
+                    "height": 1000.0,
+                    "length": 2100.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ohxvwyfo3esjw27yqlqm1e4bb8u0zjnr",
+                "position": {
+                    "x": 1000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 2100.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#c004e5",
+                    "title": "УПАКОВКА ДВЕРЕЙ ШАХТЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 1150.0,
+                    "height": 1000.0,
+                    "length": 2100.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ohxvwyfo3esjw27yqlqm1e4bb8u0zjnr",
+                "position": {
+                    "x": 2000.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1150.0,
+                    "height": 1000.0,
+                    "length": 2100.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 72,
+                "info": {
+                    "color": "#e8b358",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №1",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 25.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 450.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2ivbkjcvgcnsh1rpbsq8kkbdlweklaak",
+                "position": {
+                    "x": 2000.0,
+                    "y": 1000.0,
+                    "z": 700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 450.0,
+                    "height": 400.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 73,
+                "info": {
+                    "color": "#e8b358",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №1",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 25.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 450.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2ivbkjcvgcnsh1rpbsq8kkbdlweklaak",
+                "position": {
+                    "x": 2000.0,
+                    "y": 1400.0,
+                    "z": 700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 450.0,
+                    "height": 400.0,
+                    "length": 400.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 56,
+                "info": {
+                    "color": "#b55405",
+                    "title": "УПАКОВКА ОСВЕЩЕНИЯ ШАХТЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 460.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dsh5m0zfw2opapyh3uvfg6sywgiuu72b",
+                "position": {
+                    "x": 0.0,
+                    "y": 2100.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 460.0,
+                    "length": 1420.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#4c16ba",
+                    "title": "УПАКОВКА КРОНШТЕЙНОВ НАПРАВЛЯЮЩИХ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 460.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gww0ngru8ehn9larui2ijr0kbyrrmhwq",
+                "position": {
+                    "x": 2470.0,
+                    "y": 1000.0,
+                    "z": 700.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 1290.0,
+                    "length": 530.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 67,
+                "info": {
+                    "color": "#cfef2d",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №2",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 70.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 400.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1kgcggtw0sjcpumdwq72u09fp87rctzd",
+                "position": {
+                    "x": 2000.0,
+                    "y": 1000.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 1000.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 68,
+                "info": {
+                    "color": "#cfef2d",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №2",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 70.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 400.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1kgcggtw0sjcpumdwq72u09fp87rctzd",
+                "position": {
+                    "x": 3000.0,
+                    "y": 1000.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 400.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#d19649",
+                    "title": "УПАКОВКА ПОДСТАВОК ПОД КАБИНУ И ПРОТИВОВЕС",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 460.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kmesuqysuobumh2ldmgpbulwo8j2z2nc",
+                "position": {
+                    "x": 3000.0,
+                    "y": 1400.0,
+                    "z": 10.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1290.0,
+                    "height": 460.0,
+                    "length": 660.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 55,
+                "info": {
+                    "color": "#b55405",
+                    "title": "УПАКОВКА ОСВЕЩЕНИЯ ШАХТЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 460.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dsh5m0zfw2opapyh3uvfg6sywgiuu72b",
+                "position": {
+                    "x": 0.0,
+                    "y": 2100.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 460.0,
+                    "length": 1420.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#1f9ee2",
+                    "title": "УПАКОВКА ПОДСТАВОК ПОД КАБИНУ И ПРОТИВОВЕС",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "k02hcwk2hsbseart1zbfsovgv3eh9qif",
+                "position": {
+                    "x": 1420.0,
+                    "y": 2100.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1290.0,
+                    "height": 530.0,
+                    "length": 660.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 49,
+                "info": {
+                    "color": "#13bbc4",
+                    "title": "УПАКОВКА КАНАТОВ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jql4uzqxdulnh3kglakm8xok2tlmw4ag",
+                "position": {
+                    "x": 2400.0,
+                    "y": 2000.0,
+                    "z": 100.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 64,
+                "info": {
+                    "color": "#7738ed",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №3",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 60.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dw6fgd0dr6ugxzewm2ulqujnxgrdzftq",
+                "position": {
+                    "x": 3000.0,
+                    "y": 1860.0,
+                    "z": 10.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1290.0,
+                    "height": 530.0,
+                    "length": 660.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 84,
+                "info": {
+                    "color": "#0eb567",
+                    "title": "УПАКОВКА КАРКАСА КАБИНЫ",
+                    "article": "",
+                    "group_id": "27jopdtfmdhvujqpllzlc4828hex0ytx",
+                    "group_title": "Группа 1"
+                },
+                "mass": 300.0,
+                "size": {
+                    "width": 1380.0,
+                    "height": 775.0,
+                    "length": 1480.0
+                },
+                "sort": 2,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "v0bbw0yohgiz9x6bnszs0cu8qigqfy6s",
+                "position": {
+                    "x": 4100.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1380.0,
+                    "height": 775.0,
+                    "length": 1480.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#140d70",
+                    "title": "УПАКОВКА СТОЯКОВ КАБИНЫ ОГРАЖДЕНИЯ ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 100.0,
+                    "height": 100.0,
+                    "length": 3000.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7cswu64gp6amtu5roqhzvcienetprpim",
+                "position": {
+                    "x": 4100.0,
+                    "y": 775.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 100.0,
+                    "height": 100.0,
+                    "length": 3000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 74,
+                "info": {
+                    "color": "#e8b358",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №1",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 25.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 450.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "2ivbkjcvgcnsh1rpbsq8kkbdlweklaak",
+                "position": {
+                    "x": 4980.0,
+                    "y": 1340.0,
+                    "z": 1640.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 450.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#dd5a65",
+                    "title": "УПАКОВКА ЛЕБЕДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 490.0,
+                "size": {
+                    "width": 1050.0,
+                    "height": 1200.0,
+                    "length": 870.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gfmcvtnneixa8oqih1jkuxkxcw3mwscg",
+                "position": {
+                    "x": 4100.0,
+                    "y": 775.0,
+                    "z": 330.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1050.0,
+                    "height": 870.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 58,
+                "info": {
+                    "color": "#cc7a1c",
+                    "title": "УПАКОВКА КОРОБОВ ШАХТНОЙ РАЗВОДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 160.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tlgo5t2utlpqtyb51irmotmgebyoqbfx",
+                "position": {
+                    "x": 4010.0,
+                    "y": 1645.0,
+                    "z": 990.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#d19649",
+                    "title": "УПАКОВКА ПОДСТАВОК ПОД КАБИНУ И ПРОТИВОВЕС",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 460.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kmesuqysuobumh2ldmgpbulwo8j2z2nc",
+                "position": {
+                    "x": 4010.0,
+                    "y": 1645.0,
+                    "z": 330.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 460.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 63,
+                "info": {
+                    "color": "#7738ed",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №3",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 60.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dw6fgd0dr6ugxzewm2ulqujnxgrdzftq",
+                "position": {
+                    "x": 4010.0,
+                    "y": 2105.0,
+                    "z": 330.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 530.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 77,
+                "info": {
+                    "color": "#f91b7f",
+                    "title": "УПАКОВКА ПАНЕЛИ COP",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 120.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zsftj52hiuiieu0irhagpfch4dz8fzyd",
+                "position": {
+                    "x": 5580.0,
+                    "y": 0.0,
+                    "z": 1495.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 545.0,
+                    "height": 660.0,
+                    "length": 2380.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#24a318",
+                    "title": "УПАКОВКА ЛЕСТНИЦЫ В ПРИЯМОК",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 285.0,
+                    "height": 30.0,
+                    "length": 2700.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "rlzbd3yl6marmyowctryo01qvgmyzubn",
+                "position": {
+                    "x": 5580.0,
+                    "y": 0.0,
+                    "z": 1465.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 30.0,
+                    "height": 285.0,
+                    "length": 2700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#24a318",
+                    "title": "УПАКОВКА ЛЕСТНИЦЫ В ПРИЯМОК",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 285.0,
+                    "height": 30.0,
+                    "length": 2700.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "rlzbd3yl6marmyowctryo01qvgmyzubn",
+                "position": {
+                    "x": 5580.0,
+                    "y": 0.0,
+                    "z": 1435.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 30.0,
+                    "height": 285.0,
+                    "length": 2700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#8ed10a",
+                    "title": "УПАКОВКА ЗЕРКАЛ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 1390.0,
+                    "height": 70.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tgxwnbeb2klv4jldmznwhjbzchkor9s2",
+                "position": {
+                    "x": 5580.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1390.0,
+                    "height": 70.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#8ed10a",
+                    "title": "УПАКОВКА ЗЕРКАЛ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 1390.0,
+                    "height": 70.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tgxwnbeb2klv4jldmznwhjbzchkor9s2",
+                "position": {
+                    "x": 5580.0,
+                    "y": 70.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1390.0,
+                    "height": 70.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#8ed10a",
+                    "title": "УПАКОВКА ЗЕРКАЛ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 1390.0,
+                    "height": 70.0,
+                    "length": 1200.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tgxwnbeb2klv4jldmznwhjbzchkor9s2",
+                "position": {
+                    "x": 5580.0,
+                    "y": 140.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1390.0,
+                    "height": 70.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#24a318",
+                    "title": "УПАКОВКА ЛЕСТНИЦЫ В ПРИЯМОК",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 11.0,
+                "size": {
+                    "width": 285.0,
+                    "height": 30.0,
+                    "length": 2700.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "rlzbd3yl6marmyowctryo01qvgmyzubn",
+                "position": {
+                    "x": 5580.0,
+                    "y": 285.0,
+                    "z": 1465.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 30.0,
+                    "height": 285.0,
+                    "length": 2700.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 82,
+                "info": {
+                    "color": "#c9a60a",
+                    "title": "УПАКОВКА БЫЛКИ ДВЕРЕЙ КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 490.0,
+                    "height": 210.0,
+                    "length": 2170.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "8g2pjryxgkqtgxzb4g19b2ciut7coizi",
+                "position": {
+                    "x": 5580.0,
+                    "y": 210.0,
+                    "z": 925.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 490.0,
+                    "height": 210.0,
+                    "length": 2170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#dd5a65",
+                    "title": "УПАКОВКА ЛЕБЕДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 490.0,
+                "size": {
+                    "width": 1050.0,
+                    "height": 1200.0,
+                    "length": 870.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gfmcvtnneixa8oqih1jkuxkxcw3mwscg",
+                "position": {
+                    "x": 5580.0,
+                    "y": 660.0,
+                    "z": 990.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 5,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1050.0,
+                    "height": 870.0,
+                    "length": 1200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#e23b1d",
+                    "title": "УПАКОВКА ПОДВЕСНОГО ПОТОЛКА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 1010.0,
+                    "height": 265.0,
+                    "length": 1170.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lzgkhgrjsqaglzrft9x5nx5xhj5xuitp",
+                "position": {
+                    "x": 5580.0,
+                    "y": 210.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 265.0,
+                    "height": 1010.0,
+                    "length": 1170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#d19649",
+                    "title": "УПАКОВКА ПОДСТАВОК ПОД КАБИНУ И ПРОТИВОВЕС",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 460.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kmesuqysuobumh2ldmgpbulwo8j2z2nc",
+                "position": {
+                    "x": 5490.0,
+                    "y": 1530.0,
+                    "z": 1380.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 460.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#2754c6",
+                    "title": "УПАКОВКА ГРУЗОВ ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1000.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 140.0,
+                    "length": 800.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "kqllbvczpj8tfvlm5rk1nd92r4jcsqs8",
+                "position": {
+                    "x": 6780.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 800.0,
+                    "height": 140.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#1fc605",
+                    "title": "УПАКОВКА ОГРАЖДЕНИЙ НА КРЫШЕ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 9.0,
+                "size": {
+                    "width": 60.0,
+                    "height": 745.0,
+                    "length": 870.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dbe5q26f7fm4cevqrdvhzkmlnhg53qom",
+                "position": {
+                    "x": 6780.0,
+                    "y": 140.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 745.0,
+                    "height": 60.0,
+                    "length": 870.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#93071a",
+                    "title": "УПАКОВКА ГРАНИТНОГО ПОЛА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1010.0,
+                    "height": 265.0,
+                    "length": 1170.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pki3rkbkqchbrbc7cmmtaixi0xk1lomv",
+                "position": {
+                    "x": 6780.0,
+                    "y": 660.0,
+                    "z": 1030.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1010.0,
+                    "height": 265.0,
+                    "length": 1170.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 80,
+                "info": {
+                    "color": "#d51eff",
+                    "title": "УПАКОВКА КУПЕ КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 280.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nedeylk3de3ucoubc8yv9e08v7q1esfr",
+                "position": {
+                    "x": 5580.0,
+                    "y": 210.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 545.0,
+                    "length": 2380.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#93071a",
+                    "title": "УПАКОВКА ГРАНИТНОГО ПОЛА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1010.0,
+                    "height": 265.0,
+                    "length": 1170.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pki3rkbkqchbrbc7cmmtaixi0xk1lomv",
+                "position": {
+                    "x": 6780.0,
+                    "y": 925.0,
+                    "z": 870.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1170.0,
+                    "height": 265.0,
+                    "length": 1010.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#c15d36",
+                    "title": "УПАКОВКА КОНТРОЛЛЕРА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "7vorgpb7ksyx8xelq9fwlvj0v6i7uge4",
+                "position": {
+                    "x": 5580.0,
+                    "y": 755.0,
+                    "z": 300.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 360.0,
+                    "height": 430.0,
+                    "length": 2080.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#798e02",
+                    "title": "УПАКОВКА НАПРАВЛЯЮЩИХ ПРОТИВОВЕСА И КАБИНЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 4000.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 5000.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nmz6mso1mz2xhcwehpxicj45ek2eotzb",
+                "position": {
+                    "x": 2000.0,
+                    "y": 1000.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 300.0,
+                    "height": 250.0,
+                    "length": 5000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#e23b1d",
+                    "title": "УПАКОВКА ПОДВЕСНОГО ПОТОЛКА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 1010.0,
+                    "height": 265.0,
+                    "length": 1170.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lzgkhgrjsqaglzrft9x5nx5xhj5xuitp",
+                "position": {
+                    "x": 6780.0,
+                    "y": 1190.0,
+                    "z": 870.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1170.0,
+                    "height": 265.0,
+                    "length": 1010.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#1f9ee2",
+                    "title": "УПАКОВКА ПОДСТАВОК ПОД КАБИНУ И ПРОТИВОВЕС",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 100.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "k02hcwk2hsbseart1zbfsovgv3eh9qif",
+                "position": {
+                    "x": 6780.0,
+                    "y": 1455.0,
+                    "z": 1380.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 530.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 62,
+                "info": {
+                    "color": "#6cfcd6",
+                    "title": "УПАКОВКА КОРОБОВ ШАХТНОЙ РАЗВОДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yqswvivoktoltehlthchhp74ng8x5vwx",
+                "position": {
+                    "x": 5490.0,
+                    "y": 1990.0,
+                    "z": 1640.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 60,
+                "info": {
+                    "color": "#6cfcd6",
+                    "title": "УПАКОВКА КОРОБОВ ШАХТНОЙ РАЗВОДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 2000.0
+                },
+                "sort": 1,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "yqswvivoktoltehlthchhp74ng8x5vwx",
+                "position": {
+                    "x": 5490.0,
+                    "y": 1530.0,
+                    "z": 980.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 400.0,
+                    "height": 400.0,
+                    "length": 2000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 59,
+                "info": {
+                    "color": "#cc7a1c",
+                    "title": "УПАКОВКА КОРОБОВ ШАХТНОЙ РАЗВОДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 160.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tlgo5t2utlpqtyb51irmotmgebyoqbfx",
+                "position": {
+                    "x": 5460.0,
+                    "y": 1220.0,
+                    "z": 395.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 51,
+                "info": {
+                    "color": "#2fd32a",
+                    "title": "УПАКОВКА ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 260.0,
+                    "length": 3200.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xy92ek15veicenod7ptccufs5pestyuf",
+                "position": {
+                    "x": 3800.0,
+                    "y": 1250.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 260.0,
+                    "height": 250.0,
+                    "length": 3200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#2fd32a",
+                    "title": "УПАКОВКА ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 260.0,
+                    "length": 3200.0
+                },
+                "sort": 1,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xy92ek15veicenod7ptccufs5pestyuf",
+                "position": {
+                    "x": 3800.0,
+                    "y": 1500.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 260.0,
+                    "height": 250.0,
+                    "length": 3200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#4c16ba",
+                    "title": "УПАКОВКА КРОНШТЕЙНОВ НАПРАВЛЯЮЩИХ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 460.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gww0ngru8ehn9larui2ijr0kbyrrmhwq",
+                "position": {
+                    "x": 5460.0,
+                    "y": 1880.0,
+                    "z": 395.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 530.0,
+                    "height": 460.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 53,
+                "info": {
+                    "color": "#2fd32a",
+                    "title": "УПАКОВКА ПРОТИВОВЕСА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 75.0,
+                "size": {
+                    "width": 250.0,
+                    "height": 260.0,
+                    "length": 3200.0
+                },
+                "sort": 1,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "xy92ek15veicenod7ptccufs5pestyuf",
+                "position": {
+                    "x": 3800.0,
+                    "y": 1750.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 260.0,
+                    "height": 250.0,
+                    "length": 3200.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#13bbc4",
+                    "title": "УПАКОВКА КАНАТОВ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 80.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "sort": 1,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "jql4uzqxdulnh3kglakm8xok2tlmw4ag",
+                "position": {
+                    "x": 7060.0,
+                    "y": 1185.0,
+                    "z": 60.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 500.0,
+                    "length": 600.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 54,
+                "info": {
+                    "color": "#b55405",
+                    "title": "УПАКОВКА ОСВЕЩЕНИЯ ШАХТЫ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 50.0,
+                "size": {
+                    "width": 660.0,
+                    "height": 460.0,
+                    "length": 1420.0
+                },
+                "sort": 1,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "dsh5m0zfw2opapyh3uvfg6sywgiuu72b",
+                "position": {
+                    "x": 8220.0,
+                    "y": 0.0,
+                    "z": 1580.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 1420.0,
+                    "length": 660.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#1baa29",
+                    "title": "УПАКОВКА КОМПЕНСИРУЮЩИХ ЦЕПЕЙ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 430.0,
+                    "length": 740.0
+                },
+                "sort": 1,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gk39rzg8o9mtvnncymmag95dxvutx82j",
+                "position": {
+                    "x": 8140.0,
+                    "y": 1420.0,
+                    "z": 1440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 430.0,
+                    "length": 740.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#1baa29",
+                    "title": "УПАКОВКА КОМПЕНСИРУЮЩИХ ЦЕПЕЙ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 600.0,
+                    "height": 430.0,
+                    "length": 740.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gk39rzg8o9mtvnncymmag95dxvutx82j",
+                "position": {
+                    "x": 8140.0,
+                    "y": 1850.0,
+                    "z": 1440.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 600.0,
+                    "height": 430.0,
+                    "length": 740.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 69,
+                "info": {
+                    "color": "#f26a30",
+                    "title": "УПАКОВКА КЛЕММНОЙ КОРОБКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 362.0,
+                    "height": 320.0,
+                    "length": 616.0
+                },
+                "sort": 1,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ytsxpe4a1luw1y4uugheajoy2vqunamb",
+                "position": {
+                    "x": 8518.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 320.0,
+                    "height": 616.0,
+                    "length": 362.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 71,
+                "info": {
+                    "color": "#f26a30",
+                    "title": "УПАКОВКА КЛЕММНОЙ КОРОБКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 20.0,
+                "size": {
+                    "width": 362.0,
+                    "height": 320.0,
+                    "length": 616.0
+                },
+                "sort": 1,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ytsxpe4a1luw1y4uugheajoy2vqunamb",
+                "position": {
+                    "x": 8264.0,
+                    "y": 616.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 362.0,
+                    "height": 320.0,
+                    "length": 616.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#dd5a65",
+                    "title": "УПАКОВКА ЛЕБЕДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 490.0,
+                "size": {
+                    "width": 1050.0,
+                    "height": 1200.0,
+                    "length": 870.0
+                },
+                "sort": 1,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gfmcvtnneixa8oqih1jkuxkxcw3mwscg",
+                "position": {
+                    "x": 8010.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 3,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1200.0,
+                    "height": 1050.0,
+                    "length": 870.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#93071a",
+                    "title": "УПАКОВКА ГРАНИТНОГО ПОЛА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 1.0,
+                "size": {
+                    "width": 1010.0,
+                    "height": 265.0,
+                    "length": 1170.0
+                },
+                "sort": 1,
+                "step": 51,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "pki3rkbkqchbrbc7cmmtaixi0xk1lomv",
+                "position": {
+                    "x": 7870.0,
+                    "y": 1050.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1170.0,
+                    "height": 265.0,
+                    "length": 1010.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#e23b1d",
+                    "title": "УПАКОВКА ПОДВЕСНОГО ПОТОЛКА",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 30.0,
+                "size": {
+                    "width": 1010.0,
+                    "height": 265.0,
+                    "length": 1170.0
+                },
+                "sort": 1,
+                "step": 52,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "lzgkhgrjsqaglzrft9x5nx5xhj5xuitp",
+                "position": {
+                    "x": 7870.0,
+                    "y": 1315.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1170.0,
+                    "height": 265.0,
+                    "length": 1010.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 66,
+                "info": {
+                    "color": "#cfef2d",
+                    "title": "УПАКОВКА ЭЛЕКТРОПРОВОДКИ №2",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 70.0,
+                "size": {
+                    "width": 1000.0,
+                    "height": 400.0,
+                    "length": 1000.0
+                },
+                "sort": 1,
+                "step": 53,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "1kgcggtw0sjcpumdwq72u09fp87rctzd",
+                "position": {
+                    "x": 7880.0,
+                    "y": 1580.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1000.0,
+                    "height": 400.0,
+                    "length": 1000.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#4c16ba",
+                    "title": "УПАКОВКА КРОНШТЕЙНОВ НАПРАВЛЯЮЩИХ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 200.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 460.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 54,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "gww0ngru8ehn9larui2ijr0kbyrrmhwq",
+                "position": {
+                    "x": 7590.0,
+                    "y": 1980.0,
+                    "z": 660.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 530.0,
+                    "height": 460.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 57,
+                "info": {
+                    "color": "#cc7a1c",
+                    "title": "УПАКОВКА КОРОБОВ ШАХТНОЙ РАЗВОДКИ",
+                    "article": "",
+                    "group_id": "1frmxnddqvmuvn5zt23inw4cikc0ose1",
+                    "group_title": "Группа 2"
+                },
+                "mass": 160.0,
+                "size": {
+                    "width": 530.0,
+                    "height": 660.0,
+                    "length": 1290.0
+                },
+                "sort": 1,
+                "step": 55,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "tlgo5t2utlpqtyb51irmotmgebyoqbfx",
+                "position": {
+                    "x": 7590.0,
+                    "y": 1980.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 660.0,
+                    "height": 530.0,
+                    "length": 1290.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 274,
+            "info": {
+                "uid": "274_0",
+                "sort": 0,
+                "title": "Полуприцеп 3"
+            },
+            "mass": 8793.0,
+            "size": {
+                "width": 2040.0,
+                "height": 2679.0,
+                "length": 9560.0
+            },
+            "type": "truck",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 1660.0,
+                    "max_load": 9375.0,
+                    "default_load": 2325.0,
+                    "calculated_load": 9178.21699
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 1360.0,
+                    "max_load": 9375.0,
+                    "default_load": 2325.0,
+                    "calculated_load": 9178.21699
+                },
+                {
+                    "title": "Ось 3",
+                    "distance": 1360.0,
+                    "max_load": 9375.0,
+                    "default_load": 2325.0,
+                    "calculated_load": 9178.21699
+                }
+            ],
+            "hitch": {
+                "title": "",
+                "distance": 4500.0,
+                "max_load": 9375.0,
+                "default_load": 2325.0,
+                "calculated_load": 4133.34903
+            },
+            "tractor": {
+                "mass": 4932.0,
+                "axles": [
+                    {
+                        "title": "Ось 1",
+                        "distance": 1000.0,
+                        "max_load": 7300.0,
+                        "default_load": 2250.0,
+                        "calculated_load": 2913.26989
+                    },
+                    {
+                        "title": "Ось 2",
+                        "distance": 2200.0,
+                        "max_load": 7300.0,
+                        "default_load": 2250.0,
+                        "calculated_load": 2822.53957
+                    },
+                    {
+                        "title": "Ось 3",
+                        "distance": 1380.0,
+                        "max_load": 7300.0,
+                        "default_load": 2250.0,
+                        "calculated_load": 2822.53957
+                    }
+                ],
+                "length": 7110.0,
+                "hitch_distance": 1060.0
+            },
+            "full_length": 9560.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 340.0,
+                "height_top": 5.0,
+                "length_end": 340.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2040.0,
+                "height": 2674.0,
+                "length": 8880.0
+            },
+            "calculation_info": {
+                "step_count": 55,
+                "cargos_mass": 22.368,
+                "load_volume": 48.4400448,
+                "cargos_volume": 35.79584,
+                "count_cargoes": 85,
+                "load_capacity": 28.2,
+                "loading_height": 2.635,
+                "density_percent": 74.99093,
+                "remaining_volume": 12.64421,
+                "void_space_percent": 26.1028,
+                "filling_space_percent": 73.8972
+            },
+            "carrying_capacity": 28200.0,
+            "real_center_of_gravity": [
+                4145.3002056509295,
+                1087.4378576537913,
+                1160.5893463876964
+            ],
+            "ideal_center_of_gravity": [
+                4440.0,
+                0.0,
+                1020.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingTruck PackingTwoBoxesInLayer",
+        "calculation_id": 17170,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [
+            "ERROR_CONTAINER_AXLES_DEFAULT_LOAD_SUM",
+            "ERROR_CONTAINER_AXLES_LOAD_SUM"
+        ],
+        "is_packed_same_boxes": false
+    }
+}

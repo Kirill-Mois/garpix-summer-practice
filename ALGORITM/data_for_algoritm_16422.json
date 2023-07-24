@@ -1,0 +1,1568 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575,
+                    "height": 115,
+                    "length": 1530
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 20,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415,
+                    "height": 130,
+                    "length": 435
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 17,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "stacking": true,
+                "turnover": false,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 436,
+            "info": {
+                "uid": "436_0",
+                "sort": 0,
+                "title": "Газель NEXT A21R32"
+            },
+            "mass": 2310,
+            "size": {
+                "width": 2068,
+                "height": 2110,
+                "length": 4210
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 875,
+                    "max_load": 1550,
+                    "default_load": 1160
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 3175,
+                    "max_load": 1950,
+                    "default_load": 1150
+                }
+            ],
+            "title": "Газель NEXT A21R32",
+            "full_length": 6709,
+            "indentation": {
+                "width": 45,
+                "height": 0,
+                "length": 21,
+                "height_top": 10,
+                "length_end": 21,
+                "width_right": 45
+            },
+            "loading_size": {
+                "width": 1978,
+                "height": 2100,
+                "length": 4168
+            },
+            "carrying_capacity": 1500
+        },
+        "calculation_id": "16422"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 23,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1245.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 830.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 415.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 0.0,
+                    "y": 130.0,
+                    "z": 1245.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 0.0,
+                    "y": 130.0,
+                    "z": 830.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 0.0,
+                    "y": 130.0,
+                    "z": 415.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 0.0,
+                    "y": 130.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 435.0,
+                    "y": 0.0,
+                    "z": 1245.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 435.0,
+                    "y": 0.0,
+                    "z": 830.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 435.0,
+                    "y": 0.0,
+                    "z": 415.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 435.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 435.0,
+                    "y": 130.0,
+                    "z": 1245.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 435.0,
+                    "y": 130.0,
+                    "z": 830.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 435.0,
+                    "y": 130.0,
+                    "z": 415.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 435.0,
+                    "y": 130.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 260.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 4,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 375.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 490.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 605.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 720.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 835.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 950.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 1065.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 1180.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 0.0,
+                    "y": 1295.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 870.0,
+                    "y": 0.0,
+                    "z": 435.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#d6096b",
+                    "title": "Тумба Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "2nezc4ldalf3jxuo5qckgqjv582qujfi",
+                    "group_title": "Группа 2"
+                },
+                "mass": 13.0,
+                "size": {
+                    "width": 415.0,
+                    "height": 130.0,
+                    "length": 435.0
+                },
+                "sort": 2,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "3pvm05u6bqkfhwh5jzynpmfoiypj9l9o",
+                "position": {
+                    "x": 870.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 435.0,
+                    "height": 130.0,
+                    "length": 415.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 870.0,
+                    "y": 115.0,
+                    "z": 435.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 870.0,
+                    "y": 230.0,
+                    "z": 435.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 1445.0,
+                    "y": 0.0,
+                    "z": 435.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 1445.0,
+                    "y": 115.0,
+                    "z": 435.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "position": {
+                    "x": 1445.0,
+                    "y": 230.0,
+                    "z": 435.0
+                },
+                "stacking": true,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1530.0,
+                    "height": 115.0,
+                    "length": 575.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 436,
+            "info": {
+                "uid": "436_0",
+                "sort": 0,
+                "title": "Газель NEXT A21R32"
+            },
+            "mass": 2310.0,
+            "size": {
+                "width": 2068.0,
+                "height": 2110.0,
+                "length": 4210.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 875.0,
+                    "max_load": 1550.0,
+                    "default_load": 1160.0,
+                    "calculated_load": 1472.22346
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 3175.0,
+                    "max_load": 1950.0,
+                    "default_load": 1150.0,
+                    "calculated_load": 1938.77654
+                }
+            ],
+            "full_length": 4210.0,
+            "indentation": {
+                "width": 45.0,
+                "height": 0.0,
+                "length": 21.0,
+                "height_top": 10.0,
+                "length_end": 21.0,
+                "width_right": 45.0
+            },
+            "loading_size": {
+                "width": 1978.0,
+                "height": 2100.0,
+                "length": 4168.0
+            },
+            "calculation_info": {
+                "step_count": 33,
+                "cargos_mass": 1.101,
+                "load_volume": 17.3130384,
+                "cargos_volume": 2.0177,
+                "count_cargoes": 33,
+                "load_capacity": 1.5,
+                "loading_height": 1.41,
+                "density_percent": 36.05152,
+                "remaining_volume": 15.29534,
+                "void_space_percent": 88.34578,
+                "filling_space_percent": 11.65422
+            },
+            "carrying_capacity": 1500.0,
+            "real_center_of_gravity": [
+                671.6280653950955,
+                494.1507720254314,
+                901.1966394187102
+            ],
+            "ideal_center_of_gravity": [
+                2084.0,
+                0.0,
+                989.0
+            ]
+        },
+        "cargo_groups": [
+            {
+                "info": {
+                    "color": "#08d672",
+                    "title": "Комод Олаф дуб сандал камень серый",
+                    "article": "",
+                    "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                    "group_title": "Группа 1"
+                },
+                "mass": 55.0,
+                "size": {
+                    "width": 575.0,
+                    "height": 115.0,
+                    "length": 1530.0
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 4.0,
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                "stacking": true,
+                "turnover": false,
+                "stacking_limit": 0.0,
+                "prepare_last_result": "success"
+            }
+        ],
+        "packing_type": "PackingBigBlocks",
+        "calculation_id": 16422,
+        "invalid_errors": [],
+        "unpacked_errors": [
+            {
+                "key": 0,
+                "name": "success",
+                "boxes": [
+                    {
+                        "id": "zuicjlukulfwlipqkzoulbkbltzwzyim",
+                        "info": {
+                            "color": "#08d672",
+                            "title": "Комод Олаф дуб сандал камень серый",
+                            "article": "",
+                            "group_id": "1ljabdmsqeeuuli0wtvcrwosx6lavwon",
+                            "group_title": "Группа 1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

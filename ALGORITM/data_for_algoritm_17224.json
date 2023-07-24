@@ -1,0 +1,315 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#1eb9e1",
+                    "title": "1",
+                    "article": "",
+                    "group_id": "1vfkfqbvzylh23f7qkrywsn0frqeqzgd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2670.0,
+                "size": {
+                    "width": 1050,
+                    "height": 1188,
+                    "length": 2052
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "nnozwc0hg3eqlexbw70npnty6sw0iflu",
+                "stacking": false,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#96dcbd",
+                    "title": "2",
+                    "article": "",
+                    "group_id": "1vfkfqbvzylh23f7qkrywsn0frqeqzgd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 900,
+                    "height": 1895,
+                    "length": 2250
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "ycnsctwrwdgydfwpga0lvqyyuv1bzic7",
+                "stacking": false,
+                "turnover": false,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#a54203",
+                    "title": "3",
+                    "article": "",
+                    "group_id": "1vfkfqbvzylh23f7qkrywsn0frqeqzgd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1016.0,
+                "size": {
+                    "width": 1500,
+                    "height": 1200,
+                    "length": 3540
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "orsvu68sgplh6tmarzy8jcmceo01g4va",
+                "stacking": false,
+                "turnover": false,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 306,
+            "info": {
+                "uid": "306_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370,
+            "size": {
+                "width": 2438,
+                "height": 2591,
+                "length": 6058
+            },
+            "type": "container",
+            "axles": [],
+            "title": "20' DC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2393,
+                "length": 5898
+            },
+            "carrying_capacity": 28335,
+            "last_changed_user_id": null
+        },
+        "calculation_id": "17224"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 1,
+                "info": {
+                    "color": "#96dcbd",
+                    "title": "2",
+                    "article": "",
+                    "group_id": "1vfkfqbvzylh23f7qkrywsn0frqeqzgd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2034.0,
+                "size": {
+                    "width": 900.0,
+                    "height": 1895.0,
+                    "length": 2250.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "ycnsctwrwdgydfwpga0lvqyyuv1bzic7",
+                "position": {
+                    "x": 408.0,
+                    "y": 0.0,
+                    "z": 102.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2250.0,
+                    "height": 1895.0,
+                    "length": 900.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#1eb9e1",
+                    "title": "1",
+                    "article": "",
+                    "group_id": "1vfkfqbvzylh23f7qkrywsn0frqeqzgd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 2670.0,
+                "size": {
+                    "width": 1050.0,
+                    "height": 1188.0,
+                    "length": 2052.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "nnozwc0hg3eqlexbw70npnty6sw0iflu",
+                "position": {
+                    "x": 1308.0,
+                    "y": 0.0,
+                    "z": 102.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 1,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 2052.0,
+                    "height": 1188.0,
+                    "length": 1050.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#a54203",
+                    "title": "3",
+                    "article": "",
+                    "group_id": "1vfkfqbvzylh23f7qkrywsn0frqeqzgd",
+                    "group_title": "Группа 1"
+                },
+                "mass": 1016.0,
+                "size": {
+                    "width": 1500.0,
+                    "height": 1200.0,
+                    "length": 3540.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "orsvu68sgplh6tmarzy8jcmceo01g4va",
+                "position": {
+                    "x": 2358.0,
+                    "y": 0.0,
+                    "z": 102.0
+                },
+                "stacking": false,
+                "turnover": false,
+                "rotation_state": 0,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1500.0,
+                    "height": 1200.0,
+                    "length": 3540.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 306,
+            "info": {
+                "uid": "306_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2591.0,
+                "length": 6058.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2393.0,
+                "length": 5898.0
+            },
+            "calculation_info": {
+                "step_count": 3,
+                "cargos_mass": 5.72,
+                "load_volume": 33.195925728,
+                "cargos_volume": 12.76904,
+                "count_cargoes": 3,
+                "load_capacity": 28.335,
+                "loading_height": 1.895,
+                "density_percent": 54.54993,
+                "remaining_volume": 20.42689,
+                "void_space_percent": 61.53432,
+                "filling_space_percent": 38.46568
+            },
+            "carrying_capacity": 28335.0,
+            "real_center_of_gravity": [
+                1893.938811188811,
+                720.7683566433567,
+                1114.18006993007
+            ],
+            "ideal_center_of_gravity": [
+                2949.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingEasyBlocks",
+        "calculation_id": 17224,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

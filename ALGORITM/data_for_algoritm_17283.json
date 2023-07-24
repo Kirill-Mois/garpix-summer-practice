@@ -1,0 +1,5032 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300,
+                    "height": 310,
+                    "length": 200
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 100,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563,
+                    "height": 460,
+                    "length": 360
+                },
+                "sort": 2,
+                "type": "box",
+                "count": 10,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            },
+            {
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290,
+                    "height": 330,
+                    "length": 200
+                },
+                "sort": 3,
+                "type": "box",
+                "count": 10,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 1146,
+            "info": {
+                "uid": "1146_0",
+                "sort": 0,
+                "title": "фургон создание"
+            },
+            "mass": 3000,
+            "size": {
+                "width": 2000,
+                "height": 3000,
+                "length": 4000
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 500,
+                    "max_load": 10000,
+                    "default_load": 1500
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 2000,
+                    "max_load": 10000,
+                    "default_load": 1500
+                }
+            ],
+            "title": "фургон создание",
+            "full_length": 4000,
+            "indentation": {
+                "width": 0,
+                "height": 0,
+                "length": 0,
+                "height_top": 0,
+                "length_end": 0,
+                "width_right": 0
+            },
+            "loading_size": {
+                "width": 2000,
+                "height": 3000,
+                "length": 4000
+            },
+            "carrying_capacity": 20000,
+            "last_changed_user_id": 1666
+        },
+        "calculation_id": "17283"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 4,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1650.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 3,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1450.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 2,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 117,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 2,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 87,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 300.0,
+                    "z": 1650.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 86,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 3,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 300.0,
+                    "z": 1450.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 85,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 300.0,
+                    "z": 1250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 7,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 4,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 0.0,
+                    "z": 1650.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 6,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 0.0,
+                    "z": 1450.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 5,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 5,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 0.0,
+                    "z": 1250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 118,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 290.0,
+                    "y": 0.0,
+                    "z": 920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 57,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 6,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 200.0,
+                    "z": 920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 92,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 300.0,
+                    "z": 1650.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 91,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 7,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 300.0,
+                    "z": 1450.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 90,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 300.0,
+                    "z": 1250.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 119,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 8,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 580.0,
+                    "y": 0.0,
+                    "z": 920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 58,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 200.0,
+                    "z": 920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 107,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 9,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 100,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 62,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 10,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 360.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 61,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 360.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 60,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 11,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 59,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 0.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 18,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 12,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 870.0,
+                    "y": 0.0,
+                    "z": 1720.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 15,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 870.0,
+                    "y": 0.0,
+                    "z": 1520.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 12,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 13,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 870.0,
+                    "y": 0.0,
+                    "z": 1320.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 8,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 870.0,
+                    "y": 0.0,
+                    "z": 1120.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 0,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 14,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 870.0,
+                    "y": 0.0,
+                    "z": 920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 108,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 563.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 66,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 15,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 360.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 70,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 620.0,
+                    "y": 360.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 101,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 16,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 563.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 65,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 360.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 69,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 17,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 620.0,
+                    "y": 360.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 64,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 68,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 18,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 620.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 63,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 310.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 67,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 19,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 620.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 19,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1180.0,
+                    "y": 0.0,
+                    "z": 1720.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 16,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 20,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1180.0,
+                    "y": 0.0,
+                    "z": 1520.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 13,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1180.0,
+                    "y": 0.0,
+                    "z": 1320.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 9,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 21,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1180.0,
+                    "y": 0.0,
+                    "z": 1120.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 1,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1180.0,
+                    "y": 0.0,
+                    "z": 920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 20,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 22,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1490.0,
+                    "y": 0.0,
+                    "z": 1720.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 17,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1490.0,
+                    "y": 0.0,
+                    "z": 1520.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 14,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 23,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1490.0,
+                    "y": 0.0,
+                    "z": 1320.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 11,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1490.0,
+                    "y": 0.0,
+                    "z": 1120.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 10,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 24,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1490.0,
+                    "y": 0.0,
+                    "z": 920.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 109,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 1126.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 102,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 25,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 1126.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 74,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 930.0,
+                    "y": 360.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 78,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 26,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1240.0,
+                    "y": 360.0,
+                    "z": 600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 73,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 930.0,
+                    "y": 360.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 77,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 27,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1240.0,
+                    "y": 360.0,
+                    "z": 400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 72,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 930.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 76,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 28,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1240.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 71,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 930.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 75,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 29,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1240.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 110,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 1689.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 21,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 30,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2000.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 27,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2000.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 33,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 31,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2000.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 39,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2000.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 45,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 32,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2000.0,
+                    "y": 0.0,
+                    "z": 1000.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 51,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2000.0,
+                    "y": 0.0,
+                    "z": 800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 111,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 33,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 1979.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 95,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1689.0,
+                    "y": 200.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 22,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 34,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2310.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 28,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2310.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 34,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 35,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2310.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 40,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2310.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 46,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 36,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2310.0,
+                    "y": 0.0,
+                    "z": 1000.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 52,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2310.0,
+                    "y": 0.0,
+                    "z": 800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 112,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 37,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 2269.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 96,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1999.0,
+                    "y": 200.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 103,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 38,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 1689.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 80,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1550.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 82,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 39,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1860.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 79,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1550.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 81,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 40,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 1860.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 23,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2620.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 29,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 41,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2620.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 35,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2620.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 41,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 42,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2620.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 47,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2620.0,
+                    "y": 0.0,
+                    "z": 1000.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 53,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 43,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2620.0,
+                    "y": 0.0,
+                    "z": 800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 113,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 2559.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 97,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 44,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2309.0,
+                    "y": 200.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 104,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 2252.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 84,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 45,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2170.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 89,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2480.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 83,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 46,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2170.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 88,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2480.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 24,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 47,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2930.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 30,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2930.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 36,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 48,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2930.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 42,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2930.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 48,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 49,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2930.0,
+                    "y": 0.0,
+                    "z": 1000.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 54,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2930.0,
+                    "y": 0.0,
+                    "z": 800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 114,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 50,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 2849.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 25,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 51,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3240.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 31,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 51,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3240.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 37,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 52,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3240.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 43,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 52,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3240.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 49,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 53,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3240.0,
+                    "y": 0.0,
+                    "z": 1000.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 55,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 53,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3240.0,
+                    "y": 0.0,
+                    "z": 800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 115,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 54,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 3139.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 105,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 54,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 2815.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 94,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 55,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2790.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 93,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 55,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 2790.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 26,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 56,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3550.0,
+                    "y": 0.0,
+                    "z": 1800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 32,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 56,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3550.0,
+                    "y": 0.0,
+                    "z": 1600.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 38,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 57,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3550.0,
+                    "y": 0.0,
+                    "z": 1400.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 44,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 57,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3550.0,
+                    "y": 0.0,
+                    "z": 1200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 50,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 58,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3550.0,
+                    "y": 0.0,
+                    "z": 1000.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 56,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 58,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3550.0,
+                    "y": 0.0,
+                    "z": 800.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 116,
+                "info": {
+                    "color": "#61d85c",
+                    "title": "ЛИДСКИЙ Квас ХЛЕБНЫЙ ПЭТ 1.5л",
+                    "article": "8D8D8D",
+                    "group_id": "3gsxoayib7549hqikw7hni7fhlerrtyj",
+                    "group_title": "Группа 2"
+                },
+                "mass": 5.0,
+                "size": {
+                    "width": 290.0,
+                    "height": 330.0,
+                    "length": 200.0
+                },
+                "sort": 3,
+                "step": 59,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "uzhw96kbdfrye70xkhrijcqebsxaxmyx",
+                "position": {
+                    "x": 3429.0,
+                    "y": 0.0,
+                    "z": 460.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 330.0,
+                    "height": 200.0,
+                    "length": 290.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 106,
+                "info": {
+                    "color": "#501d98",
+                    "title": "ШИШКИН ЛЕС Вода питьевая 19л",
+                    "article": "OPJJK",
+                    "group_id": "23oxlj5b2ku0lg3p1khtp1q2hbcvll18",
+                    "group_title": "Группа 1"
+                },
+                "mass": 19.0,
+                "size": {
+                    "width": 563.0,
+                    "height": 460.0,
+                    "length": 360.0
+                },
+                "sort": 2,
+                "step": 59,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "l8fk5pz65bf2acqn6agi9xrknduorgh2",
+                "position": {
+                    "x": 3378.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 460.0,
+                    "height": 360.0,
+                    "length": 563.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 99,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 60,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3100.0,
+                    "y": 360.0,
+                    "z": 200.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            },
+            {
+                "id": 98,
+                "info": {
+                    "color": "#637a69",
+                    "title": "Вода АРКТИК пит.прир.н.газ.  2л",
+                    "article": "LK46",
+                    "group_id": "1zpxcsnw8updvslpbd055nijznutobe2",
+                    "group_title": "Группа 3"
+                },
+                "mass": 2.0,
+                "size": {
+                    "width": 300.0,
+                    "height": 310.0,
+                    "length": 200.0
+                },
+                "sort": 1,
+                "step": 60,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "od2thiwexgz53qwghg3uoekqlcscr8iz",
+                "position": {
+                    "x": 3100.0,
+                    "y": 360.0,
+                    "z": 0.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 2,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 200.0,
+                    "height": 300.0,
+                    "length": 310.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 1146,
+            "info": {
+                "uid": "1146_0",
+                "sort": 0,
+                "title": "фургон создание"
+            },
+            "mass": 3000.0,
+            "size": {
+                "width": 2000.0,
+                "height": 3000.0,
+                "length": 4000.0
+            },
+            "type": "van",
+            "axles": [
+                {
+                    "title": "Ось 1",
+                    "distance": 500.0,
+                    "max_load": 10000.0,
+                    "default_load": 1500.0,
+                    "calculated_load": 1662.744
+                },
+                {
+                    "title": "Ось 2",
+                    "distance": 2000.0,
+                    "max_load": 10000.0,
+                    "default_load": 1500.0,
+                    "calculated_load": 1777.256
+                }
+            ],
+            "full_length": 4000.0,
+            "indentation": {
+                "width": 0.0,
+                "height": 0.0,
+                "length": 0.0,
+                "height_top": 0.0,
+                "length_end": 0.0,
+                "width_right": 0.0
+            },
+            "loading_size": {
+                "width": 2000.0,
+                "height": 3000.0,
+                "length": 4000.0
+            },
+            "calculation_info": {
+                "step_count": 60,
+                "cargos_mass": 0.44,
+                "load_volume": 24.0,
+                "cargos_volume": 2.98373,
+                "count_cargoes": 120,
+                "load_capacity": 20.0,
+                "loading_height": 0.66,
+                "density_percent": 57.356,
+                "remaining_volume": 21.01627,
+                "void_space_percent": 87.5678,
+                "filling_space_percent": 12.4322
+            },
+            "carrying_capacity": 20000.0,
+            "real_center_of_gravity": [
+                1760.2545454545455,
+                222.36363636363632,
+                720.2499999999999
+            ],
+            "ideal_center_of_gravity": [
+                2000.0,
+                0.0,
+                1000.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingBlocks",
+        "calculation_id": 17283,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}

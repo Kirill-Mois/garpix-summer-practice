@@ -1,0 +1,182 @@
+{
+    "data": {
+        "cargoes": [
+            {
+                "info": {
+                    "color": "#10a57d",
+                    "title": "Редуктор 13",
+                    "article": "",
+                    "group_id": "1mjrexwf48py2praancapnumtlkeabrq",
+                    "group_title": "Группа 1"
+                },
+                "mass": 13100.0,
+                "size": {
+                    "width": 1250,
+                    "height": 1900,
+                    "length": 4800
+                },
+                "sort": 1,
+                "type": "box",
+                "count": 1,
+                "margin": {
+                    "width": 0,
+                    "height": 0,
+                    "length": 0
+                },
+                "cargo_id": "5jbkwd13csbvug3w2l57jystev9jl0ij",
+                "stacking": true,
+                "turnover": true,
+                "margin_width": 0,
+                "margin_length": 0,
+                "stacking_limit": 0
+            }
+        ],
+        "settings": {
+            "rank": false,
+            "max_step": 100,
+            "min_step": 50,
+            "usersort": false,
+            "hardlimit": 1801,
+            "timelimit": 1800,
+            "step_scaling": 10
+        },
+        "put_boxes": [],
+        "initial_id": 0,
+        "cargo_space": {
+            "id": 264,
+            "info": {
+                "uid": "264_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370,
+            "size": {
+                "width": 2438,
+                "height": 2591,
+                "length": 6058
+            },
+            "type": "container",
+            "axles": [],
+            "title": "20' DC (valid)",
+            "indentation": {
+                "width": 43,
+                "height": 0,
+                "length": 80,
+                "height_top": 198,
+                "length_end": 80,
+                "width_right": 43
+            },
+            "loading_size": {
+                "width": 2352,
+                "height": 2393,
+                "length": 5898
+            },
+            "carrying_capacity": 28335
+        },
+        "calculation_id": "16357"
+    },
+    "data_result": {
+        "boxes": [
+            {
+                "id": 0,
+                "info": {
+                    "color": "#10a57d",
+                    "title": "Редуктор 13",
+                    "article": "",
+                    "group_id": "1mjrexwf48py2praancapnumtlkeabrq",
+                    "group_title": "Группа 1"
+                },
+                "mass": 13100.0,
+                "size": {
+                    "width": 1250.0,
+                    "height": 1900.0,
+                    "length": 4800.0
+                },
+                "sort": 1,
+                "step": 1,
+                "type": "box",
+                "margin": {
+                    "width": 0.0,
+                    "height": 0.0,
+                    "length": 0.0
+                },
+                "cargo_id": "5jbkwd13csbvug3w2l57jystev9jl0ij",
+                "position": {
+                    "x": 549.0,
+                    "y": 0.0,
+                    "z": 226.0
+                },
+                "stacking": true,
+                "turnover": true,
+                "rotation_state": 4,
+                "stacking_limit": 0.0,
+                "calculated_size": {
+                    "width": 1900.0,
+                    "height": 1250.0,
+                    "length": 4800.0
+                },
+                "virtual_positions": null
+            }
+        ],
+        "version": 5,
+        "cargo_space": {
+            "id": 264,
+            "info": {
+                "uid": "264_0",
+                "sort": 0,
+                "title": "20' DC (valid)"
+            },
+            "mass": 2370.0,
+            "size": {
+                "width": 2438.0,
+                "height": 2591.0,
+                "length": 6058.0
+            },
+            "type": "container",
+            "indentation": {
+                "width": 43.0,
+                "height": 0.0,
+                "length": 80.0,
+                "height_top": 198.0,
+                "length_end": 80.0,
+                "width_right": 43.0
+            },
+            "loading_size": {
+                "width": 2352.0,
+                "height": 2393.0,
+                "length": 5898.0
+            },
+            "calculation_info": {
+                "step_count": 1,
+                "cargos_mass": 13.1,
+                "load_volume": 33.195925728,
+                "cargos_volume": 11.4,
+                "count_cargoes": 1,
+                "load_capacity": 28.335,
+                "loading_height": 1.25,
+                "density_percent": 100.0,
+                "remaining_volume": 21.79593,
+                "void_space_percent": 65.65844,
+                "filling_space_percent": 34.34156
+            },
+            "carrying_capacity": 28335.0,
+            "real_center_of_gravity": [
+                2949.0,
+                625.0,
+                1176.0
+            ],
+            "ideal_center_of_gravity": [
+                2949.0,
+                0.0,
+                1176.0
+            ]
+        },
+        "cargo_groups": [],
+        "packing_type": "PackingLayers",
+        "calculation_id": 16357,
+        "invalid_errors": [],
+        "unpacked_errors": [],
+        "validate_errors": [],
+        "is_packed_same_boxes": false
+    }
+}
